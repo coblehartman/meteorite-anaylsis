@@ -1,4 +1,4 @@
-name,classification,mass (g),fall,year,latitude,longitude,meteor_first_word
+name,classification,mass,fall,year,latitude,longitude,meteor_first_word
 Aachen,L5,21.0,Fell,1880,50.775,6.08333,Aachen
 Aarhus,H6,720.0,Fell,1951,56.18333,10.23333,Aarhus
 Abee,EH4,107000.0,Fell,1952,54.21667,-113.0,Abee
@@ -2502,7 +2502,7 @@ Allan Hills A77136,H5,3.6,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77137,H5,5.13,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77138,H5,2.1,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77139,H5,65.9,Found,1977,-76.71667,159.66667,Allan
-Allan Hills A77140,L3.5,78.59999999999998,Found,1977,-76.71667,159.66667,Allan
+Allan Hills A77140,L3.5,78.6,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77141,H4,11.2,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77142,H5,3.1,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77143,H5,39.0,Found,1977,-76.71667,159.66667,Allan
@@ -2661,7 +2661,7 @@ Allan Hills A77299,H3.7,260.7,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77300,H5,234.5,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77301,L6,54.9,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77302,Eucrite-pmict,235.5,Found,1977,-76.71667,159.66667,Allan
-Allan Hills A77303,L3.5,78.59999999999998,Found,1977,-76.71667,159.66667,Allan
+Allan Hills A77303,L3.5,78.6,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77304,LL3.7,650.4,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77305,L6,6444.0,Found,1977,-76.71667,159.66667,Allan
 Allan Hills A77306,CM2,19.9,Found,1977,-76.71667,159.66667,Allan
@@ -3036,7 +3036,7 @@ Allan Hills A81024,H3.6,797.7,Found,1981,-76.67844,159.26614,Allan
 Allan Hills A81025,L3.6,379.0,Found,1981,-76.69389,159.37306,Allan
 Allan Hills A81026,L6,515.5,Found,1981,-76.68139,159.34667,Allan
 Allan Hills A81027,L6,3835.3,Found,1981,-76.69,159.26305,Allan
-Allan Hills A81028,L6,80.09999999999998,Found,1981,-76.69,159.26305,Allan
+Allan Hills A81028,L6,80.1,Found,1981,-76.69,159.26305,Allan
 Allan Hills A81029,L6,153.0,Found,1981,-76.68972,159.2775,Allan
 Allan Hills A81030,L3.4,1851.6,Found,1981,-76.70139,159.38861,Allan
 Allan Hills A81031,L3.4,1594.9,Found,1981,-76.705,159.37944,Allan
@@ -3293,7 +3293,7 @@ Allan Hills A81283,H5,0.6,Found,1981,-76.68917,159.36417,Allan
 Allan Hills A81284,H5,9.9,Found,1981,-76.68083,159.34444,Allan
 Allan Hills A81285,LL6,20.0,Found,1981,-76.65955,159.31255,Allan
 Allan Hills A81286,H5,27.9,Found,1981,-76.69,159.36,Allan
-Allan Hills A81287,H5,77.59999999999998,Found,1981,-76.7147,158.77672,Allan
+Allan Hills A81287,H5,77.6,Found,1981,-76.7147,158.77672,Allan
 Allan Hills A81288,H6,19.8,Found,1981,-76.69389,159.39417,Allan
 Allan Hills A81289,L6,4.2,Found,1981,-76.68861,159.36889,Allan
 Allan Hills A81290,H4,1.5,Found,1981,-76.68583,159.34305,Allan
@@ -3495,7 +3495,7 @@ Asuka 87191,H4,54.41,Found,1987,-72.0,26.0,Asuka
 Asuka 87192,H4,67.44,Found,1987,-72.0,26.0,Asuka
 Asuka 87193,H5,87.43,Found,1987,-72.0,26.0,Asuka
 Asuka 87194,LL4,26.26,Found,1987,-72.0,26.0,Asuka
-Asuka 87195,H5,73.09999999999998,Found,1987,-72.0,26.0,Asuka
+Asuka 87195,H5,73.1,Found,1987,-72.0,26.0,Asuka
 Asuka 87196,L6,168.06,Found,1987,-72.0,26.0,Asuka
 Asuka 87197,H4,124.99,Found,1987,-72.0,26.0,Asuka
 Asuka 87198,H4,34.36,Found,1987,-72.0,26.0,Asuka
@@ -3715,7 +3715,7 @@ Asuka 880718,CK5,30.18,Found,1988,-72.0,26.0,Asuka
 Asuka 880720,H5,44.29,Found,1988,-72.0,26.0,Asuka
 Asuka 880721,H5,113.2,Found,1988,-72.0,26.0,Asuka
 Asuka 880723,H5,16.58,Found,1988,-72.0,26.0,Asuka
-Asuka 880724,H3.8,78.23999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 880724,H3.8,78.24,Found,1988,-72.0,26.0,Asuka
 Asuka 880725,H6,48.72,Found,1988,-72.0,26.0,Asuka
 Asuka 880727,L6,11.06,Found,1988,-72.0,26.0,Asuka
 Asuka 880728,H4,13.01,Found,1988,-72.0,26.0,Asuka
@@ -3734,7 +3734,7 @@ Asuka 880741,H5,29.84,Found,1988,-72.0,26.0,Asuka
 Asuka 880742,H4,37.14,Found,1988,-72.0,26.0,Asuka
 Asuka 880743,H5,37.26,Found,1988,-72.0,26.0,Asuka
 Asuka 880744,H4,154.38,Found,1988,-72.0,26.0,Asuka
-Asuka 880745,H3,74.09999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 880745,H3,74.1,Found,1988,-72.0,26.0,Asuka
 Asuka 880746,H3.8,239.71,Found,1988,-72.0,26.0,Asuka
 Asuka 880747,LL6,246.41,Found,1988,-72.0,26.0,Asuka
 Asuka 880748,H6,23.49,Found,1988,-72.0,26.0,Asuka
@@ -3745,7 +3745,7 @@ Asuka 880754,H5,10.36,Found,1988,-72.0,26.0,Asuka
 Asuka 880755,H4,11.9,Found,1988,-72.0,26.0,Asuka
 Asuka 880756,H5,62.37,Found,1988,-72.0,26.0,Asuka
 Asuka 880757,H4,90.28,Found,1988,-72.0,26.0,Asuka
-Asuka 880758,H5,80.84999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 880758,H5,80.85,Found,1988,-72.0,26.0,Asuka
 Asuka 880759,H5,69.42,Found,1988,-72.0,26.0,Asuka
 Asuka 880760,H5,68.42,Found,1988,-72.0,26.0,Asuka
 Asuka 880761,Eucrite-mmict,65.44,Found,1988,-72.0,26.0,Asuka
@@ -3768,7 +3768,7 @@ Asuka 880777,H5,105.15,Found,1988,-72.0,26.0,Asuka
 Asuka 880778,H5,53.41,Found,1988,-72.0,26.0,Asuka
 Asuka 880779,H5,92.48,Found,1988,-72.0,26.0,Asuka
 Asuka 880780,LL5,85.55,Found,1988,-72.0,26.0,Asuka
-Asuka 880781,H4,81.84999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 880781,H4,81.85,Found,1988,-72.0,26.0,Asuka
 Asuka 880782,H4,58.28,Found,1988,-72.0,26.0,Asuka
 Asuka 880784,Ureilite,44.23,Found,1988,-72.0,26.0,Asuka
 Asuka 880785,Diogenite,52.73,Found,1988,-72.0,26.0,Asuka
@@ -3837,7 +3837,7 @@ Asuka 880850,LL6,56.75,Found,1988,-72.0,26.0,Asuka
 Asuka 880851,H4,40.91,Found,1988,-72.0,26.0,Asuka
 Asuka 880852,H,140.65,Found,1988,-72.0,26.0,Asuka
 Asuka 880853,H6,133.84,Found,1988,-72.0,26.0,Asuka
-Asuka 880854,H5,81.73999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 880854,H5,81.74,Found,1988,-72.0,26.0,Asuka
 Asuka 880855,H4,118.61,Found,1988,-72.0,26.0,Asuka
 Asuka 880856,L6,389.21,Found,1988,-72.0,26.0,Asuka
 Asuka 880857,L4,90.72,Found,1988,-72.0,26.0,Asuka
@@ -4005,7 +4005,7 @@ Asuka 881051,H4,54.8,Found,1988,-72.0,26.0,Asuka
 Asuka 881052,L6,130.07,Found,1988,-72.0,26.0,Asuka
 Asuka 881053,H4,45.06,Found,1988,-72.0,26.0,Asuka
 Asuka 881054,H6,65.84,Found,1988,-72.0,26.0,Asuka
-Asuka 881055,H4,74.56999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 881055,H4,74.57,Found,1988,-72.0,26.0,Asuka
 Asuka 881057,H5,182.01,Found,1988,-72.0,26.0,Asuka
 Asuka 881058,H4,393.47,Found,1988,-72.0,26.0,Asuka
 Asuka 881059,H4,962.5,Found,1988,-72.0,26.0,Asuka
@@ -4095,7 +4095,7 @@ Asuka 881150,L5,225.27,Found,1988,-72.0,26.0,Asuka
 Asuka 881151,H6,204.42,Found,1988,-72.0,26.0,Asuka
 Asuka 881153,H6,86.7,Found,1988,-72.0,26.0,Asuka
 Asuka 881154,Mesosiderite,688.13,Found,1988,-72.0,26.0,Asuka
-Asuka 881155,H6,74.09999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 881155,H6,74.1,Found,1988,-72.0,26.0,Asuka
 Asuka 881156,H6,63.46,Found,1988,-72.0,26.0,Asuka
 Asuka 881157,H4,387.61,Found,1988,-72.0,26.0,Asuka
 Asuka 881158,H4,45.18,Found,1988,-72.0,26.0,Asuka
@@ -4186,7 +4186,7 @@ Asuka 881253,H4,71.05,Found,1988,-72.0,26.0,Asuka
 Asuka 881254,H4,23.91,Found,1988,-72.0,26.0,Asuka
 Asuka 881255,H5,21.69,Found,1988,-72.0,26.0,Asuka
 Asuka 881256,CO3,46.77,Found,1988,-72.0,26.0,Asuka
-Asuka 881257,LL6,74.73999999999998,Found,1988,-72.0,26.0,Asuka
+Asuka 881257,LL6,74.74,Found,1988,-72.0,26.0,Asuka
 Asuka 881258,H3.0,274.09,Found,1988,-72.0,26.0,Asuka
 Asuka 881259,H4,79.16,Found,1988,-72.0,26.0,Asuka
 Asuka 881260,H4,49.68,Found,1988,-72.0,26.0,Asuka
@@ -6813,7 +6813,7 @@ Dhofar 1029,H5,2516.2,Found,2003,18.39818,54.07842,Dhofar
 Dhofar 103,L4,188.0,Found,1999,18.97917,54.4645,Dhofar
 Dhofar 1030,H5,281.1,Found,2003,19.33263,54.77822,Dhofar
 Dhofar 1031,L5,492.6,Found,2003,19.33503,54.79092,Dhofar
-Dhofar 1032,L4/5,81.09999999999998,Found,2003,18.4285,54.17082,Dhofar
+Dhofar 1032,L4/5,81.1,Found,2003,18.4285,54.17082,Dhofar
 Dhofar 1033,H6,67.8,Found,2003,18.73963,54.26533,Dhofar
 Dhofar 1034,L6,489.8,Found,2003,19.31025,54.75487,Dhofar
 Dhofar 1035,H(L)3,420.1,Found,2003,18.69942,54.2651,Dhofar
@@ -7596,7 +7596,7 @@ Dhofar 455,Howardite,63.0,Found,2001,19.01827,54.39877,Dhofar
 Dhofar 457,Lunar (anorth),99.5,Found,2001,18.24835,54.0016,Dhofar
 Dhofar 458,Lunar (anorth),36.7,Found,2001,18.24862,54.00242,Dhofar
 Dhofar 459,Lunar (anorth),31.5,Found,2001,18.24857,54.00337,Dhofar
-Dhofar 460,Lunar (anorth),73.09999999999998,Found,2001,18.24942,54.00727,Dhofar
+Dhofar 460,Lunar (anorth),73.1,Found,2001,18.24942,54.00727,Dhofar
 Dhofar 461,Lunar (anorth),33.7,Found,2001,18.2447,53.9978,Dhofar
 Dhofar 462,Lunar (anorth),44.7,Found,2001,18.24667,54.00188,Dhofar
 Dhofar 463,Lunar (anorth),24.3,Found,2001,18.2468,54.00242,Dhofar
@@ -8089,7 +8089,7 @@ Dominion Range 85505,LL5,31.4,Found,1985,-85.33333,166.5,Dominion
 Dominion Range 85506,LL5,58.8,Found,1985,-85.33333,166.5,Dominion
 Dominion Range 85507,H5,189.9,Found,1985,-85.33333,166.5,Dominion
 Dominion Range 85508,H6,14.0,Found,1985,-85.33333,166.5,Dominion
-Dominion Range 85509,L6,76.09999999999998,Found,1985,-85.33333,166.5,Dominion
+Dominion Range 85509,L6,76.1,Found,1985,-85.33333,166.5,Dominion
 Dominion Range 85510,L6,31.7,Found,1985,-85.33333,166.5,Dominion
 Donnybrook,Mesosiderite?,414.0,Found,1918,-33.61667,115.91667,Donnybrook
 Doolgunna,L,20.0,Found,1967,-25.93333,119.3,Doolgunna
@@ -8572,7 +8572,7 @@ Elephant Moraine 83401,LL6,111.7,Found,1983,-76.30694,157.18389,Elephant
 Elephant Moraine 83402,H5,50.3,Found,1983,-76.32778,157.23222,Elephant
 Elephant Moraine 83403,H5,11.7,Found,1983,-76.30195,157.27277,Elephant
 Elephant Moraine 84300,"Iron, IAB-ung",72.2,Found,1984,-76.32,157.2575,Elephant
-Elephant Moraine 84301,L6,75.09999999999998,Found,1984,-76.2875,157.22111,Elephant
+Elephant Moraine 84301,L6,75.1,Found,1984,-76.2875,157.22111,Elephant
 Elephant Moraine 84302,Acapulcoite/Lodranite,59.6,Found,1984,-76.27639,157.17611,Elephant
 Elephant Moraine 84303,H5,57.5,Found,1984,-76.30917,157.19083,Elephant
 Elephant Moraine 84304,L6,152.2,Found,1984,-76.31444,157.18528,Elephant
@@ -8676,7 +8676,7 @@ Elephant Moraine 87590,L6,69.0,Found,1987,-76.27234,156.48545,Elephant
 Elephant Moraine 87591,H6,19.6,Found,1987,-76.18333,157.16667,Elephant
 Elephant Moraine 87592,H6,89.7,Found,1987,-76.18333,157.16667,Elephant
 Elephant Moraine 87593,L6,40.2,Found,1987,-76.28274,157.1915,Elephant
-Elephant Moraine 87594,L6,79.09999999999998,Found,1987,-76.28328,156.48318,Elephant
+Elephant Moraine 87594,L6,79.1,Found,1987,-76.28328,156.48318,Elephant
 Elephant Moraine 87595,L5,19.4,Found,1987,-76.18333,157.16667,Elephant
 Elephant Moraine 87596,L6,90.0,Found,1987,-76.27292,156.50649,Elephant
 Elephant Moraine 87597,L6,9.0,Found,1987,-76.18333,157.16667,Elephant
@@ -8734,7 +8734,7 @@ Elephant Moraine 87648,L6,7.0,Found,1987,-76.27113,156.46678,Elephant
 Elephant Moraine 87649,L6,27.0,Found,1987,-76.26942,156.46357,Elephant
 Elephant Moraine 87650,L6,23.2,Found,1987,-76.27989,156.4458,Elephant
 Elephant Moraine 87651,L6,45.7,Found,1987,-76.28343,156.44407,Elephant
-Elephant Moraine 87652,L6,72.09999999999998,Found,1987,-76.28203,156.44323,Elephant
+Elephant Moraine 87652,L6,72.1,Found,1987,-76.28203,156.44323,Elephant
 Elephant Moraine 87653,L6,24.5,Found,1987,-76.28324,156.44473,Elephant
 Elephant Moraine 87654,H6,5.2,Found,1987,-76.27021,156.46392,Elephant
 Elephant Moraine 87655,L6,93.0,Found,1987,-76.18333,157.16667,Elephant
@@ -8926,7 +8926,7 @@ Elephant Moraine 87839,L6,12.1,Found,1987,-76.28442,156.44581,Elephant
 Elephant Moraine 87840,H5,81.7,Found,1987,-76.2786,157.22687,Elephant
 Elephant Moraine 87841,L6,18.6,Found,1987,-76.28326,156.44887,Elephant
 Elephant Moraine 87842,L6,29.8,Found,1987,-76.26907,156.50928,Elephant
-Elephant Moraine 87843,L6,78.59999999999998,Found,1987,-76.18333,157.16667,Elephant
+Elephant Moraine 87843,L6,78.6,Found,1987,-76.18333,157.16667,Elephant
 Elephant Moraine 87844,L6,35.9,Found,1987,-76.18333,157.16667,Elephant
 Elephant Moraine 87845,L6,15.1,Found,1987,-76.28477,156.45277,Elephant
 Elephant Moraine 87846,CR2,8.1,Found,1987,-76.05599,156.06713,Elephant
@@ -9094,7 +9094,7 @@ Elephant Moraine 90148,L6,66.9,Found,1990,-76.27774,156.52204,Elephant
 Elephant Moraine 90149,L6,175.4,Found,1990,-76.26985,156.49568,Elephant
 Elephant Moraine 90150,L6,36.2,Found,1990,-76.2873,156.47776,Elephant
 Elephant Moraine 90151,H6,17.9,Found,1990,-76.26864,156.5012,Elephant
-Elephant Moraine 90152,L6,76.59999999999998,Found,1990,-76.28226,156.51238,Elephant
+Elephant Moraine 90152,L6,76.6,Found,1990,-76.28226,156.51238,Elephant
 Elephant Moraine 90153,L6,15.6,Found,1990,-76.27951,156.50857,Elephant
 Elephant Moraine 90154,L6,18.1,Found,1990,-76.27392,156.50891,Elephant
 Elephant Moraine 90155,L6,26.2,Found,1990,-76.28327,156.48787,Elephant
@@ -9411,7 +9411,7 @@ Elephant Moraine 90467,L6,141.8,Found,1990,-76.27041,156.43293,Elephant
 Elephant Moraine 90468,L6,202.0,Found,1990,-76.26931,156.41114,Elephant
 Elephant Moraine 90469,H5,48.5,Found,1990,-76.27116,156.42168,Elephant
 Elephant Moraine 90470,L6,82.6,Found,1990,-76.26958,156.43206,Elephant
-Elephant Moraine 90471,L6,76.59999999999998,Found,1990,-76.27011,156.41713,Elephant
+Elephant Moraine 90471,L6,76.6,Found,1990,-76.27011,156.41713,Elephant
 Elephant Moraine 90472,L6,78.3,Found,1990,-76.27154,156.42026,Elephant
 Elephant Moraine 90473,L6,50.1,Found,1990,-76.27409,156.4311,Elephant
 Elephant Moraine 90474,L6,117.7,Found,1990,-76.26843,156.42926,Elephant
@@ -9612,7 +9612,7 @@ Elephant Moraine 90668,L6,18.8,Found,1990,-76.26636,156.43538,Elephant
 Elephant Moraine 90669,L6,2.9,Found,1990,-76.27986,156.43233,Elephant
 Elephant Moraine 90670,L6,43.4,Found,1990,-76.27974,156.4235,Elephant
 Elephant Moraine 90671,L5,35.2,Found,1990,-76.29473,156.365,Elephant
-Elephant Moraine 90672,L6,72.09999999999998,Found,1990,-76.28021,156.42418,Elephant
+Elephant Moraine 90672,L6,72.1,Found,1990,-76.28021,156.42418,Elephant
 Elephant Moraine 90673,L6,70.1,Found,1990,-76.26853,156.4523,Elephant
 Elephant Moraine 90674,L6,33.2,Found,1990,-76.27122,156.44624,Elephant
 Elephant Moraine 90675,L6,49.9,Found,1990,-76.28002,156.42285,Elephant
@@ -9994,9 +9994,9 @@ Elephant Moraine 92057,H5,52.6,Found,1992,-76.05532,156.03296,Elephant
 Elephant Moraine 92058,L6,85.6,Found,1992,-76.05727,156.31412,Elephant
 Elephant Moraine 92059,L6,79.5,Found,1992,-76.0233,155.72747,Elephant
 Elephant Moraine 92060,L6,49.1,Found,1992,-76.05945,155.8646,Elephant
-Elephant Moraine 92061,L5,79.09999999999998,Found,1992,-76.04893,156.42579,Elephant
+Elephant Moraine 92061,L5,79.1,Found,1992,-76.04893,156.42579,Elephant
 Elephant Moraine 92062,CR2,73.5,Found,1992,-76.06623,156.00851,Elephant
-Elephant Moraine 92063,EL6,74.59999999999998,Found,1992,-76.03049,155.79297,Elephant
+Elephant Moraine 92063,EL6,74.6,Found,1992,-76.03049,155.79297,Elephant
 Elephant Moraine 92064,H5,71.4,Found,1992,-76.05506,156.30897,Elephant
 Elephant Moraine 92065,CR2,46.7,Found,1992,-76.03829,156.02557,Elephant
 Elephant Moraine 92066,H5,65.3,Found,1992,-76.03686,156.20215,Elephant
@@ -11041,7 +11041,7 @@ Frontier Mountain 84034,H5,1.6,Found,1984,-72.95488,160.47328,Frontier
 Frontier Mountain 84035,H6,9.8,Found,1984,-72.95488,160.47328,Frontier
 Frontier Mountain 84036,H3,13.2,Found,1984,-72.95488,160.47328,Frontier
 Frontier Mountain 84037,H4,10.5,Found,1984,-72.95488,160.47328,Frontier
-Frontier Mountain 90001,H6,76.09999999999998,Found,1991,-72.95725,160.47038,Frontier
+Frontier Mountain 90001,H6,76.1,Found,1991,-72.95725,160.47038,Frontier
 Frontier Mountain 90002,H5/6,22.1,Found,1991,-72.95502,160.48016,Frontier
 Frontier Mountain 90003,H3.6,26.1,Found,1991,-72.95502,160.43827,Frontier
 Frontier Mountain 90004,L6,1.4,Found,1991,-72.95498,160.49178,Frontier
@@ -11572,7 +11572,7 @@ Graves Nunataks 95214,H5,204.5,Found,1995,-86.71667,-141.5,Graves
 Graves Nunataks 95215,L4,320.6,Found,1995,-86.71667,-141.5,Graves
 Graves Nunataks 95216,L5,129.1,Found,1995,-86.71667,-141.5,Graves
 Graves Nunataks 95217,L5,134.0,Found,1995,-86.71667,-141.5,Graves
-Graves Nunataks 95218,H5,79.09999999999998,Found,1995,-86.71667,-141.5,Graves
+Graves Nunataks 95218,H5,79.1,Found,1995,-86.71667,-141.5,Graves
 Graves Nunataks 95219,H5,100.8,Found,1995,-86.71667,-141.5,Graves
 Graves Nunataks 95220,L6,55.8,Found,1995,-86.71667,-141.5,Graves
 Graves Nunataks 95221,LL6,14.9,Found,1995,-86.71667,-141.5,Graves
@@ -11794,7 +11794,7 @@ Great Sand Sea 026,H6,100.0,Found,2007,28.18917,25.62167,Great
 Great Sand Sea 030,H6,51.33,Found,2006,26.37817,26.8505,Great
 Great Sand Sea 031,H5,62.26,Found,2006,25.43617,25.4865,Great
 Great Sand Sea 032,Acapulcoite,8.3,Found,2006,26.18667,25.45567,Great
-Great Sand Sea 033,L5,80.09999999999998,Found,2006,26.18667,25.45567,Great
+Great Sand Sea 033,L5,80.1,Found,2006,26.18667,25.45567,Great
 Great Sand Sea 034,L5/6,7.72,Found,2006,26.18667,25.45567,Great
 Great Sand Sea 035,H5/6,40.94,Found,2007,26.61667,26.19933,Great
 Great Sand Sea 036,H5,128.91,Found,2007,26.62533,26.19833,Great
@@ -11915,7 +11915,7 @@ Grosvenor Mountains 95576,L6,53.4,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95577,CR1,106.2,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95578,L6,16.1,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95579,L5,158.7,Found,1995,-85.66667,175.0,Grosvenor
-Grosvenor Mountains 95580,H5,75.09999999999998,Found,1995,-85.66667,175.0,Grosvenor
+Grosvenor Mountains 95580,H5,75.1,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95581,Howardite,49.4,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95582,L6,8.6,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95583,L6,108.2,Found,1995,-85.66667,175.0,Grosvenor
@@ -11965,7 +11965,7 @@ Grosvenor Mountains 95627,L6,186.5,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95628,L6,21.2,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95629,L6,113.3,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95630,L6,71.5,Found,1995,-85.66667,175.0,Grosvenor
-Grosvenor Mountains 95631,L6,79.59999999999998,Found,1995,-85.66667,175.0,Grosvenor
+Grosvenor Mountains 95631,L6,79.6,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95633,Howardite,58.1,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95634,L6,119.8,Found,1995,-85.66667,175.0,Grosvenor
 Grosvenor Mountains 95635,L6,75.5,Found,1995,-85.66667,175.0,Grosvenor
@@ -12211,7 +12211,7 @@ Grove Mountains 020231,H5,14.9,Found,2003,-72.9881,75.2167,Grove
 Grove Mountains 020232,H5,1.35,Found,2003,-72.983056,75.229167,Grove
 Grove Mountains 020234,H5,0.44,Found,2003,-72.9831,75.2292,Grove
 Grove Mountains 020236,H5,72.9,Found,2003,-72.98306,75.22917,Grove
-Grove Mountains 020237,H4,77.59999999999998,Found,2003,-72.983056,75.229167,Grove
+Grove Mountains 020237,H4,77.6,Found,2003,-72.983056,75.229167,Grove
 Grove Mountains 020238,H5,24.0,Found,2003,-72.983056,75.229167,Grove
 Grove Mountains 020239,H5 ,14.0,Found,2003,-72.98306,75.22917,Grove
 Grove Mountains 020240,H5,14.4,Found,2003,-72.98306,75.22917,Grove
@@ -12374,7 +12374,7 @@ Grove Mountains 021481,H3,17.2,Found,2003,-72.93528,75.32417,Grove
 Grove Mountains 021482,L6,199.9,Found,2003,-72.93972,75.30139,Grove
 Grove Mountains 021485,H5,60.5,Found,2003,-72.93472,75.31667,Grove
 Grove Mountains 021486,H5,82.1,Found,2003,-72.93472,75.31583,Grove
-Grove Mountains 021487,H5,80.59999999999998,Found,2003,-72.94222,75.29028,Grove
+Grove Mountains 021487,H5,80.6,Found,2003,-72.94222,75.29028,Grove
 Grove Mountains 021488,L5,108.2,Found,2003,-72.95944,75.31028,Grove
 Grove Mountains 021489,L6,56.2,Found,2003,-72.93556,75.34639,Grove
 Grove Mountains 021491,L6,1716.5,Found,2003,-72.93667,75.345,Grove
@@ -12579,7 +12579,7 @@ Grove Mountains 021772,L6,4.41,Found,2003,-72.775,75.332778,Grove
 Grove Mountains 021774,L6,2.56,Found,2003,-72.77444,75.33139,Grove
 Grove Mountains 021776,L6,19.63,Found,2003,-72.774167,75.325556,Grove
 Grove Mountains 021785,L5,71.74,Found,2003,-72.775,75.33889,Grove
-Grove Mountains 021786,L6,72.48999999999998,Found,2003,-72.77528,75.33889,Grove
+Grove Mountains 021786,L6,72.49,Found,2003,-72.77528,75.33889,Grove
 Grove Mountains 021787,L6,70.11,Found,2003,-72.775,75.34167,Grove
 Grove Mountains 021788,Ureilite,24.9,Found,2003,-72.77333,75.32222,Grove
 Grove Mountains 021789,H5,35.11,Found,2003,-72.77444,75.33333,Grove
@@ -12703,7 +12703,7 @@ Grove Mountains 022022,L5,228.6,Found,2003,-72.78278,75.3025,Grove
 Grove Mountains 022023,L5,102.91,Found,2003,-72.78306,75.30278,Grove
 Grove Mountains 022024,L5,405.9,Found,2003,-72.78361,75.29944,Grove
 Grove Mountains 022025,L6,101.39,Found,2003,-72.78361,75.29639,Grove
-Grove Mountains 022026,L5,73.31999999999998,Found,2003,-72.78333,75.29667,Grove
+Grove Mountains 022026,L5,73.32,Found,2003,-72.78333,75.29667,Grove
 Grove Mountains 022027,L5,169.65,Found,2003,-72.78306,75.29833,Grove
 Grove Mountains 022028,L5,244.9,Found,2003,-72.7825,75.30028,Grove
 Grove Mountains 022029,L6,245.5,Found,2003,-72.7825,75.30028,Grove
@@ -13563,7 +13563,7 @@ Grove Mountains 051621,L6,11.57,Found,2006,-72.78028,75.3175,Grove
 Grove Mountains 051622,L5,233.0,Found,2006,-72.994444,75.205556,Grove
 Grove Mountains 051627,L6,172.52,Found,2006,-72.77889,75.31694,Grove
 Grove Mountains 051629,L6,103.37,Found,2006,-72.78083,75.32083,Grove
-Grove Mountains 051630,L6,78.56999999999998,Found,2006,-72.77972,75.33333,Grove
+Grove Mountains 051630,L6,78.57,Found,2006,-72.77972,75.33333,Grove
 Grove Mountains 051631,L6,71.28,Found,2006,-72.77944,75.32389,Grove
 Grove Mountains 051632,L6,81.52,Found,2006,-72.77944,75.3275,Grove
 Grove Mountains 051633,L5,35.23,Found,2006,-72.77806,75.32722,Grove
@@ -13711,7 +13711,7 @@ Grove Mountains 051986,L6,11.46,Found,2006,-72.78139,75.30333,Grove
 Grove Mountains 051990,L6,2.24,Found,2006,-72.780833,75.305278,Grove
 Grove Mountains 051992,L6,1.29,Found,2006,-72.780833,75.305278,Grove
 Grove Mountains 052000,H6,5.12,Found,2006,-72.78194,75.29944,Grove
-Grove Mountains 052003,L5,75.59999999999998,Found,2006,-72.977222,75.258611,Grove
+Grove Mountains 052003,L5,75.6,Found,2006,-72.977222,75.258611,Grove
 Grove Mountains 052006,L6 ,48.41,Found,2006,-72.77889,75.31833,Grove
 Grove Mountains 052007,L5,50.1,Found,2006,-72.77889,75.31889,Grove
 Grove Mountains 052011,L5,22.72,Found,2006,-72.77889,75.31889,Grove
@@ -13855,7 +13855,7 @@ Grove Mountains 052362,L6 ,2.16,Found,2006,-72.78278,75.29889,Grove
 Grove Mountains 052363,L6,1.31,Found,2006,-72.78278,75.29889,Grove
 Grove Mountains 052370,H5,0.95,Found,2006,-72.9775,75.263056,Grove
 Grove Mountains 052372,L6,76.64,Found,2006,-72.78194,75.3147,Grove
-Grove Mountains 052373,L6,77.06999999999998,Found,2006,-72.78194,75.31472,Grove
+Grove Mountains 052373,L6,77.07,Found,2006,-72.78194,75.31472,Grove
 Grove Mountains 052374,L6,45.5,Found,2006,-72.78194,75.31472,Grove
 Grove Mountains 052376,L5,28.07,Found,2006,-72.781944,75.314722,Grove
 Grove Mountains 052377,L5,44.81,Found,2006,-72.78194,75.31472,Grove
@@ -15457,8 +15457,8 @@ Jiddat al Harasis 459,H6,138.824,Found,2007,19.73252,56.34167,Jiddat
 Jiddat al Harasis 460,H6,204.214,Found,2007,19.754,56.34238,Jiddat
 Jiddat al Harasis 461,L6,3308.7,Found,2007,19.77063,56.35233,Jiddat
 Jiddat al Harasis 462,L6,106.089,Found,2007,19.77558,56.35355,Jiddat
-Jiddat al Harasis 463,H5,83.61799999999998,Found,2007,19.7858,56.35675,Jiddat
-Jiddat al Harasis 464,L4,85.99899999999998,Found,2007,19.86423,56.37512,Jiddat
+Jiddat al Harasis 463,H5,83.618,Found,2007,19.7858,56.35675,Jiddat
+Jiddat al Harasis 464,L4,85.999,Found,2007,19.86423,56.37512,Jiddat
 Jiddat al Harasis 465,L6,30.568,Found,2007,19.88373,56.33652,Jiddat
 Jiddat al Harasis 466,H6,9.049,Found,2007,19.81037,56.4533,Jiddat
 Jiddat al Harasis 467,H5,24.937,Found,2007,19.80973,56.4547,Jiddat
@@ -15536,7 +15536,7 @@ Jiddat al Harasis 538,H6,316.0,Found,2008,19.5453,55.16248,Jiddat
 Jiddat al Harasis 539,H4,0.5,Found,2008,19.54527,55.16233,Jiddat
 Jiddat al Harasis 540,H5,259.2,Found,2008,19.53575,55.1625,Jiddat
 Jiddat al Harasis 541,H5,104.2,Found,2008,19.53657,55.16298,Jiddat
-Jiddat al Harasis 542,H4,80.09999999999998,Found,2008,19.61122,55.22913,Jiddat
+Jiddat al Harasis 542,H4,80.1,Found,2008,19.61122,55.22913,Jiddat
 Jiddat al Harasis 543,H6,8.8,Found,2008,19.53807,55.16788,Jiddat
 Jiddat al Harasis 544,H5,78.8,Found,2008,19.54752,55.16568,Jiddat
 Jiddat al Harasis 545,H5,14.6,Found,2008,19.53665,55.16277,Jiddat
@@ -15570,7 +15570,7 @@ Jiddat al Harasis 573,H4-6,28.9,Found,2009,19.75168,56.33057,Jiddat
 Jiddat al Harasis 574,H4-6,13000.0,Found,2009,19.75377,56.29692,Jiddat
 Jiddat al Harasis 575,H6,190.4,Found,2009,19.75988,56.28608,Jiddat
 Jiddat al Harasis 576,H5/6,284.6,Found,2009,19.74868,56.32008,Jiddat
-Jiddat al Harasis 577,H4/5,81.59999999999998,Found,2009,19.73748,56.30732,Jiddat
+Jiddat al Harasis 577,H4/5,81.6,Found,2009,19.73748,56.30732,Jiddat
 Jiddat al Harasis 578,H6,1064.3,Found,2009,19.7642,56.29888,Jiddat
 Jiddat al Harasis 579,L4-6,475.1,Found,2009,19.35422,56.75287,Jiddat
 Jiddat al Harasis 580,H5,1929.0,Found,2009,19.42017,56.70155,Jiddat
@@ -16066,8 +16066,8 @@ LaPaz Icefield 02377,LL5,130.5,Found,2002,-86.36667,-70.0,LaPaz
 LaPaz Icefield 02378,LL6,88.69,Found,2002,-86.36667,-70.0,LaPaz
 LaPaz Icefield 02379,LL6,85.51,Found,2002,-86.36667,-70.0,LaPaz
 LaPaz Icefield 02380,H6,162.78,Found,2002,-86.36667,-70.0,LaPaz
-LaPaz Icefield 02381,LL5,75.95999999999998,Found,2002,-86.36667,-70.0,LaPaz
-LaPaz Icefield 02382,Ureilite,74.31999999999998,Found,2002,-86.36667,-70.0,LaPaz
+LaPaz Icefield 02381,LL5,75.96,Found,2002,-86.36667,-70.0,LaPaz
+LaPaz Icefield 02382,Ureilite,74.32,Found,2002,-86.36667,-70.0,LaPaz
 LaPaz Icefield 02383,LL5,51.08,Found,2002,-86.36667,-70.0,LaPaz
 LaPaz Icefield 02384,H6,35.04,Found,2002,-86.36667,-70.0,LaPaz
 LaPaz Icefield 02385,LL5,40.68,Found,2002,-86.36667,-70.0,LaPaz
@@ -16206,7 +16206,7 @@ Lewis Cliff 85337,H6,57.4,Found,1985,-84.27373,161.3548,Lewis
 Lewis Cliff 85338,H5,99.4,Found,1985,-84.26548,161.39258,Lewis
 Lewis Cliff 85339,L3.4,28.8,Found,1985,-84.28677,161.3542,Lewis
 Lewis Cliff 85340,L5,102.7,Found,1985,-84.28505,161.36984,Lewis
-Lewis Cliff 85341,H5,76.09999999999998,Found,1985,-84.28501,161.36158,Lewis
+Lewis Cliff 85341,H5,76.1,Found,1985,-84.28501,161.36158,Lewis
 Lewis Cliff 85342,H5,6.9,Found,1985,-84.27738,161.37745,Lewis
 Lewis Cliff 85343,L4,78.0,Found,1985,-84.27285,161.45092,Lewis
 Lewis Cliff 85344,H5,2.8,Found,1985,-84.27707,161.38781,Lewis
@@ -16972,7 +16972,7 @@ Lewis Cliff 87100,H6,0.6,Found,1987,-84.34527,161.30434,Lewis
 Lewis Cliff 87102,H6,15.8,Found,1987,-84.25369,161.40946,Lewis
 Lewis Cliff 87104,H6,9.6,Found,1987,-84.34184,161.40539,Lewis
 Lewis Cliff 87105,H6,15.9,Found,1987,-84.25403,161.39633,Lewis
-Lewis Cliff 87106,H6,81.59999999999998,Found,1987,-84.34434,161.37806,Lewis
+Lewis Cliff 87106,H6,81.6,Found,1987,-84.34434,161.37806,Lewis
 Lewis Cliff 87107,L6,20.4,Found,1987,-84.25423,161.39817,Lewis
 Lewis Cliff 87108,H5,7.3,Found,1987,-84.25312,161.39355,Lewis
 Lewis Cliff 87109,"Iron, ungrouped",0.9,Found,1987,-84.25416,161.40847,Lewis
@@ -17088,7 +17088,7 @@ Lewis Cliff 87225,H5,9.1,Found,1987,-84.27297,161.71039,Lewis
 Lewis Cliff 87226,L6,1.1,Found,1987,-84.3732,161.20289,Lewis
 Lewis Cliff 87228,H6,2.4,Found,1987,-84.357,161.36443,Lewis
 Lewis Cliff 87230,H6,175.1,Found,1987,-84.35632,161.32918,Lewis
-Lewis Cliff 87231,H6,75.09999999999998,Found,1987,-84.35516,161.36864,Lewis
+Lewis Cliff 87231,H6,75.1,Found,1987,-84.35516,161.36864,Lewis
 Lewis Cliff 87232,K,23.1,Found,1987,-84.34201,161.39314,Lewis
 Lewis Cliff 87233,H5,36.6,Found,1987,-84.27281,161.7129,Lewis
 Lewis Cliff 87234,E3-an,34.2,Found,1987,-84.36199,161.29308,Lewis
@@ -17264,7 +17264,7 @@ Lewis Cliff 88112,L4,9.9,Found,1988,-84.25243,161.37108,Lewis
 Lewis Cliff 88113,L6,7.4,Found,1988,-84.27448,161.40246,Lewis
 Lewis Cliff 88114,H5,9.3,Found,1988,-84.2533,161.40759,Lewis
 Lewis Cliff 88115,H5,17.0,Found,1988,-84.25332,161.39463,Lewis
-Lewis Cliff 88116,H5,73.09999999999998,Found,1988,-84.25151,161.3678,Lewis
+Lewis Cliff 88116,H5,73.1,Found,1988,-84.25151,161.3678,Lewis
 Lewis Cliff 88117,H5,7.1,Found,1988,-84.25325,161.39431,Lewis
 Lewis Cliff 88118,L6,11.1,Found,1988,-84.25183,161.37509,Lewis
 Lewis Cliff 88119,H6,39.4,Found,1988,-84.25244,161.35721,Lewis
@@ -17311,7 +17311,7 @@ Lewis Cliff 88159,H5,32.8,Found,1988,-84.26271,161.34984,Lewis
 Lewis Cliff 88160,H5,21.1,Found,1988,-84.25087,161.41703,Lewis
 Lewis Cliff 88161,H4,22.0,Found,1988,-84.25069,161.40078,Lewis
 Lewis Cliff 88162,H5,29.1,Found,1988,-84.2375,161.43452,Lewis
-Lewis Cliff 88163,H4,79.09999999999998,Found,1988,-84.24735,161.37944,Lewis
+Lewis Cliff 88163,H4,79.1,Found,1988,-84.24735,161.37944,Lewis
 Lewis Cliff 88164,L6,74.2,Found,1988,-84.23792,161.46094,Lewis
 Lewis Cliff 88165,L6,52.3,Found,1988,-84.2377,161.4591,Lewis
 Lewis Cliff 88166,H6,26.4,Found,1988,-84.24828,161.37957,Lewis
@@ -18027,7 +18027,7 @@ Lewis Cliff 97215,H6,24.3,Found,1997,-84.26667,161.5,Lewis
 Lewis Cliff 97216,L3.7,23.0,Found,1997,-84.26667,161.5,Lewis
 Lewis Cliff 97217,L5,25.5,Found,1997,-84.26667,161.5,Lewis
 Lewis Cliff 97218,H5,28.5,Found,1997,-84.26667,161.5,Lewis
-Lewis Cliff 97219,H5,79.59999999999998,Found,1997,-84.26667,161.5,Lewis
+Lewis Cliff 97219,H5,79.6,Found,1997,-84.26667,161.5,Lewis
 Lewis Cliff 97220,H5,5.8,Found,1997,-84.26667,161.5,Lewis
 Lewis Cliff 97221,L3,48.0,Found,1997,-84.26667,161.5,Lewis
 Lewis Cliff 97222,H6,28.9,Found,1997,-84.26667,161.5,Lewis
@@ -18415,7 +18415,7 @@ MacAlpine Hills 88150,H6,41.2,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88151,H4,41.3,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88152,H5,80.0,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88153,H4,24.9,Found,1988,-84.21667,160.5,MacAlpine
-MacAlpine Hills 88154,H6,79.09999999999998,Found,1988,-84.21667,160.5,MacAlpine
+MacAlpine Hills 88154,H6,79.1,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88155,L6,21.9,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88156,L6,69.2,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88157,H6,88.2,Found,1988,-84.21667,160.5,MacAlpine
@@ -18452,7 +18452,7 @@ MacAlpine Hills 88187,L6,94.7,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88188,H4,14.0,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88189,H5,31.4,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88190,H5,49.8,Found,1988,-84.21667,160.5,MacAlpine
-MacAlpine Hills 88191,H6,73.59999999999998,Found,1988,-84.21667,160.5,MacAlpine
+MacAlpine Hills 88191,H6,73.6,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88192,H5,41.3,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88193,L6,137.5,Found,1988,-84.21667,160.5,MacAlpine
 MacAlpine Hills 88194,L6,17.2,Found,1988,-84.21667,160.5,MacAlpine
@@ -18847,7 +18847,7 @@ Meteorite Hills 00558,L5,157.04,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00559,L6,95.02,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00560,LL5,61.81,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00561,L5,80.19,Found,2000,-79.68333,155.75,Meteorite
-Meteorite Hills 00562,L5,78.48999999999998,Found,2000,-79.68333,155.75,Meteorite
+Meteorite Hills 00562,L5,78.49,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00563,L5,48.16,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00564,L5,53.58,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00565,L5,109.96,Found,2000,-79.68333,155.75,Meteorite
@@ -18911,7 +18911,7 @@ Meteorite Hills 00623,L6,52.57,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00624,L5,103.91,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00625,H6,106.49,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00626,H6,100.78,Found,2000,-79.68333,155.75,Meteorite
-Meteorite Hills 00627,LL5,80.73999999999998,Found,2000,-79.68333,155.75,Meteorite
+Meteorite Hills 00627,LL5,80.74,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00628,H6,40.72,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00629,LL6,17.64,Found,2000,-79.68333,155.75,Meteorite
 Meteorite Hills 00630,CM2,10.8,Found,2000,-79.68333,155.75,Meteorite
@@ -20328,7 +20328,7 @@ Patuxent Range 91519,L5,59.1,Found,1991,-84.96509,-67.44501,Patuxent
 Patuxent Range 91520,L5,66.6,Found,1991,-84.96754,-67.45964,Patuxent
 Patuxent Range 91521,L5,22.8,Found,1991,-84.96163,-67.45795,Patuxent
 Patuxent Range 91522,L5,160.2,Found,1991,-84.96828,-67.4163,Patuxent
-Patuxent Range 91523,L6,76.59999999999998,Found,1991,-84.96778,-67.44574,Patuxent
+Patuxent Range 91523,L6,76.6,Found,1991,-84.96778,-67.44574,Patuxent
 Patuxent Range 91524,L5,63.4,Found,1991,-84.96747,-67.48559,Patuxent
 Patuxent Range 91525,L6,11.9,Found,1991,-84.96759,-67.45956,Patuxent
 Patuxent Range 91526,H4,18.4,Found,1991,-84.79042,-62.25241,Patuxent
@@ -20417,11 +20417,11 @@ Pecora Escarpment 02017,Diogenite,2.4,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02018,Howardite,3.1,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02019,Howardite,11.7,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02020,LL5,77.98,Found,2002,-85.63333,-68.7,Pecora
-Pecora Escarpment 02021,LL6,74.56999999999998,Found,2002,-85.63333,-68.7,Pecora
+Pecora Escarpment 02021,LL6,74.57,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02022,LL5,34.66,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02023,LL6,67.11,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02024,LL5,44.82,Found,2002,-85.63333,-68.7,Pecora
-Pecora Escarpment 02025,H5,78.98999999999998,Found,2002,-85.63333,-68.7,Pecora
+Pecora Escarpment 02025,H5,78.99,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02026,LL6,106.79,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02027,LL5,98.44,Found,2002,-85.63333,-68.7,Pecora
 Pecora Escarpment 02028,H5,24.46,Found,2002,-85.63333,-68.7,Pecora
@@ -20589,7 +20589,7 @@ Pecora Escarpment 91081,Eucrite-unbr,37.8,Found,1991,-85.68134,-68.8249,Pecora
 Pecora Escarpment 91082,CR2,37.9,Found,1991,-85.63524,-68.49896,Pecora
 Pecora Escarpment 91083,Eucrite-unbr,26.9,Found,1991,-85.68144,-68.82871,Pecora
 Pecora Escarpment 91084,CM2,34.4,Found,1991,-85.67649,-69.08277,Pecora
-Pecora Escarpment 91085,EH3,79.59999999999998,Found,1991,-85.65094,-69.081,Pecora
+Pecora Escarpment 91085,EH3,79.6,Found,1991,-85.65094,-69.081,Pecora
 Pecora Escarpment 91086,H5,61.3,Found,1991,-85.66101,-69.02824,Pecora
 Pecora Escarpment 91087,L6,68.8,Found,1991,-85.68831,-68.34107,Pecora
 Pecora Escarpment 91088,H6,25.0,Found,1991,-85.65798,-69.03397,Pecora
@@ -20872,7 +20872,7 @@ Pecora Escarpment 91364,L6,133.1,Found,1991,-85.68836,-68.33928,Pecora
 Pecora Escarpment 91365,L6,15.0,Found,1991,-85.6881,-68.35014,Pecora
 Pecora Escarpment 91366,L6,153.6,Found,1991,-85.69913,-68.96201,Pecora
 Pecora Escarpment 91367,L6,31.3,Found,1991,-85.63333,-68.7,Pecora
-Pecora Escarpment 91368,L6,74.59999999999998,Found,1991,-85.63333,-68.7,Pecora
+Pecora Escarpment 91368,L6,74.6,Found,1991,-85.63333,-68.7,Pecora
 Pecora Escarpment 91369,H6,22.0,Found,1991,-85.65818,-69.02361,Pecora
 Pecora Escarpment 91370,L6,33.0,Found,1991,-85.63333,-68.7,Pecora
 Pecora Escarpment 91371,H5,17.0,Found,1991,-85.69784,-69.00393,Pecora
@@ -21491,7 +21491,7 @@ Queen Alexandra Range 93221,H5,53.5,Found,1993,-84.5796,162.63182,Queen
 Queen Alexandra Range 93222,L5,119.5,Found,1993,-84.57891,162.02634,Queen
 Queen Alexandra Range 93223,L5,30.3,Found,1993,-84.61277,162.08208,Queen
 Queen Alexandra Range 93224,L5,45.8,Found,1993,-84.5792,162.02893,Queen
-Queen Alexandra Range 93225,L5,73.09999999999998,Found,1993,-84.59443,162.36782,Queen
+Queen Alexandra Range 93225,L5,73.1,Found,1993,-84.59443,162.36782,Queen
 Queen Alexandra Range 93226,H5,3.9,Found,1993,-84.59097,162.24813,Queen
 Queen Alexandra Range 93227,L6,4.6,Found,1993,-84.5909,162.2489,Queen
 Queen Alexandra Range 93228,L5,121.5,Found,1993,-84.59384,162.36462,Queen
@@ -22175,8 +22175,8 @@ Queen Alexandra Range 94361,L5,87.3,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94362,L5,1.8,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94363,H6,1.8,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94364,L5,2.6,Found,1994,-84.0,168.0,Queen
-Queen Alexandra Range 94365,L6,72.59999999999998,Found,1994,-84.0,168.0,Queen
-Queen Alexandra Range 94366,CV3,72.59999999999998,Found,1994,-84.0,168.0,Queen
+Queen Alexandra Range 94365,L6,72.6,Found,1994,-84.0,168.0,Queen
+Queen Alexandra Range 94366,CV3,72.6,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94367,L6,6.6,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94368,EL4,1.2,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94369,L6,4.6,Found,1994,-84.0,168.0,Queen
@@ -22481,7 +22481,7 @@ Queen Alexandra Range 94669,H6,2.7,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94670,LL6,26.2,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94671,L6,26.2,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94672,H5,20.2,Found,1994,-84.0,168.0,Queen
-Queen Alexandra Range 94673,L5,74.59999999999998,Found,1994,-84.0,168.0,Queen
+Queen Alexandra Range 94673,L5,74.6,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94674,H5,2.5,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94675,H6,1.2,Found,1994,-84.0,168.0,Queen
 Queen Alexandra Range 94676,L5,33.0,Found,1994,-84.0,168.0,Queen
@@ -22637,7 +22637,7 @@ Queen Alexandra Range 97049,L6,143.1,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97050,L6,191.7,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97051,LL5,141.3,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97052,LL5,139.5,Found,1997,-84.0,168.0,Queen
-Queen Alexandra Range 97053,Eucrite-unbr,75.09999999999998,Found,1997,-84.0,168.0,Queen
+Queen Alexandra Range 97053,Eucrite-unbr,75.1,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97054,L6,179.1,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97055,LL5,32.7,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97056,LL5,36.7,Found,1997,-84.0,168.0,Queen
@@ -23385,7 +23385,7 @@ Queen Alexandra Range 97748,L6,1.4,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97749,H5,20.6,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97750,LL5,3.8,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97751,LL5,26.8,Found,1997,-84.0,168.0,Queen
-Queen Alexandra Range 97752,LL5,77.59999999999998,Found,1997,-84.0,168.0,Queen
+Queen Alexandra Range 97752,LL5,77.6,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97753,LL5,150.4,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97754,LL5,21.1,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97755,H6,8.3,Found,1997,-84.0,168.0,Queen
@@ -23436,7 +23436,7 @@ Queen Alexandra Range 97799,LL5,9.6,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97800,H6,126.5,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97801,LL5,35.7,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97802,LL5,52.0,Found,1997,-84.0,168.0,Queen
-Queen Alexandra Range 97803,LL5,79.09999999999998,Found,1997,-84.0,168.0,Queen
+Queen Alexandra Range 97803,LL5,79.1,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97804,H6,100.8,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97805,LL5,74.7,Found,1997,-84.0,168.0,Queen
 Queen Alexandra Range 97806,LL5,58.7,Found,1997,-84.0,168.0,Queen
@@ -23824,7 +23824,7 @@ Queen Alexandra Range 99192,H5,139.3,Found,1999,-84.0,168.0,Queen
 Queen Alexandra Range 99193,H5,181.6,Found,1999,-84.0,168.0,Queen
 Queen Alexandra Range 99194,L5,205.8,Found,1999,-84.0,168.0,Queen
 Queen Alexandra Range 99195,H6,234.7,Found,1999,-84.0,168.0,Queen
-Queen Alexandra Range 99196,LL5,77.59999999999998,Found,1999,-84.0,168.0,Queen
+Queen Alexandra Range 99196,LL5,77.6,Found,1999,-84.0,168.0,Queen
 Queen Alexandra Range 99197,H6,24.8,Found,1999,-84.0,168.0,Queen
 Queen Alexandra Range 99198,H5,36.9,Found,1999,-84.0,168.0,Queen
 Queen Alexandra Range 99199,LL5,30.2,Found,1999,-84.0,168.0,Queen
@@ -24939,7 +24939,7 @@ Reckling Peak A80228,L5,11.1,Found,1980,-76.22384,158.56194,Reckling
 Reckling Peak A80229,Mesosiderite-an,14.1,Found,1980,-76.20775,158.49356,Reckling
 Reckling Peak A80230,H5,58.2,Found,1980,-76.20756,158.50933,Reckling
 Reckling Peak A80231,H6,238.1,Found,1980,-76.229,158.26337,Reckling
-Reckling Peak A80232,H4,80.09999999999998,Found,1980,-76.20798,158.48295,Reckling
+Reckling Peak A80232,H4,80.1,Found,1980,-76.20798,158.48295,Reckling
 Reckling Peak A80233,H5,413.5,Found,1980,-76.22172,158.68468,Reckling
 Reckling Peak A80234,LL5,136.2,Found,1980,-76.23529,158.3267,Reckling
 Reckling Peak A80235,LL6,261.2,Found,1980,-76.219,158.4182,Reckling
@@ -25114,7 +25114,7 @@ Roosevelt County 031,H3.9,397.1,Found,1984,33.78333,-103.55,Roosevelt
 Roosevelt County 032,H5,141.1,Found,1968,34.08333,-103.5,Roosevelt
 Roosevelt County 033,L4,21.8,Found,1968,34.08333,-103.5,Roosevelt
 Roosevelt County 034,H5,118.5,Found,1968,34.08333,-103.61667,Roosevelt
-Roosevelt County 035,L6,81.59999999999998,Found,1968,34.08333,-103.61667,Roosevelt
+Roosevelt County 035,L6,81.6,Found,1968,34.08333,-103.61667,Roosevelt
 Roosevelt County 036,H5,65.2,Found,1968,34.08333,-103.61667,Roosevelt
 Roosevelt County 037,H4/5,94.3,Found,1968,34.08333,-103.51667,Roosevelt
 Roosevelt County 038,H5,49.4,Found,1968,34.3,-103.45,Roosevelt
@@ -25735,10 +25735,10 @@ Sayh al Uhaymir 472,H5,1031.4,Found,2002,20.38612,56.93883,Sayh
 Sayh al Uhaymir 473,L4,3016.69,Found,2002,20.05168,56.50583,Sayh
 Sayh al Uhaymir 474,L5,355.507,Found,2002,20.09742,56.62852,Sayh
 Sayh al Uhaymir 475,L4,32.101,Found,2002,20.16558,56.62803,Sayh
-Sayh al Uhaymir 476,L5,86.47199999999998,Found,2002,20.2454,56.51588,Sayh
+Sayh al Uhaymir 476,L5,86.472,Found,2002,20.2454,56.51588,Sayh
 Sayh al Uhaymir 477,L5,73.8,Found,2005,20.01022,56.52188,Sayh
 Sayh al Uhaymir 478,H4,135.873,Found,2007,20.92257,57.13617,Sayh
-Sayh al Uhaymir 479,H5,75.87399999999998,Found,2007,20.25523,56.54143,Sayh
+Sayh al Uhaymir 479,H5,75.874,Found,2007,20.25523,56.54143,Sayh
 Sayh al Uhaymir 480,H4,108.746,Found,2007,20.3953,56.58882,Sayh
 Sayh al Uhaymir 481,L6,52.391,Found,2007,20.4429,56.65422,Sayh
 Sayh al Uhaymir 482,L6,157.457,Found,2007,20.44538,56.65542,Sayh
@@ -26003,7 +26003,7 @@ Shişr 167,L6,17.65,Found,2009,18.32333,53.38767,Shişr
 Shişr 168,H5,12688.0,Found,2004,18.60667,53.95117,Shişr
 Shişr 169,H5,1304.0,Found,2004,18.60417,53.96833,Shişr
 Shişr 170,LL5,173.2,Found,2009,18.36442,53.59686,Shişr
-Shişr 171,LL4,74.59999999999998,Found,2009,18.63578,53.90467,Shişr
+Shişr 171,LL4,74.6,Found,2009,18.63578,53.90467,Shişr
 Shişr 174,LL6,120.0,Found,2010,18.54362,53.99125,Shişr
 Shişr 175,L~5,852.0,Found,2000,18.54717,53.9381,Shişr
 Shişr 176,L6,1170.0,Found,2010,18.22012,53.82097,Shişr
@@ -26115,7 +26115,7 @@ Steinbach,"Iron, IVA-an",98000.0,Found,1724,50.5,12.5,Steinbach
 Sterley,"Pallasite, PMG",1724.8,Found,1950,34.21,-101.39,Sterley
 Sterling,Pallasite,679.5,Found,1900,40.6,-103.18333,Sterling
 Stewart Hills 91800,L6,140.3,Found,1991,-84.2,-86.0,Stewart
-Stewart Valley 001,H6,75.59999999999998,Found,2001,36.2058,-116.17042,Stewart
+Stewart Valley 001,H6,75.6,Found,2001,36.2058,-116.17042,Stewart
 Stewart Valley 002,L6,28.9,Found,2001,36.20758,-116.16918,Stewart
 Stewart Valley 003,H4,6.8,Found,2001,36.21153,-116.16785,Stewart
 Stewart Valley 004,L6,58.9,Found,2001,36.25547,-116.18552,Stewart
@@ -26337,7 +26337,7 @@ Thiel Mountains 82404,L4,321.6,Found,1982,-85.16488,-94.64775,Thiel
 Thiel Mountains 82405,H6,1115.7,Found,1982,-85.25,-91.0,Thiel
 Thiel Mountains 82406,L4,152.0,Found,1982,-85.16548,-94.62367,Thiel
 Thiel Mountains 82407,L4,220.8,Found,1982,-85.16594,-94.61952,Thiel
-Thiel Mountains 82408,LL3.1-3.5,80.09999999999998,Found,1982,-85.16572,-94.62239,Thiel
+Thiel Mountains 82408,LL3.1-3.5,80.1,Found,1982,-85.16572,-94.62239,Thiel
 Thiel Mountains 82409,H5,230.9,Found,1982,-85.16514,-94.63074,Thiel
 Thiel Mountains 82410,Diogenite,18.8,Found,1982,-85.25,-91.0,Thiel
 Thiel Mountains 82411,L4,179.5,Found,1982,-85.16556,-94.61611,Thiel
@@ -26384,12 +26384,12 @@ Thiel Mountains 99011,L5,473.0,Found,2000,-85.15852,-94.62125,Thiel
 Thiel Mountains 99012,L4,159.0,Found,2000,-85.15468,-94.58963,Thiel
 Thiel Mountains 99013,L4,248.5,Found,2000,-85.16535,-94.72453,Thiel
 Thiel Mountains 99014,L5,371.3,Found,2000,-85.16782,-94.72788,Thiel
-Thiel Mountains 99015,H5,78.59999999999998,Found,2000,-85.16523,-94.73375,Thiel
+Thiel Mountains 99015,H5,78.6,Found,2000,-85.16523,-94.73375,Thiel
 Thiel Mountains 99016,EL6,43.0,Found,2000,-85.1651,-94.77712,Thiel
 Thiel Mountains 99017,L4,1527.6,Found,2000,-85.16345,-94.85695,Thiel
 Thiel Mountains 99018,H4,436.9,Found,2000,-85.16513,-94.84618,Thiel
 Thiel Mountains 99019,L5,136.0,Found,2000,-85.16048,-94.79135,Thiel
-Thompson Brook,"Iron, IAB-ung",76.59999999999998,Found,1918,-33.61667,115.91667,Thompson
+Thompson Brook,"Iron, IAB-ung",76.6,Found,1918,-33.61667,115.91667,Thompson
 Thomson,L6,218.0,Found,1888,33.46667,-82.48333,Thomson
 Thoreau,"Iron, IAB complex",500.0,Found,1954,35.28333,-108.26667,Thoreau
 Thule,"Iron, IIIAB",48600.0,Found,1955,76.53333,-67.55,Thule
@@ -27811,7 +27811,7 @@ Yamato 790396,H,5.06,Found,1979,-71.5,35.66667,Yamato
 Yamato 790397,LL,161.99,Found,1979,-71.5,35.66667,Yamato
 Yamato 790398,LL,6.71,Found,1979,-71.5,35.66667,Yamato
 Yamato 790399,L6,141.42,Found,1979,-71.5,35.66667,Yamato
-Yamato 790400,L6,72.31999999999998,Found,1979,-71.5,35.66667,Yamato
+Yamato 790400,L6,72.32,Found,1979,-71.5,35.66667,Yamato
 Yamato 790401,H4,389.5,Found,1979,-71.5,35.66667,Yamato
 Yamato 790406,LL6,165.71,Found,1979,-71.5,35.66667,Yamato
 Yamato 790407,H4,13.98,Found,1979,-71.5,35.66667,Yamato
@@ -29316,7 +29316,7 @@ Yamato 791986,H4,64.38,Found,1979,-71.5,35.66667,Yamato
 Yamato 791987,H4,86.85,Found,1979,-71.5,35.66667,Yamato
 Yamato 791988,H4,112.26,Found,1979,-71.5,35.66667,Yamato
 Yamato 791989,H4,79.94,Found,1979,-71.5,35.66667,Yamato
-Yamato 791990,H4,77.59999999999998,Found,1979,-71.5,35.66667,Yamato
+Yamato 791990,H4,77.6,Found,1979,-71.5,35.66667,Yamato
 Yamato 791991,H4,68.74,Found,1979,-71.5,35.66667,Yamato
 Yamato 791992,H4,41.26,Found,1979,-71.5,35.66667,Yamato
 Yamato 791993,H4,39.91,Found,1979,-71.5,35.66667,Yamato
