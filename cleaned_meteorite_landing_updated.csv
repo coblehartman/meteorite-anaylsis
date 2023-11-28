@@ -8,18 +8,18 @@
 6,Adzhi-Bogdo (stone),Adzhi-Bogdo,LL3-6,chondrite,910.0,Fell,1949,44.83333,95.16667
 7,Agen,Agen,H5,chondrite,30000.0,Fell,1814,44.21667,0.61667
 8,Aguada,Aguada,L6,chondrite,1620.0,Fell,1930,-31.6,-65.23333
-9,Aguila Blanca,Aguila,L,unclassified,1440.0,Fell,1920,-30.86667,-64.55
+9,Aguila Blanca,Aguila,L,chondrite,1440.0,Fell,1920,-30.86667,-64.55
 10,Aioun el Atrouss,Aioun,Diogenite-pm,achondrite,1000.0,Fell,1974,16.39806,-9.57028
 11,Aïr,Aïr,L6,chondrite,24000.0,Fell,1925,19.08333,8.38333
 12,Akaba,Akaba,L6,chondrite,779.0,Fell,1949,29.51667,35.05
 13,Akbarpur,Akbarpur,H4,chondrite,1800.0,Fell,1838,29.71667,77.95
-14,Akwanga,Akwanga,H,unclassified,3000.0,Fell,1959,8.91667,8.43333
+14,Akwanga,Akwanga,H,chondrite,3000.0,Fell,1959,8.91667,8.43333
 15,Akyumak,Akyumak,"Iron, IVA",iron,50000.0,Fell,1981,39.91667,42.81667
 16,Al Rais,Al,CR2-an,chondrite,160.0,Fell,1957,24.41667,39.51667
 17,Al Zarnkh,Al,LL5,chondrite,700.0,Fell,2001,13.66033,28.96
 18,Alais,Alais,CI1,chondrite,6000.0,Fell,1806,44.11667,4.08333
 19,Albareto,Albareto,L/LL4,chondrite,2000.0,Fell,1766,44.65,11.01667
-20,Alberta,Alberta,L,unclassified,625.0,Fell,1949,2.0,22.66667
+20,Alberta,Alberta,L,chondrite,625.0,Fell,1949,2.0,22.66667
 21,Alby sur Chéran,Alby,Eucrite-mmict,achondrite,252.0,Fell,2002,45.82133,6.01533
 22,Aldsworth,Aldsworth,LL5,chondrite,700.0,Fell,1835,51.78333,-1.78333
 23,Aleppo,Aleppo,L6,chondrite,3200.0,Fell,1873,36.23333,37.13333
@@ -58,7 +58,7 @@
 56,Ausson,Ausson,L5,chondrite,50000.0,Fell,1858,43.08333,0.58333
 57,Avanhandava,Avanhandava,H4,chondrite,9330.0,Fell,1952,-21.46028,-49.95083
 58,Avce,Avce,"Iron, IIAB",iron,1230.0,Fell,1908,46.0,13.5
-59,Avilez,Avilez,H,unclassified,146.0,Fell,1855,25.0,-103.5
+59,Avilez,Avilez,H,chondrite,146.0,Fell,1855,25.0,-103.5
 60,Awere,Awere,L4,chondrite,134.0,Fell,1968,2.71667,32.83333
 61,Aztec,Aztec,L6,chondrite,2830.0,Fell,1938,36.8,-108.0
 62,Bachmut,Bachmut,L6,chondrite,18000.0,Fell,1814,48.6,38.0
@@ -87,7 +87,7 @@
 85,Beardsley,Beardsley,H5,chondrite,16000.0,Fell,1929,39.8,-101.2
 86,Beaver Creek,Beaver,H5,chondrite,14000.0,Fell,1893,51.16667,-117.33333
 87,Beddgelert,Beddgelert,H5,chondrite,794.0,Fell,1949,53.01667,-4.1
-88,Bells,Bells,C2-ung,unclassified,375.0,Fell,1961,33.6,-96.46667
+88,Bells,Bells,C2-ung,chondrite,375.0,Fell,1961,33.6,-96.46667
 89,Benares (a),Benares,LL4,chondrite,3700.0,Fell,1798,25.36667,82.91667
 90,Benguerir,Benguerir,LL6,chondrite,25000.0,Fell,2004,32.25,-8.15
 91,Beni M'hira,Beni,L6,chondrite,19000.0,Fell,2001,32.86667,10.8
@@ -99,7 +99,7 @@
 97,Béréba,Béréba,Eucrite-mmict,achondrite,18000.0,Fell,1924,11.65,-3.65
 98,Berlanguillas,Berlanguillas,L6,chondrite,1440.0,Fell,1811,41.68333,-3.8
 99,Berthoud,Berthoud,Eucrite-mmict,achondrite,960.0,Fell,2004,40.30583,-105.02325
-100,Bethlehem,Bethlehem,H,unclassified,13.9,Fell,1859,42.53333,-73.83333
+100,Bethlehem,Bethlehem,H,chondrite,13.9,Fell,1859,42.53333,-73.83333
 101,Beuste,Beuste,L5,chondrite,2000.0,Fell,1859,43.21667,-0.23333
 102,Beyrout,Beyrout,LL3.8,chondrite,1100.0,Fell,1921,33.88333,35.5
 103,Bhagur,Bhagur,L6,chondrite,18.0,Fell,1877,20.88333,74.83333
@@ -134,7 +134,7 @@
 132,Boumdeid (2003),Boumdeid,L6,chondrite,190.0,Fell,2003,17.71067,-11.3715
 133,Boumdeid (2011),Boumdeid,L6,chondrite,3599.0,Fell,2011,17.17493,-11.34133
 134,Bovedy,Bovedy,L3,chondrite,5460.0,Fell,1969,54.56667,-6.33333
-135,Bradford Woods,Bradford,L,unclassified,762.0,Fell,1886,40.5,-80.08333
+135,Bradford Woods,Bradford,L,chondrite,762.0,Fell,1886,40.5,-80.08333
 136,Braunau,Braunau,"Iron, IIAB",iron,39000.0,Fell,1847,50.6,16.3
 137,Breitscheid,Breitscheid,H5,chondrite,1500.0,Fell,1956,50.66694,8.18361
 138,Bremervörde,Bremervörde,H/L3.9,chondrite,7250.0,Fell,1855,53.4,9.1
@@ -235,7 +235,7 @@
 233,Diep River,Diep,L6,chondrite,1000.0,Fell,1906,-33.75,18.56667
 234,Distrito Quebracho,Distrito,H4,chondrite,400.0,Fell,1957,-31.88333,-60.46667
 235,Djati-Pengilon,Djati-Pengilon,H6,chondrite,166000.0,Fell,1884,-7.5,111.5
-236,Djermaia,Djermaia,H,unclassified,3950.0,Fell,1961,12.73333,15.05
+236,Djermaia,Djermaia,H,chondrite,3950.0,Fell,1961,12.73333,15.05
 237,Djoumine,Djoumine,H5-6,chondrite,10000.0,Fell,1999,36.95,9.55
 238,Dokachi,Dokachi,H5,chondrite,3840.0,Fell,1903,23.5,90.33333
 239,Dolgovoli,Dolgovoli,L6,chondrite,1600.0,Fell,1864,50.75,25.3
@@ -279,7 +279,7 @@
 277,Ergheo,Ergheo,L5,chondrite,20000.0,Fell,1889,1.16667,44.16667
 278,Erxleben,Erxleben,H6,chondrite,2250.0,Fell,1812,52.21667,11.25
 279,Esnandes,Esnandes,L6,chondrite,1500.0,Fell,1837,46.25,-1.1
-280,Essebi,Essebi,C2-ung,unclassified,500.0,Fell,1957,2.88333,30.83333
+280,Essebi,Essebi,C2-ung,chondrite,500.0,Fell,1957,2.88333,30.83333
 281,Estherville,Estherville,Mesosiderite-A3/4,stony-iron,320000.0,Fell,1879,43.41667,-94.83333
 282,Farmington,Farmington,L5,chondrite,89400.0,Fell,1890,39.75,-97.03333
 283,Farmville,Farmville,H4,chondrite,56000.0,Fell,1934,35.55,-77.53333
@@ -337,7 +337,7 @@
 335,Guibga,Guibga,L5,chondrite,288.0,Fell,1972,13.5,-0.68333
 336,Guidder,Guidder,LL5,chondrite,968.0,Fell,1949,9.91667,13.98333
 337,Gujargaon,Gujargaon,H5,chondrite,2449.0,Fell,1982,22.98333,76.05
-338,Gujba,Gujba,CBa,unclassified,100000.0,Fell,1984,11.49167,11.65833
+338,Gujba,Gujba,CBa,chondrite,100000.0,Fell,1984,11.49167,11.65833
 339,Gumoschnik,Gumoschnik,H5,chondrite,5700.0,Fell,1904,42.9,24.7
 340,Gurram Konda,Gurram,L6,chondrite,28.0,Fell,1814,13.78333,78.56667
 341,Gursum,Gursum,H4/5,chondrite,34650.0,Fell,1981,9.36667,42.41667
@@ -385,7 +385,7 @@
 383,Inner Mongolia,Inner,L6,chondrite,3000.0,Fell,1963,41.0,112.0
 384,Innisfree,Innisfree,L5,chondrite,4576.0,Fell,1977,53.415,-111.3375
 385,Ipiranga,Ipiranga,H6,chondrite,7000.0,Fell,1972,-25.5,-54.5
-386,Ishinga,Ishinga,H,unclassified,1300.0,Fell,1954,-8.93333,33.8
+386,Ishinga,Ishinga,H,chondrite,1300.0,Fell,1954,-8.93333,33.8
 387,Isthilart,Isthilart,H5,chondrite,3050.0,Fell,1928,-31.18333,-57.95
 388,Itapicuru-Mirim,Itapicuru-Mirim,H5,chondrite,2024.0,Fell,1879,-3.4,-44.33333
 389,Itqiy,Itqiy,EH7-an,chondrite,4720.0,Fell,1990,26.59083,-12.95217
@@ -419,7 +419,7 @@
 417,Kagarlyk,Kagarlyk,L6,chondrite,1900.0,Fell,1908,49.86667,30.83333
 418,Kaidun,Kaidun,CR2,chondrite,2000.0,Fell,1980,15.0,48.3
 419,Kainsaz,Kainsaz,CO3.2,chondrite,200000.0,Fell,1937,55.43333,53.25
-420,Kakangari,Kakangari,K3,unclassified,350.0,Fell,1890,12.38333,78.51667
+420,Kakangari,Kakangari,K3,chondrite,350.0,Fell,1890,12.38333,78.51667
 421,Kakowa,Kakowa,L6,chondrite,577.0,Fell,1858,45.13333,21.66667
 422,Kalaba,Kalaba,H4,chondrite,950.0,Fell,1951,-6.83333,29.5
 423,Kalumbi,Kalumbi,L6,chondrite,4500.0,Fell,1879,17.83333,73.98333
@@ -438,7 +438,7 @@
 436,Karkh,Karkh,L6,chondrite,22000.0,Fell,1905,27.8,67.16667
 437,Karloowala,Karloowala,L6,chondrite,2950.0,Fell,1955,31.58333,71.6
 438,Karoonda,Karoonda,CK4,chondrite,41730.0,Fell,1930,-35.08333,139.91667
-439,Kasamatsu,Kasamatsu,H,unclassified,710.0,Fell,1938,35.36667,136.76667
+439,Kasamatsu,Kasamatsu,H,chondrite,710.0,Fell,1938,35.36667,136.76667
 440,Kasauli,Kasauli,H4,chondrite,16820.0,Fell,2003,29.58333,77.58333
 441,Katagum,Katagum,L6,chondrite,1500.0,Fell,1999,11.33333,10.08333
 442,Kavarpura,Kavarpura,"Iron, IIE-an",iron,6800.0,Fell,2006,25.14333,75.81333
@@ -528,7 +528,7 @@
 526,Lissa,Lissa,L6,chondrite,12800.0,Fell,1808,50.2,14.85
 527,Little Piney,Little,L5,chondrite,491.0,Fell,1839,37.91667,-92.08333
 528,Lixna,Lixna,H4,chondrite,5213.0,Fell,1820,56.0,26.43333
-529,Lodran,Lodran,Lodranite,unclassified,1000.0,Fell,1868,29.53333,71.8
+529,Lodran,Lodran,Lodranite,achondrite,1000.0,Fell,1868,29.53333,71.8
 530,Lohawat,Lohawat,Howardite,achondrite,40000.0,Fell,1994,26.96556,72.62667
 531,Lorton,Lorton,L6,chondrite,329.7,Fell,2010,38.70066,-77.21163
 532,Los Martinez,Los,L6,chondrite,25.0,Fell,1894,38.0,-0.83333
@@ -546,7 +546,7 @@
 544,Macau,Macau,H5,chondrite,1500.0,Fell,1836,-5.2,-36.66667
 545,Machinga,Machinga,L6,chondrite,93200.0,Fell,1981,-15.21222,35.24222
 546,Macibini,Macibini,Eucrite-pmict,achondrite,1995.0,Fell,1936,-28.83333,31.95
-547,Madhipura,Madhipura,L,unclassified,1000.0,Fell,1950,25.91667,86.36667
+547,Madhipura,Madhipura,L,chondrite,1000.0,Fell,1950,25.91667,86.36667
 548,Madiun,Madiun,L6,chondrite,400.0,Fell,1935,-7.75,111.53333
 549,Madrid,Madrid,L6,chondrite,400.0,Fell,1896,40.41667,-3.71667
 550,Mafra,Mafra,L3-4,chondrite,600.0,Fell,1941,-26.16667,-49.93333
@@ -556,7 +556,7 @@
 554,Maigatari-Danduma,Maigatari-Danduma,H5/6,chondrite,4629.0,Fell,2004,12.83333,9.38333
 555,Malaga,Malaga,OC,unclassified,150.0,Fell,1933,32.21667,-104.0
 556,Malakal,Malakal,L5,chondrite,2000.0,Fell,1970,9.5,31.75
-557,Malampaka,Malampaka,H,unclassified,470.0,Fell,1930,-3.13333,33.51667
+557,Malampaka,Malampaka,H,chondrite,470.0,Fell,1930,-3.13333,33.51667
 558,Malvern,Malvern,Eucrite-pmict,achondrite,807.0,Fell,1933,-29.45,26.76667
 559,Mamra Springs,Mamra,L6,chondrite,1000.0,Fell,1927,45.21667,62.08333
 560,Manbhoom,Manbhoom,LL6,chondrite,1700.0,Fell,1863,23.05,86.7
@@ -602,13 +602,13 @@
 600,Milena,Milena,L6,chondrite,10000.0,Fell,1842,46.18333,16.1
 601,Millbillillie,Millbillillie,Eucrite-mmict,achondrite,330000.0,Fell,1960,-26.45,120.36667
 602,Miller (Arkansas),Miller,H5,chondrite,16700.0,Fell,1930,35.4,-92.05
-603,Minamino,Minamino,L,unclassified,1040.0,Fell,1632,35.07833,136.93333
+603,Minamino,Minamino,L,chondrite,1040.0,Fell,1632,35.07833,136.93333
 604,Mineo,Mineo,Pallasite,stony-iron,42.0,Fell,1826,37.28333,14.7
 605,Min-Fan-Zhun,Min-Fan-Zhun,LL6,chondrite,5500.0,Fell,1952,32.33333,120.66667
 606,Minnichhof,Minnichhof,OC,unclassified,550.0,Fell,1905,47.7,16.6
 607,Mirzapur,Mirzapur,L5,chondrite,8510.0,Fell,1910,25.68333,83.25
 608,Misshof,Misshof,H5,chondrite,5800.0,Fell,1890,56.66667,23.0
-609,Mjelleim,Mjelleim,H,unclassified,100.7,Fell,1898,61.73333,5.93333
+609,Mjelleim,Mjelleim,H,chondrite,100.7,Fell,1898,61.73333,5.93333
 610,Mocs,Mocs,L5-6,chondrite,300000.0,Fell,1882,46.8,24.03333
 611,Modoc (1905),Modoc,L6,chondrite,35000.0,Fell,1905,38.5,-101.1
 612,Mokoia,Mokoia,CV3,chondrite,4500.0,Fell,1908,-39.63333,174.4
@@ -634,7 +634,7 @@
 632,Mount Vaisi,Mount,Stone-uncl,stony-iron,17000.0,Fell,1637,44.08333,6.86667
 633,Mtola,Mtola,Stone-uncl,stony-iron,1100.0,Fell,1944,-11.5,33.5
 634,Muddoor,Muddoor,L5,chondrite,4400.0,Fell,1865,12.63333,77.01667
-635,Mulletiwu,Mulletiwu,L,unclassified,25.5,Fell,1795,9.33333,80.83333
+635,Mulletiwu,Mulletiwu,L,chondrite,25.5,Fell,1795,9.33333,80.83333
 636,Muraid,Muraid,L6,chondrite,4703.0,Fell,1924,24.5,90.21667
 637,Murchison,Murchison,CM2,chondrite,100000.0,Fell,1969,-36.61667,145.2
 638,Murray,Murray,CM2,chondrite,12600.0,Fell,1950,36.6,-88.1
@@ -667,7 +667,7 @@
 665,Nikolaevka,Nikolaevka,H4,chondrite,3996.0,Fell,1935,52.45,78.63333
 666,Nikolskoe,Nikolskoe,L4,chondrite,6000.0,Fell,1954,56.11667,37.33333
 667,Ningbo,Ningbo,"Iron, IVA",iron,14250.0,Fell,1975,29.86667,121.48333
-668,Ningqiang,Ningqiang,C3-ung,unclassified,4610.0,Fell,1983,32.925,105.90667
+668,Ningqiang,Ningqiang,C3-ung,chondrite,4610.0,Fell,1983,32.925,105.90667
 669,Nio,Nio,H3-4,chondrite,467.0,Fell,1897,34.2,131.56667
 670,N'Kandhla,N'Kandhla,"Iron, IID",iron,17200.0,Fell,1912,-28.56667,30.7
 671,Nobleborough,Nobleborough,Eucrite-pmict,achondrite,2300.0,Fell,1823,44.08333,-69.48333
@@ -706,7 +706,7 @@
 704,Ortenau,Ortenau,Stone-uncl,stony-iron,4500.0,Fell,1671,48.5,8.0
 705,Orvinio,Orvinio,H6,chondrite,3400.0,Fell,1872,42.13333,12.93333
 706,Oterøy,Oterøy,L6,chondrite,246.0,Fell,1928,58.88333,9.4
-707,Otomi,Otomi,H,unclassified,6510.0,Fell,1867,38.4,140.35
+707,Otomi,Otomi,H,chondrite,6510.0,Fell,1867,38.4,140.35
 708,Ottawa,Ottawa,LL6,chondrite,840.0,Fell,1896,38.6,-95.21667
 709,Ouadangou,Ouadangou,L5,chondrite,4440.0,Fell,2003,12.9,0.08
 710,Oued el Hadjar,Oued,LL6,chondrite,1215.5,Fell,1986,30.18,-6.57717
@@ -756,7 +756,7 @@
 754,Piancaldoli,Piancaldoli,LL3.4,chondrite,13.1,Fell,1968,44.24417,11.50222
 755,Pillistfer,Pillistfer,EL6,chondrite,23250.0,Fell,1863,58.66667,25.73333
 756,Piplia Kalan,Piplia,Eucrite-mmict,achondrite,42000.0,Fell,1996,26.03472,73.94167
-757,Piquetberg,Piquetberg,H,unclassified,37.0,Fell,1881,-32.86667,18.71667
+757,Piquetberg,Piquetberg,H,chondrite,37.0,Fell,1881,-32.86667,18.71667
 758,Pirgunje,Pirgunje,L6,chondrite,842.0,Fell,1882,25.8,88.45
 759,Pirthalla,Pirthalla,H6,chondrite,1161.0,Fell,1884,29.58333,76.0
 760,Pitts,Pitts,"Iron, IAB-ung",iron,3760.0,Fell,1921,31.95,-83.51667
@@ -770,7 +770,7 @@
 768,Pontlyfni,Pontlyfni,Winonaite,achondrite,157.0,Fell,1931,53.03639,-4.31944
 769,Portales Valley,Portales,H6,chondrite,71400.0,Fell,1998,34.175,-103.295
 770,Portugal,Portugal,Stone-uncl,stony-iron,4500.0,Fell,1796,38.5,-8.0
-771,Po-wang Chen,Po-wang,LL,unclassified,665.0,Fell,1933,31.41667,118.5
+771,Po-wang Chen,Po-wang,LL,chondrite,665.0,Fell,1933,31.41667,118.5
 772,Prambachkirchen,Prambachkirchen,L6,chondrite,2125.0,Fell,1932,48.3025,13.94083
 773,Pribram,Pribram,H5,chondrite,5555.0,Fell,1959,49.66667,14.03333
 774,Pricetown,Pricetown,L6,chondrite,900.0,Fell,1893,39.11667,-83.85
@@ -784,14 +784,14 @@
 782,Queen's Mercy,Queen's,H6,chondrite,7000.0,Fell,1925,-30.11667,28.7
 783,Quenggouk,Quenggouk,H4,chondrite,6045.0,Fell,1857,17.76667,95.18333
 784,Quesa,Quesa,"Iron, IAB-ung",iron,10750.0,Fell,1898,39.0,-0.66667
-785,Quija,Quija,H,unclassified,17450.0,Fell,1990,44.61667,126.13333
+785,Quija,Quija,H,chondrite,17450.0,Fell,1990,44.61667,126.13333
 786,Quincay,Quincay,L6,chondrite,65.0,Fell,1851,46.6,0.25
 787,Raco,Raco,H5,chondrite,5000.0,Fell,1957,-26.66667,-65.45
 788,Raghunathpura,Raghunathpura,"Iron, IIAB",iron,10200.0,Fell,1986,27.72528,76.465
 789,Rahimyar Khan,Rahimyar,L5,chondrite,67225.0,Fell,1983,28.225,70.2
 790,Rakovka,Rakovka,L6,chondrite,9000.0,Fell,1878,52.98333,37.03333
 791,Ramnagar,Ramnagar,L6,chondrite,3766.0,Fell,1940,26.45,82.9
-792,Rampurhat,Rampurhat,LL,unclassified,100.0,Fell,1916,24.16667,87.76667
+792,Rampurhat,Rampurhat,LL,chondrite,100.0,Fell,1916,24.16667,87.76667
 793,Ramsdorf,Ramsdorf,L6,chondrite,4682.0,Fell,1958,51.88333,6.93333
 794,Ranchapur,Ranchapur,H4,chondrite,290.4,Fell,1917,23.98333,87.08333
 795,Rancho de la Presa,Rancho,H5,chondrite,300.0,Fell,1899,19.86667,-100.81667
@@ -810,7 +810,7 @@
 808,Revelstoke,Revelstoke,CI1,chondrite,1.0,Fell,1965,51.33333,-118.95
 809,Rewari,Rewari,L6,chondrite,3332.0,Fell,1929,28.2,76.66667
 810,Rich Mountain,Rich,L6,chondrite,668.0,Fell,1903,35.03333,-83.03333
-811,Uzcudun,Uzcudun,L,unclassified,20000.0,Fell,1948,-44.11667,-66.15
+811,Uzcudun,Uzcudun,L,chondrite,20000.0,Fell,1948,-44.11667,-66.15
 812,Richardton,Richardton,H5,chondrite,90000.0,Fell,1918,46.88333,-102.31667
 813,Richland Springs,Richland,OC,unclassified,1900.0,Fell,1980,31.25,-99.03333
 814,Richmond,Richmond,LL5,chondrite,1800.0,Fell,1828,37.46667,-77.5
@@ -845,12 +845,12 @@
 843,Santa Lucia (2008),Santa,L6,chondrite,4000.0,Fell,2008,-31.535556,-68.489444
 844,São Jose do Rio Preto,São,H4,chondrite,927.0,Fell,1962,-20.81,-49.38056
 845,Saratov,Saratov,L4,chondrite,200000.0,Fell,1918,52.55,46.55
-846,Sasagase,Sasagase,H,unclassified,695.0,Fell,1688,34.71667,137.78333
+846,Sasagase,Sasagase,H,chondrite,695.0,Fell,1688,34.71667,137.78333
 847,Sauguis,Sauguis,L6,chondrite,4000.0,Fell,1868,43.15,-0.85
 848,Savtschenskoje,Savtschenskoje,LL4,chondrite,2500.0,Fell,1894,47.21667,29.86667
 849,Sayama,Sayama,CM2,chondrite,430.0,Fell,1986,35.86667,139.4
 850,Sazovice,Sazovice,L5,chondrite,412.0,Fell,1934,49.23333,17.56667
-851,Schellin,Schellin,L,unclassified,7000.0,Fell,1715,53.35,15.05
+851,Schellin,Schellin,L,chondrite,7000.0,Fell,1715,53.35,15.05
 852,Schenectady,Schenectady,H5,chondrite,283.3,Fell,1968,42.86083,-73.95028
 853,Schönenberg,Schönenberg,L6,chondrite,8000.0,Fell,1846,48.11667,10.46667
 854,Searsmont,Searsmont,H5,chondrite,5400.0,Fell,1871,44.36667,-69.2
@@ -926,11 +926,11 @@
 924,Sultanpur,Sultanpur,L/LL6,chondrite,1710.5,Fell,1916,25.93333,84.28333
 925,Sungach,Sungach,H5,chondrite,637.0,Fell,1935,44.86667,133.16667
 926,Supuhee,Supuhee,H6,chondrite,7235.0,Fell,1865,26.71667,84.21667
-927,Sutter's Mill,Sutter's,C,unclassified,992.5,Fell,2012,38.80389,-120.90806
+927,Sutter's Mill,Sutter's,C,chondrite,992.5,Fell,2012,38.80389,-120.90806
 928,Sylacauga,Sylacauga,H4,chondrite,5560.0,Fell,1954,33.18836,-86.2945
 929,Tabor,Tabor,H5,chondrite,7540.0,Fell,1753,49.4,14.65
 930,Tadjera,Tadjera,L5,chondrite,9000.0,Fell,1867,36.18333,5.41667
-931,Tagish Lake,Tagish,C2-ung,unclassified,10000.0,Fell,2000,59.70444,-134.20139
+931,Tagish Lake,Tagish,C2-ung,chondrite,10000.0,Fell,2000,59.70444,-134.20139
 932,Tahara,Tahara,H4/5,chondrite,1000.0,Fell,1991,34.72,137.305
 933,Takenouchi,Takenouchi,H5,chondrite,720.0,Fell,1880,35.38333,134.9
 934,Tambakwatu,Tambakwatu,L6,chondrite,10500.0,Fell,1975,-7.75,112.76667
@@ -957,7 +957,7 @@
 955,Tjerebon,Tjerebon,L5,chondrite,16500.0,Fell,1922,-6.66667,106.58333
 956,Tomakovka,Tomakovka,LL6,chondrite,600.0,Fell,1905,47.85,34.76667
 957,Tomatlan,Tomatlan,H6,chondrite,900.0,Fell,1879,20.16667,-105.21667
-958,Tomita,Tomita,L,unclassified,600.0,Fell,1916,34.5,133.75
+958,Tomita,Tomita,L,chondrite,600.0,Fell,1916,34.5,133.75
 959,Tomiya,Tomiya,H4/5,chondrite,27.5,Fell,1984,38.36667,140.86556
 960,Tonk,Tonk,CI1,chondrite,7.7,Fell,1911,24.65,76.86667
 961,Torino,Torino,H6,chondrite,977.0,Fell,1988,45.06667,7.66667
@@ -968,7 +968,7 @@
 966,Trebbin,Trebbin,LL6,chondrite,1250.0,Fell,1988,52.21667,13.16667
 967,Trenzano,Trenzano,H3/4,chondrite,11800.0,Fell,1856,45.46667,10.0
 968,Treysa,Treysa,"Iron, IIIAB-an",iron,63000.0,Fell,1916,50.91667,9.18333
-969,Tromøy,Tromøy,H,unclassified,357.4,Fell,1950,58.47333,8.86667
+969,Tromøy,Tromøy,H,chondrite,357.4,Fell,1950,58.47333,8.86667
 970,Troup,Troup,L6,chondrite,1020.0,Fell,1917,32.16667,-95.1
 971,Trysil,Trysil,L/LL6,chondrite,640.0,Fell,1927,61.3,12.3
 972,Tsukuba,Tsukuba,H5-6,chondrite,800.0,Fell,1996,36.06333,140.145
@@ -985,7 +985,7 @@
 983,Uden,Uden,LL7,chondrite,710.0,Fell,1840,51.65,5.61667
 984,Udipi,Udipi,H5,chondrite,3600.0,Fell,1866,13.48333,74.78333
 985,Ufana,Ufana,EL6,chondrite,189.2,Fell,1957,-4.26667,35.35
-986,Ulmiz,Ulmiz,L,unclassified,76.5,Fell,1926,46.93333,7.21667
+986,Ulmiz,Ulmiz,L,chondrite,76.5,Fell,1926,46.93333,7.21667
 987,Umbala,Umbala,LL5,chondrite,100.0,Fell,1822,30.33333,76.33333
 988,Umm Ruaba,Umm,L5,chondrite,1700.0,Fell,1966,13.46667,31.21667
 989,Undulung,Undulung,L4,chondrite,113.4,Fell,1986,66.13889,124.76667
@@ -1066,7 +1066,7 @@
 1064,Abar al' Uj 001,Abar,H3.8,chondrite,194.34,Found,2008,22.72192,48.95937
 1065,Abbott,Abbott,H3-6,chondrite,21100.0,Found,1951,36.3,-104.28333
 1066,Abernathy,Abernathy,L6,chondrite,2914.0,Found,1941,33.85,-101.8
-1067,Abo,Abo,H,unclassified,1.2,Found,1840,60.43333,22.3
+1067,Abo,Abo,H,chondrite,1.2,Found,1840,60.43333,22.3
 1068,Abu Moharek,Abu,H4,chondrite,4500.0,Found,1997,27.23944,29.83583
 1069,Acfer 001,Acfer,L6,chondrite,6700.0,Found,1989,27.5,3.61667
 1070,Acfer 002,Acfer,H5,chondrite,228.0,Found,1989,27.61667,3.85
@@ -1159,7 +1159,7 @@
 1157,Acfer 091,Acfer,LL5-6,chondrite,3487.0,Found,1990,27.45,4.11667
 1158,Acfer 092,Acfer,H5,chondrite,244.0,Found,1990,27.66667,4.51667
 1159,Acfer 093,Acfer,L5,chondrite,420.0,Found,1990,27.71667,4.13333
-1160,Acfer 094,Acfer,C2-ung,unclassified,82.0,Found,1990,27.73333,4.43333
+1160,Acfer 094,Acfer,C2-ung,chondrite,82.0,Found,1990,27.73333,4.43333
 1161,Acfer 095,Acfer,H3.7,chondrite,104.0,Found,1990,27.71667,4.38333
 1162,Acfer 096,Acfer,L4-5,chondrite,572.0,Found,1990,27.61667,4.2
 1163,Acfer 097,Acfer,CR2,chondrite,63.0,Found,1990,27.51667,3.96667
@@ -1487,7 +1487,7 @@
 1485,Agoudal,Agoudal,"Iron, IIAB",iron,100000.0,Found,2000,31.98457,-5.51528
 1486,Agoult,Agoult,Eucrite,achondrite,82.0,Found,2000,30.55,-4.9
 1487,Agua Blanca,Agua,"Iron, IIIAB",iron,49000.0,Found,1938,-28.91667,-66.95
-1488,Aguas Calientes,Aguas,H,unclassified,260.1,Found,1971,-25.5,-68.4
+1488,Aguas Calientes,Aguas,H,chondrite,260.1,Found,1971,-25.5,-68.4
 1489,Aguemour 001,Aguemour,H5,chondrite,896.0,Found,1990,26.96667,4.45
 1490,Aguemour 002,Aguemour,L6,chondrite,236.0,Found,1990,26.96667,4.4
 1491,Aguemour 003,Aguemour,L6,chondrite,809.0,Found,1990,27.36667,4.5
@@ -1508,7 +1508,7 @@
 1506,Ahumada,Ahumada,"Pallasite, PMG",stony-iron,52600.0,Found,1909,30.7,-105.5
 1507,Aiken,Aiken,OC,unclassified,956.0,Found,1936,34.2,-101.5
 1508,Ainsworth,Ainsworth,"Iron, IIAB",iron,80650.0,Found,1907,42.6,-99.8
-1509,Akhricha,Akhricha,H,unclassified,1760.0,Found,1968,28.4625,1.025
+1509,Akhricha,Akhricha,H,chondrite,1760.0,Found,1968,28.4625,1.025
 1510,Akmolla,Akmolla,H4,chondrite,114.0,Found,1988,39.53833,59.55833
 1511,Akron (1940),Akron,H6,chondrite,1050.0,Found,1940,40.15,-103.16667
 1512,Akron (1961),Akron,L6,chondrite,4000.0,Found,1961,40.15,-103.16667
@@ -1569,7 +1569,7 @@
 1567,Alamosa,Alamosa,L6,chondrite,1800.0,Found,1937,37.46667,-105.86667
 1568,Alatage,Alatage,"Iron, IIIAB",iron,37500.0,Found,1959,42.33333,93.0
 1569,Albin (pallasite),Albin,"Pallasite, PMG",stony-iron,37600.0,Found,1915,41.5,-104.1
-1570,Albin (stone),Albin,L,unclassified,15400.0,Found,1949,41.41667,-104.1
+1570,Albin (stone),Albin,L,chondrite,15400.0,Found,1949,41.41667,-104.1
 1571,Albion,Albion,"Iron, IVA",iron,12280.0,Found,1966,46.83333,-117.25
 1572,Aldama (a),Aldama,"Iron, IIIAB",iron,11000.0,Found,1985,28.83333,-105.86667
 1573,Aldama (b),Aldama,H5,chondrite,66.5,Found,1996,25.05,-106.0
@@ -2721,7 +2721,7 @@
 2719,Allan Hills A78053,Allan,H4,chondrite,179.0,Found,1978,-76.71667,159.66667
 2720,Allan Hills A78054,Allan,LL5,chondrite,9.31,Found,1977,-76.71667,159.66667
 2721,Allan Hills A78055,Allan,L6,chondrite,13.7,Found,1978,-76.71667,159.66667
-2722,Allan Hills A78056,Allan,H,unclassified,10.61,Found,1977,-76.71667,159.66667
+2722,Allan Hills A78056,Allan,H,chondrite,10.61,Found,1977,-76.71667,159.66667
 2723,Allan Hills A78057,Allan,H4,chondrite,8.7,Found,1978,-76.71667,159.66667
 2724,Allan Hills A78058,Allan,H5,chondrite,14.44,Found,1977,-76.71667,159.66667
 2725,Allan Hills A78059,Allan,L6,chondrite,9.1,Found,1978,-76.71667,159.66667
@@ -2729,7 +2729,7 @@
 2727,Allan Hills A78061,Allan,H5,chondrite,1.64,Found,1977,-76.71667,159.66667
 2728,Allan Hills A78062,Allan,LL6,chondrite,10.9,Found,1978,-76.71667,159.66667
 2729,Allan Hills A78063,Allan,LL6,chondrite,76.7,Found,1978,-76.71667,159.66667
-2730,Allan Hills A78064,Allan,L,unclassified,10.37,Found,1977,-76.71667,159.66667
+2730,Allan Hills A78064,Allan,L,chondrite,10.37,Found,1977,-76.71667,159.66667
 2731,Allan Hills A78065,Allan,H6,chondrite,7.3,Found,1978,-76.71667,159.66667
 2732,Allan Hills A78066,Allan,H5,chondrite,8.48,Found,1977,-76.71667,159.66667
 2733,Allan Hills A78067,Allan,H6,chondrite,7.8,Found,1978,-76.71667,159.66667
@@ -2761,7 +2761,7 @@
 2759,Allan Hills A78094,Allan,H5,chondrite,4.0,Found,1978,-76.71667,159.66667
 2760,Allan Hills A78095,Allan,H5,chondrite,8.2,Found,1977,-76.71667,159.66667
 2761,Allan Hills A78096,Allan,H5,chondrite,7.5,Found,1978,-76.71667,159.66667
-2762,Allan Hills A78097,Allan,H,unclassified,2.3,Found,1977,-76.71667,159.66667
+2762,Allan Hills A78097,Allan,H,chondrite,2.3,Found,1977,-76.71667,159.66667
 2763,Allan Hills A78098,Allan,H5,chondrite,2.2,Found,1978,-76.71667,159.66667
 2764,Allan Hills A78099,Allan,H5,chondrite,2.1,Found,1977,-76.71667,159.66667
 2765,Allan Hills A78100,Allan,"Iron, IIAB",iron,84.9,Found,1978,-76.71667,159.66667
@@ -3835,7 +3835,7 @@
 3833,Asuka 880849,Asuka,CO3,chondrite,31.97,Found,1988,-72.0,26.0
 3834,Asuka 880850,Asuka,LL6,chondrite,56.75,Found,1988,-72.0,26.0
 3835,Asuka 880851,Asuka,H4,chondrite,40.91,Found,1988,-72.0,26.0
-3836,Asuka 880852,Asuka,H,unclassified,140.65,Found,1988,-72.0,26.0
+3836,Asuka 880852,Asuka,H,chondrite,140.65,Found,1988,-72.0,26.0
 3837,Asuka 880853,Asuka,H6,chondrite,133.84,Found,1988,-72.0,26.0
 3838,Asuka 880854,Asuka,H5,chondrite,81.74,Found,1988,-72.0,26.0
 3839,Asuka 880855,Asuka,H4,chondrite,118.61,Found,1988,-72.0,26.0
@@ -3892,7 +3892,7 @@
 3890,Asuka 880918,Asuka,H4,chondrite,294.9,Found,1988,-72.0,26.0
 3891,Asuka 880919,Asuka,L6,chondrite,39.78,Found,1988,-72.0,26.0
 3892,Asuka 880920,Asuka,LL6,chondrite,19.19,Found,1988,-72.0,26.0
-3893,Asuka 880921,Asuka,H,unclassified,40.63,Found,1988,-72.0,26.0
+3893,Asuka 880921,Asuka,H,chondrite,40.63,Found,1988,-72.0,26.0
 3894,Asuka 880923,Asuka,H4,chondrite,20.58,Found,1988,-72.0,26.0
 3895,Asuka 880924,Asuka,H4,chondrite,140.16,Found,1988,-72.0,26.0
 3896,Asuka 880925,Asuka,H3.7,chondrite,56.07,Found,1988,-72.0,26.0
@@ -3932,13 +3932,13 @@
 3930,Asuka 880973,Asuka,H3.6,chondrite,19.84,Found,1988,-72.0,26.0
 3931,Asuka 880974,Asuka,H5,chondrite,14.73,Found,1988,-72.0,26.0
 3932,Asuka 880975,Asuka,L6,chondrite,387.33,Found,1988,-72.0,26.0
-3933,Asuka 880977,Asuka,H,unclassified,247.02,Found,1988,-72.0,26.0
+3933,Asuka 880977,Asuka,H,chondrite,247.02,Found,1988,-72.0,26.0
 3934,Asuka 880978,Asuka,H5,chondrite,34.38,Found,1988,-72.0,26.0
 3935,Asuka 880979,Asuka,L6,chondrite,48.82,Found,1988,-72.0,26.0
-3936,Asuka 880980,Asuka,H,unclassified,678.49,Found,1988,-72.0,26.0
+3936,Asuka 880980,Asuka,H,chondrite,678.49,Found,1988,-72.0,26.0
 3937,Asuka 880981,Asuka,H4,chondrite,31.62,Found,1988,-72.0,26.0
 3938,Asuka 880982,Asuka,H4,chondrite,25.71,Found,1988,-72.0,26.0
-3939,Asuka 880983,Asuka,H,unclassified,77.92,Found,1988,-72.0,26.0
+3939,Asuka 880983,Asuka,H,chondrite,77.92,Found,1988,-72.0,26.0
 3940,Asuka 880984,Asuka,H4,chondrite,47.49,Found,1988,-72.0,26.0
 3941,Asuka 880985,Asuka,H4,chondrite,26.99,Found,1988,-72.0,26.0
 3942,Asuka 880986,Asuka,H4,chondrite,70.98,Found,1988,-72.0,26.0
@@ -3949,7 +3949,7 @@
 3947,Asuka 880992,Asuka,H4,chondrite,68.31,Found,1988,-72.0,26.0
 3948,Asuka 880993,Asuka,H4,chondrite,52.12,Found,1988,-72.0,26.0
 3949,Asuka 880994,Asuka,H4,chondrite,63.52,Found,1988,-72.0,26.0
-3950,Asuka 880995,Asuka,LL,unclassified,176.84,Found,1988,-72.0,26.0
+3950,Asuka 880995,Asuka,LL,chondrite,176.84,Found,1988,-72.0,26.0
 3951,Asuka 880996,Asuka,L6,chondrite,227.81,Found,1988,-72.0,26.0
 3952,Asuka 880997,Asuka,L6,chondrite,201.02,Found,1988,-72.0,26.0
 3953,Asuka 880998,Asuka,H4,chondrite,72.04,Found,1988,-72.0,26.0
@@ -3968,13 +3968,13 @@
 3966,Asuka 881012,Asuka,H6,chondrite,95.17,Found,1988,-72.0,26.0
 3967,Asuka 881013,Asuka,L6,chondrite,166.8,Found,1988,-72.0,26.0
 3968,Asuka 881014,Asuka,L5,chondrite,172.76,Found,1988,-72.0,26.0
-3969,Asuka 881015,Asuka,LL,unclassified,627.72,Found,1988,-72.0,26.0
+3969,Asuka 881015,Asuka,LL,chondrite,627.72,Found,1988,-72.0,26.0
 3970,Asuka 881016,Asuka,L6,chondrite,54.41,Found,1988,-72.0,26.0
 3971,Asuka 881017,Asuka,L5,chondrite,825.36,Found,1988,-72.0,26.0
 3972,Asuka 881018,Asuka,H4,chondrite,331.09,Found,1988,-72.0,26.0
 3973,Asuka 881019,Asuka,L6,chondrite,40.21,Found,1988,-72.0,26.0
 3974,Asuka 881020,Asuka,CH3,chondrite,52.12,Found,1988,-72.0,26.0
-3975,Asuka 881021,Asuka,LL,unclassified,224.72,Found,1988,-72.0,26.0
+3975,Asuka 881021,Asuka,LL,chondrite,224.72,Found,1988,-72.0,26.0
 3976,Asuka 881022,Asuka,H4,chondrite,55.68,Found,1988,-72.0,26.0
 3977,Asuka 881023,Asuka,H5,chondrite,201.32,Found,1988,-72.0,26.0
 3978,Asuka 881024,Asuka,E6,unclassified,13.81,Found,1988,-72.0,26.0
@@ -3995,7 +3995,7 @@
 3993,Asuka 881040,Asuka,H4,chondrite,45.35,Found,1988,-72.0,26.0
 3994,Asuka 881041,Asuka,H4,chondrite,57.73,Found,1988,-72.0,26.0
 3995,Asuka 881042,Asuka,H4,chondrite,227.94,Found,1988,-72.0,26.0
-3996,Asuka 881043,Asuka,H,unclassified,390.47,Found,1988,-72.0,26.0
+3996,Asuka 881043,Asuka,H,chondrite,390.47,Found,1988,-72.0,26.0
 3997,Asuka 881044,Asuka,L5,chondrite,379.08,Found,1988,-72.0,26.0
 3998,Asuka 881045,Asuka,L6,chondrite,99.6,Found,1988,-72.0,26.0
 3999,Asuka 881046,Asuka,H4,chondrite,91.38,Found,1988,-72.0,26.0
@@ -4014,16 +4014,16 @@
 4012,Asuka 881063,Asuka,H6,chondrite,78.86,Found,1988,-72.0,26.0
 4013,Asuka 881064,Asuka,L6,chondrite,53.29,Found,1988,-72.0,26.0
 4014,Asuka 881065,Asuka,H5,chondrite,41.74,Found,1988,-72.0,26.0
-4015,Asuka 881066,Asuka,H,unclassified,144.68,Found,1988,-72.0,26.0
+4015,Asuka 881066,Asuka,H,chondrite,144.68,Found,1988,-72.0,26.0
 4016,Asuka 881067,Asuka,L6,chondrite,627.34,Found,1988,-72.0,26.0
 4017,Asuka 881068,Asuka,H4,chondrite,23.84,Found,1988,-72.0,26.0
 4018,Asuka 881069,Asuka,H3.7,chondrite,32.75,Found,1988,-72.0,26.0
 4019,Asuka 881070,Asuka,Eucrite-br,achondrite,57.96,Found,1988,-72.0,26.0
 4020,Asuka 881071,Asuka,H4,chondrite,52.07,Found,1988,-72.0,26.0
-4021,Asuka 881072,Asuka,H,unclassified,87.38,Found,1988,-72.0,26.0
+4021,Asuka 881072,Asuka,H,chondrite,87.38,Found,1988,-72.0,26.0
 4022,Asuka 881073,Asuka,H5,chondrite,3437.0,Found,1988,-72.0,26.0
 4023,Asuka 881074,Asuka,L5,chondrite,111.53,Found,1988,-72.0,26.0
-4024,Asuka 881075,Asuka,H,unclassified,1015.56,Found,1988,-72.0,26.0
+4024,Asuka 881075,Asuka,H,chondrite,1015.56,Found,1988,-72.0,26.0
 4025,Asuka 881076,Asuka,H4,chondrite,107.71,Found,1988,-72.0,26.0
 4026,Asuka 881077,Asuka,LL3.6,chondrite,136.44,Found,1988,-72.0,26.0
 4027,Asuka 881078,Asuka,H4,chondrite,58.95,Found,1988,-72.0,26.0
@@ -4067,7 +4067,7 @@
 4065,Asuka 881120,Asuka,H5,chondrite,326.76,Found,1988,-72.0,26.0
 4066,Asuka 881121,Asuka,H5,chondrite,49.52,Found,1988,-72.0,26.0
 4067,Asuka 881122,Asuka,H4,chondrite,25.56,Found,1988,-72.0,26.0
-4068,Asuka 881123,Asuka,H,unclassified,30.23,Found,1988,-72.0,26.0
+4068,Asuka 881123,Asuka,H,chondrite,30.23,Found,1988,-72.0,26.0
 4069,Asuka 881124,Asuka,L3.5,chondrite,1136.8,Found,1988,-72.0,26.0
 4070,Asuka 881125,Asuka,L3.1,chondrite,403.02,Found,1988,-72.0,26.0
 4071,Asuka 881126,Asuka,L6,chondrite,140.14,Found,1988,-72.0,26.0
@@ -4077,7 +4077,7 @@
 4075,Asuka 881130,Asuka,H4,chondrite,44.69,Found,1988,-72.0,26.0
 4076,Asuka 881131,Asuka,H5,chondrite,374.2,Found,1988,-72.0,26.0
 4077,Asuka 881132,Asuka,H4,chondrite,89.94,Found,1988,-72.0,26.0
-4078,Asuka 881133,Asuka,H,unclassified,129.14,Found,1988,-72.0,26.0
+4078,Asuka 881133,Asuka,H,chondrite,129.14,Found,1988,-72.0,26.0
 4079,Asuka 881135,Asuka,H4,chondrite,123.9,Found,1988,-72.0,26.0
 4080,Asuka 881136,Asuka,H4,chondrite,19.04,Found,1988,-72.0,26.0
 4081,Asuka 881137,Asuka,H6,chondrite,43.59,Found,1988,-72.0,26.0
@@ -4116,7 +4116,7 @@
 4114,Asuka 881175,Asuka,LL4,chondrite,64.84,Found,1988,-72.0,26.0
 4115,Asuka 881176,Asuka,H4,chondrite,32.43,Found,1988,-72.0,26.0
 4116,Asuka 881177,Asuka,H6,chondrite,252.05,Found,1988,-72.0,26.0
-4117,Asuka 881178,Asuka,H,unclassified,84.87,Found,1988,-72.0,26.0
+4117,Asuka 881178,Asuka,H,chondrite,84.87,Found,1988,-72.0,26.0
 4118,Asuka 881180,Asuka,H5,chondrite,73.33,Found,1988,-72.0,26.0
 4119,Asuka 881181,Asuka,L3,chondrite,198.3,Found,1988,-72.0,26.0
 4120,Asuka 881182,Asuka,H4,chondrite,16.21,Found,1988,-72.0,26.0
@@ -4406,7 +4406,7 @@
 4404,Asuka 881547,Asuka,H3,chondrite,15.81,Found,1988,-72.0,26.0
 4405,Asuka 881548,Asuka,Achondrite-ung,achondrite,110.16,Found,1988,-72.0,26.0
 4406,Asuka 881550,Asuka,H5,chondrite,16.88,Found,1988,-72.0,26.0
-4407,Asuka 881551,Asuka,C6,unclassified,162.48,Found,1988,-72.0,26.0
+4407,Asuka 881551,Asuka,C6,chondrite,162.48,Found,1988,-72.0,26.0
 4408,Asuka 881552,Asuka,LL3,chondrite,68.93,Found,1988,-72.0,26.0
 4409,Asuka 881554,Asuka,H4,chondrite,20.14,Found,1988,-72.0,26.0
 4410,Asuka 881555,Asuka,LL6,chondrite,27.34,Found,1988,-72.0,26.0
@@ -4439,7 +4439,7 @@
 4437,Asuka 881595,Asuka,CR2,chondrite,126.59,Found,1988,-72.0,26.0
 4438,Asuka 881597,Asuka,H3.8,chondrite,21.25,Found,1988,-72.0,26.0
 4439,Asuka 881599,Asuka,H6,chondrite,25.46,Found,1988,-72.0,26.0
-4440,Asuka 881600,Asuka,H,unclassified,27.52,Found,1988,-72.0,26.0
+4440,Asuka 881600,Asuka,H,chondrite,27.52,Found,1988,-72.0,26.0
 4441,Asuka 881601,Asuka,L5,chondrite,86.84,Found,1988,-72.0,26.0
 4442,Asuka 881603,Asuka,H6,chondrite,12.68,Found,1988,-72.0,26.0
 4443,Asuka 881604,Asuka,L6,chondrite,457.53,Found,1988,-72.0,26.0
@@ -4783,12 +4783,12 @@
 4781,Asuka 882011,Asuka,H4,chondrite,10.11,Found,1988,-72.0,26.0
 4782,Asuka 882012,Asuka,L6,chondrite,18.92,Found,1988,-72.0,26.0
 4783,Asuka 882013,Asuka,LL4,chondrite,24.63,Found,1988,-72.0,26.0
-4784,Asuka 882014,Asuka,L,unclassified,45.21,Found,1988,-72.0,26.0
+4784,Asuka 882014,Asuka,L,chondrite,45.21,Found,1988,-72.0,26.0
 4785,Asuka 882015,Asuka,H4,chondrite,32.11,Found,1988,-72.0,26.0
 4786,Asuka 882016,Asuka,H4,chondrite,47.24,Found,1988,-72.0,26.0
 4787,Asuka 882017,Asuka,H5,chondrite,567.67,Found,1988,-72.0,26.0
-4788,Asuka 882018,Asuka,L,unclassified,60.66,Found,1988,-72.0,26.0
-4789,Asuka 882019,Asuka,L,unclassified,230.6,Found,1988,-72.0,26.0
+4788,Asuka 882018,Asuka,L,chondrite,60.66,Found,1988,-72.0,26.0
+4789,Asuka 882019,Asuka,L,chondrite,230.6,Found,1988,-72.0,26.0
 4790,Asuka 882020,Asuka,L6,chondrite,41.85,Found,1988,-72.0,26.0
 4791,Asuka 882021,Asuka,L6,chondrite,3547.0,Found,1988,-72.0,26.0
 4792,Asuka 882022,Asuka,L6,chondrite,256.61,Found,1988,-72.0,26.0
@@ -4847,7 +4847,7 @@
 4845,Asuka 882085,Asuka,L6,chondrite,101.24,Found,1988,-72.0,26.0
 4846,Asuka 882086,Asuka,H3,chondrite,107.78,Found,1988,-72.0,26.0
 4847,Asuka 882087,Asuka,L6,chondrite,213.2,Found,1988,-72.0,26.0
-4848,Asuka 882088,Asuka,L,unclassified,11.37,Found,1988,-72.0,26.0
+4848,Asuka 882088,Asuka,L,chondrite,11.37,Found,1988,-72.0,26.0
 4849,Asuka 882089,Asuka,H4,chondrite,19.42,Found,1988,-72.0,26.0
 4850,Asuka 882090,Asuka,L6,chondrite,12.56,Found,1988,-72.0,26.0
 4851,Asuka 882091,Asuka,H5,chondrite,189.63,Found,1988,-72.0,26.0
@@ -4867,10 +4867,10 @@
 4865,Asuka 882106,Asuka,L6,chondrite,290.34,Found,1988,-72.0,26.0
 4866,Asuka 882107,Asuka,L6,chondrite,23.58,Found,1988,-72.0,26.0
 4867,Asuka 882108,Asuka,L4,chondrite,532.11,Found,1988,-72.0,26.0
-4868,Asuka 882109,Asuka,L,unclassified,171.03,Found,1988,-72.0,26.0
+4868,Asuka 882109,Asuka,L,chondrite,171.03,Found,1988,-72.0,26.0
 4869,Asuka 882110,Asuka,H4,chondrite,66.21,Found,1988,-72.0,26.0
 4870,Asuka 882111,Asuka,LL5,chondrite,59.27,Found,1988,-72.0,26.0
-4871,Asuka 882113,Asuka,C4,unclassified,53.98,Found,1988,-72.0,26.0
+4871,Asuka 882113,Asuka,C4,chondrite,53.98,Found,1988,-72.0,26.0
 4872,Asuka 882114,Asuka,L6,chondrite,855.61,Found,1988,-72.0,26.0
 4873,Asuka 882115,Asuka,H4,chondrite,86.06,Found,1988,-72.0,26.0
 4874,Asuka 882116,Asuka,H4,chondrite,163.8,Found,1988,-72.0,26.0
@@ -4964,7 +4964,7 @@
 4962,Belgica 7901,Belgica,L6,chondrite,3.58,Found,1979,-72.58333,31.25
 4963,Belgica 7902,Belgica,L6,chondrite,13.66,Found,1979,-72.58333,31.25
 4964,Belgica 7903,Belgica,L4,chondrite,185.3,Found,1979,-72.58333,31.25
-4965,Belgica 7904,Belgica,C2-ung,unclassified,1234.0,Found,1979,-72.58333,31.25
+4965,Belgica 7904,Belgica,C2-ung,chondrite,1234.0,Found,1979,-72.58333,31.25
 4966,Belgica 7905,Belgica,L6,chondrite,5.01,Found,1979,-72.58333,31.25
 4967,Bella Roca,Bella,"Iron, IIIAB",iron,33000.0,Found,1888,24.9,-105.4
 4968,Belle Plaine,Belle,L6,chondrite,78800.0,Found,1950,37.31667,-97.25
@@ -4972,7 +4972,7 @@
 4970,Belly River,Belly,H6,chondrite,7900.0,Found,1943,49.5,-113.0
 4971,Belmont,Belmont,H6,chondrite,25300.0,Found,1958,42.73333,-90.35
 4972,Ben Kesbes 001,Ben,H5,chondrite,177.0,Found,1991,30.36194,5.30083
-4973,Bencubbin,Bencubbin,CBa,unclassified,118000.0,Found,1930,-30.75,117.78333
+4973,Bencubbin,Bencubbin,CBa,chondrite,118000.0,Found,1930,-30.75,117.78333
 4974,Bendegó,Bendegó,"Iron, IC",iron,5360000.0,Found,1784,-10.11667,-39.2
 4975,Bendock,Bendock,Pallasite,stony-iron,27000.0,Found,1898,-37.15,148.91667
 4976,Benedict,Benedict,"Iron, IIIAB",iron,16380.0,Found,1970,41.0,-97.53333
@@ -5067,7 +5067,7 @@
 5065,Borrego,Borrego,L6,chondrite,2126.0,Found,1930,33.26667,-116.38333
 5066,Botetourt County,Botetourt,Iron,iron,500.0,Found,1850,37.5,-79.75
 5067,Bou Azarif,Bou,H5,chondrite,100000.0,Found,2010,31.15643,-5.15262
-5068,Bou Hadid,Bou,L,unclassified,374.0,Found,1969,28.3125,0.23333
+5068,Bou Hadid,Bou,L,chondrite,374.0,Found,1969,28.3125,0.23333
 5069,Bou Kra,Bou,H6,chondrite,130.0,Found,2001,26.6325,-12.81025
 5070,Bou Kra 002,Bou,L5,chondrite,606.0,Found,2010,26.74853,-12.70978
 5071,Bou Kra 003,Bou,L6,chondrite,50.0,Found,2010,26.81089,-12.71864
@@ -5381,7 +5381,7 @@
 5379,Cookeville,Cookeville,"Iron, IAB-ung",iron,2300.0,Found,1913,36.16667,-85.51667
 5380,Coolac,Coolac,"Iron, IAB-MG",iron,19280.0,Found,1874,-34.96667,148.125
 5381,Coolamon,Coolamon,L6,chondrite,393.0,Found,1921,-34.81667,147.13333
-5382,Coolidge,Coolidge,C4-ung,unclassified,4500.0,Found,1937,38.03333,-101.98333
+5382,Coolidge,Coolidge,C4-ung,chondrite,4500.0,Found,1937,38.03333,-101.98333
 5383,Coomandook,Coomandook,H6,chondrite,5230.0,Found,1939,-35.41667,139.75
 5384,Coon Butte,Coon,L6,chondrite,2750.0,Found,1905,35.0,-111.0
 5385,Coonana,Coonana,H4,chondrite,6800.0,Found,1962,-29.85,140.7
@@ -5392,7 +5392,7 @@
 5390,Copiapo,Copiapo,"Iron, IAB-MG",iron,20000.0,Found,1863,-27.3,-70.4
 5391,Cordes,Cordes,H4,chondrite,54.5,Found,1998,34.30333,-112.16617
 5392,Corn,Corn,H5,chondrite,5176.0,Found,1994,35.405,-98.74889
-5393,Coronel Arnold,Coronel,L,unclassified,450.0,Found,1962,-33.06667,-61.0
+5393,Coronel Arnold,Coronel,L,chondrite,450.0,Found,1962,-33.06667,-61.0
 5394,Corowa,Corowa,"Iron, IIF",iron,11340.0,Found,1964,-36.0,146.36667
 5395,Correo,Correo,H4,chondrite,1400.0,Found,1979,34.95,-107.16667
 5396,Corrizatillo,Corrizatillo,"Iron, IAB complex",iron,1328.0,Found,1884,-26.03333,-70.33333
@@ -5560,8 +5560,8 @@
 5558,Dar al Gani 052,Dar,LL4-6,chondrite,164.0,Found,1995,27.30317,16.25467
 5559,Dar al Gani 053,Dar,H5,chondrite,276.0,Found,1995,27.30517,16.26417
 5560,Dar al Gani 054,Dar,LL3.8,chondrite,957.0,Found,1995,27.30483,16.30017
-5561,Dar al Gani 055,Dar,C3-ung,unclassified,451.0,Found,1995,27.26717,16.42033
-5562,Dar al Gani 056,Dar,C3-ung,unclassified,703.0,Found,1995,27.26783,16.41317
+5561,Dar al Gani 055,Dar,C3-ung,chondrite,451.0,Found,1995,27.26717,16.42033
+5562,Dar al Gani 056,Dar,C3-ung,chondrite,703.0,Found,1995,27.26783,16.41317
 5563,Dar al Gani 057,Dar,L6,chondrite,36.0,Found,1995,27.26883,16.23633
 5564,Dar al Gani 058,Dar,L5,chondrite,1490.0,Found,1995,27.279,16.21733
 5565,Dar al Gani 059,Dar,L5,chondrite,944.0,Found,1995,27.29867,16.16683
@@ -5993,8 +5993,8 @@
 5991,Dar al Gani 426,Dar,H4/5,chondrite,206.0,Found,1998,27.37933,16.45817
 5992,Dar al Gani 427,Dar,L6,chondrite,942.0,Found,1998,27.35817,16.43233
 5993,Dar al Gani 428,Dar,L6,chondrite,47.0,Found,1998,27.29367,16.41433
-5994,Dar al Gani 429,Dar,C3-ung,unclassified,253.0,Found,1998,27.28133,16.41733
-5995,Dar al Gani 430,Dar,C3-ung,unclassified,572.0,Found,1998,27.27933,16.41167
+5994,Dar al Gani 429,Dar,C3-ung,chondrite,253.0,Found,1998,27.28133,16.41733
+5995,Dar al Gani 430,Dar,C3-ung,chondrite,572.0,Found,1998,27.27933,16.41167
 5996,Dar al Gani 431,Dar,CK3-an,chondrite,353.0,Found,1998,27.31283,16.232
 5997,Dar al Gani 432,Dar,H4,chondrite,1555.0,Found,1998,27.4475,15.985
 5998,Dar al Gani 433,Dar,L6,chondrite,255.0,Found,1998,27.32367,16.27683
@@ -6526,11 +6526,11 @@
 6524,Dar al Gani 971,Dar,L6,chondrite,202.0,Found,1999,26.89367,16.62617
 6525,Dar al Gani 972,Dar,L5,chondrite,121.0,Found,1999,27.098,16.12167
 6526,Dar al Gani 973,Dar,Eucrite,achondrite,82.0,Found,1999,27.4505,16.22383
-6527,Dar al Gani 974,Dar,CR,unclassified,107.0,Found,1999,27.0295,16.37217
+6527,Dar al Gani 974,Dar,CR,chondrite,107.0,Found,1999,27.0295,16.37217
 6528,Dar al Gani 975,Dar,Martian (shergottite),achondrite,27.55,Found,1999,27.32717,16.21667
 6529,Dar al Gani 976,Dar,Ureilite-pmict,achondrite,32.03,Found,1999,27.05417,16.3875
 6530,Dar al Gani 977,Dar,Ureilite,achondrite,17.0,Found,2000,27.08333,16.36667
-6531,Dar al Gani 978,Dar,C3-ung,unclassified,44.4,Found,1999,27.28067,16.40567
+6531,Dar al Gani 978,Dar,C3-ung,chondrite,44.4,Found,1999,27.28067,16.40567
 6532,Dar al Gani 979,Dar,L6,chondrite,2483.0,Found,2000,27.45017,16.18667
 6533,Dar al Gani 980,Dar,H4,chondrite,93.0,Found,2001,26.83733,16.61367
 6534,Dar al Gani 981,Dar,L5,chondrite,931.0,Found,2001,27.20983,16.4265
@@ -6613,7 +6613,7 @@
 6611,Dawn (b),Dawn,H4/5,chondrite,257.6,Found,1981,34.86,-102.12
 6612,Dayton,Dayton,"Iron, IAB-sLH",iron,26300.0,Found,1892,39.75,-84.16667
 6613,De Hoek,De,"Iron, ungrouped",iron,20930.0,Found,1960,-29.38333,23.1
-6614,De Kalb,De,H,unclassified,566.0,Found,1969,39.59167,-94.92194
+6614,De Kalb,De,H,chondrite,566.0,Found,1969,39.59167,-94.92194
 6615,De Nova,De,L6,chondrite,12700.0,Found,1940,39.85,-102.95
 6616,Deakin 001,Deakin,Chondrite-ung,chondrite,109.5,Found,1978,-30.88333,128.96667
 6617,Deakin 002,Deakin,H4,chondrite,4.5,Found,1978,-30.88333,128.975
@@ -7628,7 +7628,7 @@
 7626,Dhofar 489,Dhofar,Lunar (anorth),achondrite,34.4,Found,2001,19.41667,54.58333
 7627,Dhofar 490,Dhofar,Lunar (anorth),achondrite,34.05,Found,2001,18.71667,54.45
 7628,Dhofar 491,Dhofar,H(5?),chondrite,310.0,Found,2001,18.58667,54.39667
-7629,Dhofar 492,Dhofar,H,unclassified,281.0,Found,2001,18.71167,54.65333
+7629,Dhofar 492,Dhofar,H,chondrite,281.0,Found,2001,18.71167,54.65333
 7630,Dhofar 493,Dhofar,LL4,chondrite,32.0,Found,2001,19.14667,54.58
 7631,Dhofar 494,Dhofar,H5,chondrite,31.0,Found,2001,19.15,54.58333
 7632,Dhofar 495,Dhofar,H4,chondrite,3184.0,Found,2001,19.15833,54.575
@@ -8072,7 +8072,7 @@
 8070,Dimmitt,Dimmitt,H3.7,chondrite,200000.0,Found,1942,34.58333,-102.16667
 8071,Dimmitt (b),Dimmitt,OC,unclassified,2800.0,Found,1981,34.48333,-102.32833
 8072,Dingo Pup Donga,Dingo,Ureilite,achondrite,122.7,Found,1965,-30.43333,126.1
-8073,Dispatch,Dispatch,H,unclassified,220.0,Found,1956,39.5,-98.53333
+8073,Dispatch,Dispatch,H,chondrite,220.0,Found,1956,39.5,-98.53333
 8074,Divnoe,Divnoe,Achondrite-ung,achondrite,12700.0,Found,1981,45.7,43.7
 8075,Dix,Dix,L6,chondrite,44000.0,Found,1927,41.23333,-103.48333
 8076,Djebel Chaab 001,Djebel,L/LL6,chondrite,1388.0,Found,2003,25.22367,0.8456
@@ -8092,7 +8092,7 @@
 8090,Dominion Range 85509,Dominion,L6,chondrite,76.1,Found,1985,-85.33333,166.5
 8091,Dominion Range 85510,Dominion,L6,chondrite,31.7,Found,1985,-85.33333,166.5
 8092,Donnybrook,Donnybrook,Mesosiderite?,stony-iron,414.0,Found,1918,-33.61667,115.91667
-8093,Doolgunna,Doolgunna,L,unclassified,20.0,Found,1967,-25.93333,119.3
+8093,Doolgunna,Doolgunna,L,chondrite,20.0,Found,1967,-25.93333,119.3
 8094,Dor el Gani,Dor,"Iron, IIIAB",iron,2575.0,Found,1972,26.95833,16.03333
 8095,Dora (pallasite),Dora,"Pallasite, PMG",stony-iron,7600.0,Found,1955,33.92667,-103.955
 8096,Dora (stone),Dora,OC,unclassified,1570.0,Found,1970,33.92333,-103.35
@@ -8114,7 +8114,7 @@
 8112,Dumas (a),Dumas,H5,chondrite,46050.0,Found,1956,35.9,-101.9
 8113,Dumas (b),Dumas,H6,chondrite,2284.0,Found,1980,35.925,-101.895
 8114,Dumont,Dumont,"Iron, IVB",iron,27420.0,Found,1994,33.81667,-100.51667
-8115,Duncanville,Duncanville,H,unclassified,17800.0,Found,1961,32.63333,-96.86667
+8115,Duncanville,Duncanville,H,chondrite,17800.0,Found,1961,32.63333,-96.86667
 8116,Dungannon,Dungannon,"Iron, IAB-MG",iron,13000.0,Found,1922,36.85,-82.45
 8117,Dunganville,Dunganville,"Iron, IIIAB",iron,54000.0,Found,1976,-42.55,171.35
 8118,Dutch Flat,Dutch,"Iron, IIAB",iron,48.8,Found,2002,34.48333,-113.91667
@@ -8261,7 +8261,7 @@
 8259,El Médano 097,El,L5-6,chondrite,229.0,Found,2011,-24.85,-70.53333
 8260,El Médano 098,El,L6,chondrite,135.0,Found,2011,-24.85,-70.53333
 8261,El Médano 099,El,H5,chondrite,10.5,Found,2011,-24.85,-70.53333
-8262,El Médano 100,El,C2-ung,unclassified,1.8,Found,2011,-24.85,-70.53333
+8262,El Médano 100,El,C2-ung,chondrite,1.8,Found,2011,-24.85,-70.53333
 8263,El Médano 101,El,L6,chondrite,19.1,Found,2011,-24.85,-70.53333
 8264,El Médano 102,El,H4/5,chondrite,65.0,Found,2011,-24.85,-70.53333
 8265,El Médano 103,El,LL6,chondrite,61.0,Found,2011,-24.85,-70.53333
@@ -8399,7 +8399,7 @@
 8397,Elephant Moraine 83223,Elephant,H5,chondrite,218.6,Found,1983,-76.29333,157.27389
 8398,Elephant Moraine 83224,Elephant,CM2,chondrite,8.6,Found,1983,-76.31222,157.39528
 8399,Elephant Moraine 83225,Elephant,Ureilite,achondrite,44.0,Found,1983,-76.29222,157.26417
-8400,Elephant Moraine 83226,Elephant,C2-ung,unclassified,33.1,Found,1983,-76.28278,157.22917
+8400,Elephant Moraine 83226,Elephant,C2-ung,chondrite,33.1,Found,1983,-76.28278,157.22917
 8401,Elephant Moraine 83227,Elephant,Eucrite-pmict,achondrite,1973.0,Found,1983,-76.3,157.27306
 8402,Elephant Moraine 83228,Elephant,Eucrite-pmict,achondrite,1206.0,Found,1983,-76.28528,157.23889
 8403,Elephant Moraine 83229,Elephant,Eucrite-pmict,achondrite,312.9,Found,1983,-76.28361,157.23639
@@ -8523,7 +8523,7 @@
 8521,Elephant Moraine 83352,Elephant,LL6,chondrite,20.4,Found,1983,-76.29583,157.23917
 8522,Elephant Moraine 83353,Elephant,L6,chondrite,53.8,Found,1983,-76.30667,157.18195
 8523,Elephant Moraine 83354,Elephant,L6,chondrite,8.4,Found,1983,-76.32639,157.18833
-8524,Elephant Moraine 83355,Elephant,C2-ung,unclassified,66.2,Found,1983,-76.28583,157.27861
+8524,Elephant Moraine 83355,Elephant,C2-ung,chondrite,66.2,Found,1983,-76.28583,157.27861
 8525,Elephant Moraine 83356,Elephant,L6,chondrite,18.2,Found,1983,-76.29639,157.23472
 8526,Elephant Moraine 83357,Elephant,LL6,chondrite,35.4,Found,1983,-76.27305,157.2
 8527,Elephant Moraine 83358,Elephant,L6,chondrite,25.7,Found,1983,-76.30028,157.27083
@@ -9939,7 +9939,7 @@
 9937,Elephant Moraine 92003,Elephant,Eucrite-br,achondrite,66.4,Found,1992,-76.05436,156.25816
 9938,Elephant Moraine 92004,Elephant,Eucrite-unbr,achondrite,34.7,Found,1992,-76.03165,156.01934
 9939,Elephant Moraine 92005,Elephant,CM2,chondrite,5.4,Found,1992,-76.03298,156.298
-9940,Elephant Moraine 92006,Elephant,C2,unclassified,0.8,Found,1992,-76.04972,156.45457
+9940,Elephant Moraine 92006,Elephant,C2,chondrite,0.8,Found,1992,-76.04972,156.45457
 9941,Elephant Moraine 92007,Elephant,CM2,chondrite,0.6,Found,1992,-76.01942,155.98163
 9942,Elephant Moraine 92008,Elephant,CM2,chondrite,1.5,Found,1992,-76.04154,156.27207
 9943,Elephant Moraine 92009,Elephant,CM2,chondrite,0.2,Found,1992,-76.01942,155.98152
@@ -10151,7 +10151,7 @@
 10149,Elephant Moraine 96023,Elephant,H6,chondrite,897.0,Found,1996,-76.18333,157.16667
 10150,Elephant Moraine 96024,Elephant,L6,chondrite,421.3,Found,1996,-76.18333,157.16667
 10151,Elephant Moraine 96025,Elephant,H6,chondrite,385.3,Found,1996,-76.18333,157.16667
-10152,Elephant Moraine 96026,Elephant,C4/5,unclassified,226.0,Found,1996,-76.18333,157.16667
+10152,Elephant Moraine 96026,Elephant,C4/5,chondrite,226.0,Found,1996,-76.18333,157.16667
 10153,Elephant Moraine 96027,Elephant,H6,chondrite,2038.3,Found,1996,-76.18333,157.16667
 10154,Elephant Moraine 96028,Elephant,L6,chondrite,636.4,Found,1996,-76.18333,157.16667
 10155,Elephant Moraine 96029,Elephant,CM2,chondrite,848.28,Found,1996,-76.18333,157.16667
@@ -10663,7 +10663,7 @@
 10661,Fortuna,Fortuna,Winonaite,achondrite,312.0,Found,1998,-35.13333,-65.36667
 10662,Foster,Foster,H4,chondrite,1992.0,Found,1975,33.1,-102.26667
 10663,Foum Zguid,Foum,"Iron, IIAB",iron,6000.0,Found,1998,30.06667,-6.9
-10664,Fountain Hills,Fountain,CBa,unclassified,60.0,Found,2002,33.61,-111.72
+10664,Fountain Hills,Fountain,CBa,chondrite,60.0,Found,2002,33.61,-111.72
 10665,Four Corners,Four,"Iron, IAB-ung",iron,25000.0,Found,1924,37.0,-109.05
 10666,Franceville,Franceville,"Iron, IIIAB",iron,18800.0,Found,1890,38.81667,-104.61667
 10667,Franconia,Franconia,H5,chondrite,100000.0,Found,2002,34.71637,-114.22197
@@ -10845,7 +10845,7 @@
 10843,Frontier Mountain 01170,Frontier,H4-5,chondrite,4.9,Found,2001,-72.9525,160.52389
 10844,Frontier Mountain 01171,Frontier,H6,chondrite,3.8,Found,2001,-72.9525,160.46944
 10845,Frontier Mountain 01172,Frontier,L3,chondrite,150.2,Found,2001,-72.97222,160.33833
-10846,Frontier Mountain 03001,Frontier,Lodranite,unclassified,1.5,Found,2003,-72.95386,160.49097
+10846,Frontier Mountain 03001,Frontier,Lodranite,achondrite,1.5,Found,2003,-72.95386,160.49097
 10847,Frontier Mountain 03002,Frontier,H6,chondrite,12.7,Found,2003,-72.95292,160.49742
 10848,Frontier Mountain 03003,Frontier,H3,chondrite,15.3,Found,2003,-72.95275,160.49733
 10849,Frontier Mountain 03004,Frontier,H5/6,chondrite,4.5,Found,2003,-72.95275,160.4975
@@ -11051,7 +11051,7 @@
 11049,Frontier Mountain 90008,Frontier,L7,chondrite,1.6,Found,1990,-72.95488,160.47328
 11050,Frontier Mountain 90009,Frontier,L7,chondrite,4.9,Found,1990,-72.95381,160.50646
 11051,Frontier Mountain 90010,Frontier,H5,chondrite,5.5,Found,1990,-72.95404,160.52236
-11052,Frontier Mountain 90011,Frontier,Lodranite,unclassified,1.8,Found,1990,-72.95488,160.47328
+11052,Frontier Mountain 90011,Frontier,Lodranite,achondrite,1.8,Found,1990,-72.95488,160.47328
 11053,Frontier Mountain 90012,Frontier,H5,chondrite,6.9,Found,1991,-72.95488,160.47328
 11054,Frontier Mountain 90014,Frontier,H6,chondrite,7.2,Found,1991,-72.95489,160.44163
 11055,Frontier Mountain 90015,Frontier,H4-5,chondrite,11.7,Found,1991,-72.95533,160.43857
@@ -11446,7 +11446,7 @@
 11444,Frontier Mountain 99027,Frontier,L4,chondrite,8.2,Found,1999,-72.95583,160.435
 11445,Frontier Mountain 99028,Frontier,L6,chondrite,771.8,Found,1999,-72.97972,160.48639
 11446,Frontier Mountain 99029,Frontier,H5,chondrite,8.1,Found,1999,-72.985,160.50333
-11447,Frontier Mountain 99030,Frontier,Lodranite,unclassified,4.6,Found,1999,-72.96361,160.49778
+11447,Frontier Mountain 99030,Frontier,Lodranite,achondrite,4.6,Found,1999,-72.96361,160.49778
 11448,Frontier Mountain 99031,Frontier,L3,chondrite,201.6,Found,1999,-72.9625,160.5675
 11449,Frontier Mountain 99032,Frontier,H6,chondrite,28.1,Found,1999,-72.9625,160.56417
 11450,Frontier Mountain 99033,Frontier,H5/6,chondrite,3.5,Found,1999,-72.98417,160.48694
@@ -11465,7 +11465,7 @@
 11463,Galatia,Galatia,L6,chondrite,23900.0,Found,1971,38.64167,-98.88333
 11464,Galleta Flat,Galleta,H4,chondrite,392.0,Found,2009,32.00415,-110.37503
 11465,Gan Gan,Gan,"Iron, IVA",iron,83000.0,Found,1984,-42.66667,-68.08333
-11466,Gao-Guenie (b),Gao-Guenie,CR,unclassified,344.0,Found,2002,11.65,-2.18333
+11466,Gao-Guenie (b),Gao-Guenie,CR,chondrite,344.0,Found,2002,11.65,-2.18333
 11467,Garabato,Garabato,H5,chondrite,160000.0,Found,1995,-28.86667,-60.2
 11468,Garden Head,Garden,"Iron, IAB-sHH",iron,1296.0,Found,1944,49.81667,-108.46
 11469,Gardner Ridge 98400,Gardner,L6,chondrite,77.8,Found,1998,-86.93333,-148.55
@@ -11517,7 +11517,7 @@
 11515,Gheriat 002,Gheriat,L6,chondrite,1125.0,Found,1990,30.50667,12.215
 11516,Ghubara,Ghubara,L5,chondrite,1750000.0,Found,1954,19.22778,56.14278
 11517,Gibeon,Gibeon,"Iron, IVA",iron,26000000.0,Found,1836,-25.5,18.0
-11518,Gibson,Gibson,Lodranite,unclassified,67.1,Found,1991,-33.68333,121.8
+11518,Gibson,Gibson,Lodranite,achondrite,67.1,Found,1991,-33.68333,121.8
 11519,Gila Bend,Gila,L5,chondrite,3700.0,Found,2000,33.03333,-112.61667
 11520,Gilgoin,Gilgoin,H5,chondrite,147000.0,Found,1889,-30.38333,147.2
 11521,Gilzem,Gilzem,H5,chondrite,436.0,Found,1987,49.87361,6.50556
@@ -11548,7 +11548,7 @@
 11546,Grady (1933),Grady,L3-6,chondrite,4230.0,Found,1933,34.8,-103.31667
 11547,Grady (1937),Grady,H3.7,chondrite,9300.0,Found,1937,34.8,-103.31667
 11548,Grady (c),Grady,H4,chondrite,5700.0,Found,1970,34.8,-103.31667
-11549,Granada Creek,Granada,H,unclassified,479.0,Found,1975,37.96667,-102.33333
+11549,Granada Creek,Granada,H,chondrite,479.0,Found,1975,37.96667,-102.33333
 11550,Grand Rapids,Grand,"Iron, ungrouped",iron,51700.0,Found,1883,42.96667,-85.76667
 11551,Grandview,Grandview,L5,chondrite,6400.0,Found,2008,32.788333,-101.938333
 11552,Grant,Grant,"Iron, IIIAB",iron,525000.0,Found,1929,35.16667,-107.88333
@@ -11563,7 +11563,7 @@
 11561,Graves Nunataks 95206,Graves,L6,chondrite,933.2,Found,1995,-86.71667,-141.5
 11562,Graves Nunataks 95207,Graves,H5,chondrite,914.2,Found,1995,-86.71667,-141.5
 11563,Graves Nunataks 95208,Graves,H3.7,chondrite,778.3,Found,1995,-86.71667,-141.5
-11564,Graves Nunataks 95209,Graves,Lodranite,unclassified,948.8,Found,1995,-86.71667,-141.5
+11564,Graves Nunataks 95209,Graves,Lodranite,achondrite,948.8,Found,1995,-86.71667,-141.5
 11565,Graves Nunataks 95210,Graves,H5,chondrite,550.4,Found,1995,-86.71667,-141.5
 11566,Graves Nunataks 95211,Graves,H6,chondrite,518.8,Found,1995,-86.71667,-141.5
 11567,Graves Nunataks 95212,Graves,H5,chondrite,444.1,Found,1995,-86.71667,-141.5
@@ -11784,7 +11784,7 @@
 11782,Great Sand Sea 008,Great,LL3-6,chondrite,450.0,Found,1996,26.59444,25.62222
 11783,Great Sand Sea 009,Great,H5,chondrite,414.0,Found,1996,27.03056,26.67444
 11784,Great Sand Sea 019,Great,LL6,chondrite,12000.0,Found,1999,25.53667,25.65778
-11785,Great Sand Sea 020,Great,H,unclassified,5420.0,Found,2000,26.01667,25.73333
+11785,Great Sand Sea 020,Great,H,chondrite,5420.0,Found,2000,26.01667,25.73333
 11786,Great Sand Sea 021,Great,L5,chondrite,1416.0,Found,2002,28.10567,25.54017
 11787,Great Sand Sea 022,Great,H6,chondrite,0.9,Found,1994,25.91667,25.66667
 11788,Great Sand Sea 023,Great,H5,chondrite,1.5,Found,1996,25.16667,25.66667
@@ -11901,7 +11901,7 @@
 11899,Grosvenor Mountains 95563,Grosvenor,L6,chondrite,209.4,Found,1995,-85.66667,175.0
 11900,Grosvenor Mountains 95564,Grosvenor,L6,chondrite,264.2,Found,1995,-85.66667,175.0
 11901,Grosvenor Mountains 95565,Grosvenor,L5,chondrite,167.5,Found,1995,-85.66667,175.0
-11902,Grosvenor Mountains 95566,Grosvenor,C2-ung,unclassified,50.7,Found,1995,-85.66667,175.0
+11902,Grosvenor Mountains 95566,Grosvenor,C2-ung,chondrite,50.7,Found,1995,-85.66667,175.0
 11903,Grosvenor Mountains 95567,Grosvenor,L6,chondrite,154.5,Found,1995,-85.66667,175.0
 11904,Grosvenor Mountains 95568,Grosvenor,L6,chondrite,139.7,Found,1995,-85.66667,175.0
 11905,Grosvenor Mountains 95569,Grosvenor,L6,chondrite,46.6,Found,1995,-85.66667,175.0
@@ -12570,8 +12570,8 @@
 12568,Grove Mountains 021759,Grove,L6,chondrite,0.84,Found,2003,-72.78472,75.2875
 12569,Grove Mountains 021760,Grove,L6,chondrite,2.53,Found,2003,-72.78444,75.29028
 12570,Grove Mountains 021763,Grove,L6,chondrite,0.59,Found,2003,-72.78389,75.30806
-12571,Grove Mountains 021767,Grove,CR,unclassified,0.86,Found,2003,-72.78472,75.29444
-12572,Grove Mountains 021768,Grove,CR,unclassified,1.0,Found,2003,-72.784444,75.325833
+12571,Grove Mountains 021767,Grove,CR,chondrite,0.86,Found,2003,-72.78472,75.29444
+12572,Grove Mountains 021768,Grove,CR,chondrite,1.0,Found,2003,-72.784444,75.325833
 12573,Grove Mountains 021769,Grove,CR2,chondrite,0.66,Found,2003,-72.7844,75.3094
 12574,Grove Mountains 021770,Grove,L6,chondrite,2.42,Found,2003,-72.775,75.31556
 12575,Grove Mountains 021771,Grove,L6,chondrite,0.45,Found,2003,-72.775,75.3175
@@ -14517,7 +14517,7 @@
 14515,Gunnadorah 008,Gunnadorah,H6,chondrite,6.13,Found,1994,-30.48083,126.34633
 14516,Gunnadorah 009,Gunnadorah,H6,chondrite,0.4,Found,1994,-30.48083,126.34633
 14517,Gunnadorah 010,Gunnadorah,H5,chondrite,1.3,Found,1994,-30.46667,126.33333
-14518,Gunnadorah 011,Gunnadorah,L,unclassified,33.0,Found,1993,-30.9685,126.252
+14518,Gunnadorah 011,Gunnadorah,L,chondrite,33.0,Found,1993,-30.9685,126.252
 14519,Hagersville,Hagersville,"Iron, IAB complex",iron,30000.0,Found,1999,42.96667,-80.15
 14520,Haig,Haig,"Iron, IIIAB",iron,503000.0,Found,1951,-31.38333,125.63333
 14521,Hainholz,Hainholz,Mesosiderite-A4,stony-iron,16500.0,Found,1856,52.28333,8.91667
@@ -14601,7 +14601,7 @@
 14599,Hammadah al Hamra 070,Hammadah,H6,chondrite,628.0,Found,1994,29.16133,12.45
 14600,Hammadah al Hamra 071,Hammadah,L6,chondrite,1828.0,Found,1994,29.2125,12.52183
 14601,Hammadah al Hamra 072,Hammadah,H5,chondrite,250.0,Found,1994,28.76717,12.89883
-14602,Hammadah al Hamra 073,Hammadah,C4-ung,unclassified,569.0,Found,1994,28.78767,12.87017
+14602,Hammadah al Hamra 073,Hammadah,C4-ung,chondrite,569.0,Found,1994,28.78767,12.87017
 14603,Hammadah al Hamra 074,Hammadah,L/LL6,chondrite,70.0,Found,1994,28.85617,12.59867
 14604,Hammadah al Hamra 075,Hammadah,H5,chondrite,879.0,Found,1994,28.90467,12.55567
 14605,Hammadah al Hamra 076,Hammadah,H5,chondrite,424.0,Found,1994,28.969,12.357
@@ -14765,7 +14765,7 @@
 14763,Hammadah al Hamra 234,Hammadah,L6,chondrite,133.0,Found,1997,29.076,11.97533
 14764,Hammadah al Hamra 235,Hammadah,H5,chondrite,537.0,Found,1997,29.01717,12.08667
 14765,Hammadah al Hamra 236,Hammadah,L4,chondrite,8261.0,Found,1997,28.52633,13.06517
-14766,Hammadah al Hamra 237,Hammadah,CBb,unclassified,3173.0,Found,1997,28.60933,13.04917
+14766,Hammadah al Hamra 237,Hammadah,CBb,chondrite,3173.0,Found,1997,28.60933,13.04917
 14767,Hammadah al Hamra 238,Hammadah,L6,chondrite,266.0,Found,1997,28.93083,13.126
 14768,Hammadah al Hamra 239,Hammadah,H5,chondrite,393.0,Found,1997,28.47817,13.14417
 14769,Hammadah al Hamra 240,Hammadah,L4,chondrite,1624.0,Found,1997,29.44983,11.36117
@@ -14902,7 +14902,7 @@
 14900,Harrisonville,Harrisonville,L6,chondrite,46500.0,Found,1933,38.65,-94.33333
 14901,Hart,Hart,CK3,chondrite,966.0,Found,2010,34.37718,-102.11672
 14902,Hart Camp,Hart,H6,chondrite,1200.0,Found,1970,33.99833,-102.17667
-14903,Hartley,Hartley,L,unclassified,2100.0,Found,1967,35.94167,-102.16
+14903,Hartley,Hartley,L,chondrite,2100.0,Found,1967,35.94167,-102.16
 14904,Hartsel,Hartsel,H4,chondrite,490.0,Found,2000,38.83333,-105.8
 14905,Haskell,Haskell,L5,chondrite,36000.0,Found,1909,33.21333,-99.73167
 14906,Hasparos,Hasparos,"Iron, IAB-MG",iron,12880.0,Found,1935,34.0,-105.5
@@ -14932,14 +14932,14 @@
 14930,Hildreth,Hildreth,L5,chondrite,3060.0,Found,1894,40.33333,-99.03333
 14931,Hill City,Hill,"Iron, IVA",iron,11700.0,Found,1947,39.36667,-99.85
 14932,Hinojal,Hinojal,L6,chondrite,50000.0,Found,1927,-32.36667,-60.15
-14933,Hinojo,Hinojo,H,unclassified,1155.0,Found,1928,-36.86667,-60.16667
+14933,Hinojo,Hinojo,H,chondrite,1155.0,Found,1928,-36.86667,-60.16667
 14934,Hoba,Hoba,"Iron, IVB",iron,60000000.0,Found,1920,-19.58333,17.91667
 14935,Hobbs,Hobbs,H4,chondrite,2300.0,Found,1933,32.73333,-103.1
 14936,Hobbs (b),Hobbs,H5,chondrite,1600.0,Found,1933,32.73333,-103.1
 14937,Holland's Store,Holland's,"Iron, IIAB",iron,12200.0,Found,1887,34.36667,-85.43333
 14938,Holliday,Holliday,Iron,iron,12.0,Found,1950,33.75,-98.83333
 14939,Holly,Holly,H4,chondrite,299.0,Found,1937,38.06667,-102.1
-14940,Holman Island,Holman,LL,unclassified,552.0,Found,1951,70.73333,-117.75
+14940,Holman Island,Holman,LL,chondrite,552.0,Found,1951,70.73333,-117.75
 14941,Holyoke,Holyoke,H4,chondrite,11200.0,Found,1933,40.56667,-102.3
 14942,Homewood,Homewood,L6,chondrite,325.0,Found,1970,49.50833,-97.81667
 14943,Hope,Hope,"Iron, IAB-MG",iron,6800.0,Found,1955,33.68333,-93.6
@@ -15019,7 +15019,7 @@
 15017,Hunter,Hunter,LL5,chondrite,74600.0,Found,1962,36.56,-97.66667
 15018,Huntsman,Huntsman,H4,chondrite,14500.0,Found,1910,41.18333,-103.0
 15019,Hyattville,Hyattville,L6,chondrite,8911.0,Found,2008,44.33823,-107.67405
-15020,Idalia,Idalia,H,unclassified,7400.0,Found,1968,39.695,-102.295
+15020,Idalia,Idalia,H,chondrite,7400.0,Found,1968,39.695,-102.295
 15021,Ider,Ider,"Iron, IIIAB",iron,140000.0,Found,1957,34.68333,-85.65
 15022,Ifould Lake 001,Ifould,L5,chondrite,40.9,Found,2008,-30.85,132.08333
 15023,Igdi,Igdi,Eucrite-mmict,achondrite,1470.0,Found,2000,29.23333,-8.36667
@@ -15089,7 +15089,7 @@
 15087,Jenkins,Jenkins,"Iron, IAB-MG",iron,55400.0,Found,1946,36.82444,-93.76111
 15088,Jenny's Creek,Jenny's,"Iron, IAB-MG",iron,12000.0,Found,1883,37.9,-82.38333
 15089,Jepara,Jepara,"Pallasite, PMG",stony-iron,499500.0,Found,2008,-6.6,110.73333
-15090,Jerome (Idaho),Jerome,L,unclassified,6800.0,Found,1954,42.63333,-114.83333
+15090,Jerome (Idaho),Jerome,L,chondrite,6800.0,Found,1954,42.63333,-114.83333
 15091,Jerome (Kansas),Jerome,L4,chondrite,29600.0,Found,1894,38.76667,-100.73333
 15092,Jerslev,Jerslev,"Iron, IIAB",iron,40000.0,Found,1976,55.608833,11.229167
 15093,Jiddat al Harasis,Jiddat,H4,chondrite,1400.0,Found,1957,19.25,56.06667
@@ -15766,7 +15766,7 @@
 15764,Kamyshla,Kamyshla,L6,chondrite,1540.0,Found,1981,54.0,52.2
 15765,Kansas City (1903),Kansas,H5,chondrite,36000.0,Found,1903,39.1,-94.63333
 15766,Kansas State University,Kansas,H4,chondrite,301.0,Found,2004,39.27556,-96.25944
-15767,Kanzaki,Kanzaki,H,unclassified,483.0,Found,1905,33.3,130.36667
+15767,Kanzaki,Kanzaki,H,chondrite,483.0,Found,1905,33.3,130.36667
 15768,Kappakoola,Kappakoola,H6,chondrite,392.5,Found,1929,-33.25,135.53333
 15769,Kapunda,Kapunda,"Iron, IIIAB",iron,542.0,Found,1965,-34.31667,138.93333
 15770,Karagai,Karagai,L6,chondrite,115.0,Found,1900,51.11667,57.91667
@@ -15945,7 +15945,7 @@
 15943,LaPaz Icefield 02235,LaPaz,L5,chondrite,31.11,Found,2002,-86.36667,-70.0
 15944,LaPaz Icefield 02236,LaPaz,LL5,chondrite,40.04,Found,2002,-86.36667,-70.0
 15945,LaPaz Icefield 02237,LaPaz,H5,chondrite,24.4,Found,2002,-86.36667,-70.0
-15946,LaPaz Icefield 02238,LaPaz,R,unclassified,26.6,Found,2002,-86.36667,-70.0
+15946,LaPaz Icefield 02238,LaPaz,R,chondrite,26.6,Found,2002,-86.36667,-70.0
 15947,LaPaz Icefield 02239,LaPaz,CM2,chondrite,39.3,Found,2002,-86.36667,-70.0
 15948,LaPaz Icefield 02240,LaPaz,H-imp melt,chondrite,28.16,Found,2002,-86.36667,-70.0
 15949,LaPaz Icefield 02241,LaPaz,LL5,chondrite,106.0,Found,2002,-86.36667,-70.0
@@ -16154,7 +16154,7 @@
 16152,Lazarev,Lazarev,"Iron, ungrouped",iron,10000.0,Found,1961,-71.95,11.5
 16153,Lazbuddie,Lazbuddie,LL5,chondrite,8600.0,Found,1970,34.5,-102.75
 16154,Lea County 001,Lea,H5,chondrite,498.0,Found,1988,32.03333,-103.15
-16155,Lea County 002,Lea,K3,unclassified,11.0,Found,1988,32.03333,-103.16667
+16155,Lea County 002,Lea,K3,chondrite,11.0,Found,1988,32.03333,-103.16667
 16156,Lea County 003,Lea,H4,chondrite,4.91,Found,1999,32.04333,-103.15333
 16157,Leander,Leander,L4,chondrite,760.0,Found,1940,30.6,-97.9
 16158,Lebedinnyi,Lebedinnyi,Iron,iron,410.0,Found,1925,55.95,125.4
@@ -16197,7 +16197,7 @@
 16195,Lewis Cliff 85329,Lewis,H6,chondrite,169.6,Found,1985,-84.28333,161.08333
 16196,Lewis Cliff 85330,Lewis,H6,chondrite,67.0,Found,1985,-84.26709,161.36497
 16197,Lewis Cliff 85331,Lewis,H6,chondrite,54.3,Found,1985,-84.28302,161.33362
-16198,Lewis Cliff 85332,Lewis,C3-ung,unclassified,113.7,Found,1985,-84.29006,161.33639
+16198,Lewis Cliff 85332,Lewis,C3-ung,chondrite,113.7,Found,1985,-84.29006,161.33639
 16199,Lewis Cliff 85333,Lewis,L4,chondrite,47.9,Found,1985,-84.29547,161.30152
 16200,Lewis Cliff 85334,Lewis,H5,chondrite,177.0,Found,1985,-84.26932,161.38759
 16201,Lewis Cliff 85335,Lewis,H6,chondrite,106.7,Found,1985,-84.28593,161.36361
@@ -17089,7 +17089,7 @@
 17087,Lewis Cliff 87228,Lewis,H6,chondrite,2.4,Found,1987,-84.357,161.36443
 17088,Lewis Cliff 87230,Lewis,H6,chondrite,175.1,Found,1987,-84.35632,161.32918
 17089,Lewis Cliff 87231,Lewis,H6,chondrite,75.1,Found,1987,-84.35516,161.36864
-17090,Lewis Cliff 87232,Lewis,K,unclassified,23.1,Found,1987,-84.34201,161.39314
+17090,Lewis Cliff 87232,Lewis,K,chondrite,23.1,Found,1987,-84.34201,161.39314
 17091,Lewis Cliff 87233,Lewis,H5,chondrite,36.6,Found,1987,-84.27281,161.7129
 17092,Lewis Cliff 87234,Lewis,E3-an,unclassified,34.2,Found,1987,-84.36199,161.29308
 17093,Lewis Cliff 87235,Lewis,LL6,chondrite,1.1,Found,1987,-84.34417,161.466
@@ -17426,7 +17426,7 @@
 17424,Lewis Cliff 88277,Lewis,LL5,chondrite,5.2,Found,1988,-84.23654,161.44034
 17425,Lewis Cliff 88278,Lewis,L6,chondrite,3.1,Found,1988,-84.28415,161.34579
 17426,Lewis Cliff 88279,Lewis,L6,chondrite,11.6,Found,1988,-84.23249,161.43758
-17427,Lewis Cliff 88280,Lewis,Lodranite,unclassified,6.0,Found,1988,-84.28238,161.359
+17427,Lewis Cliff 88280,Lewis,Lodranite,achondrite,6.0,Found,1988,-84.28238,161.359
 17428,Lewis Cliff 88281,Lewis,Ureilite,achondrite,9.7,Found,1988,-84.23664,161.47099
 17429,Lewis Cliff 88282,Lewis,L6,chondrite,3.3,Found,1988,-84.23753,161.46805
 17430,Lewis Cliff 88283,Lewis,H4,chondrite,8.1,Found,1988,-84.23641,161.45106
@@ -18084,11 +18084,11 @@
 18082,Longtian,Longtian,"Iron, IIIAB",iron,350000.0,Found,1991,27.35,108.5
 18083,Lookout Hill,Lookout,CM2,chondrite,16.6,Found,1976,-30.09056,128.80583
 18084,Loomis,Loomis,L6,chondrite,3020.0,Found,1933,40.46667,-99.5
-18085,Loongana 001,Loongana,C4-ung,unclassified,179.0,Found,1990,-30.6,127.16667
+18085,Loongana 001,Loongana,C4-ung,chondrite,179.0,Found,1990,-30.6,127.16667
 18086,Loongana 002,Loongana,H6,chondrite,53.89,Found,1992,-30.13,127.38267
 18087,Loongana 003,Loongana,L5,chondrite,58.0,Found,1990,-30.53583,127.33967
 18088,Loop,Loop,L6,chondrite,5600.0,Found,1962,32.9,-102.28333
-18089,Loop (b),Loop,H,unclassified,1600.0,Found,1964,32.99167,-102.38833
+18089,Loop (b),Loop,H,chondrite,1600.0,Found,1964,32.99167,-102.38833
 18090,Loop (c),Loop,OC,unclassified,861.0,Found,1964,32.98333,-102.38833
 18091,Lorenzo,Lorenzo,L5,chondrite,611.9,Found,1941,41.03333,-102.88333
 18092,Loreto,Loreto,"Iron, IIIAB",iron,94800.0,Found,1896,26.01667,-111.36667
@@ -18343,8 +18343,8 @@
 18341,MacAlpine Hills 87303,MacAlpine,L4,chondrite,254.2,Found,1987,-84.21667,160.5
 18342,MacAlpine Hills 87304,MacAlpine,L6,chondrite,1433.0,Found,1987,-84.21667,160.5
 18343,MacAlpine Hills 87302,MacAlpine,L4,chondrite,1094.6,Found,1987,-84.21667,160.5
-18344,MacAlpine Hills 87300,MacAlpine,C2-ung,unclassified,167.5,Found,1987,-84.21667,160.5
-18345,MacAlpine Hills 87301,MacAlpine,C3-ung,unclassified,110.9,Found,1987,-84.21667,160.5
+18344,MacAlpine Hills 87300,MacAlpine,C2-ung,chondrite,167.5,Found,1987,-84.21667,160.5
+18345,MacAlpine Hills 87301,MacAlpine,C3-ung,chondrite,110.9,Found,1987,-84.21667,160.5
 18346,MacAlpine Hills 87305,MacAlpine,L4,chondrite,1244.2,Found,1987,-84.21667,160.5
 18347,MacAlpine Hills 87306,MacAlpine,L4,chondrite,1198.7,Found,1987,-84.21667,160.5
 18348,MacAlpine Hills 87307,MacAlpine,H4,chondrite,1055.6,Found,1987,-84.21667,160.5
@@ -18368,7 +18368,7 @@
 18366,MacAlpine Hills 88104,MacAlpine,Lunar (anorth),achondrite,61.2,Found,1988,-84.21667,160.5
 18367,MacAlpine Hills 88105,MacAlpine,Lunar (anorth),achondrite,662.5,Found,1988,-84.21667,160.5
 18368,MacAlpine Hills 88106,MacAlpine,LL6,chondrite,26.7,Found,1988,-84.21667,160.5
-18369,MacAlpine Hills 88107,MacAlpine,C3-ung,unclassified,192.8,Found,1988,-84.21667,160.5
+18369,MacAlpine Hills 88107,MacAlpine,C3-ung,chondrite,192.8,Found,1988,-84.21667,160.5
 18370,MacAlpine Hills 88108,MacAlpine,H5,chondrite,6988.4,Found,1988,-84.21667,160.5
 18371,MacAlpine Hills 88109,MacAlpine,L5,chondrite,4112.1,Found,1988,-84.21667,160.5
 18372,MacAlpine Hills 88110,MacAlpine,H5,chondrite,5369.9,Found,1988,-84.21667,160.5
@@ -18438,7 +18438,7 @@
 18436,MacAlpine Hills 88174,MacAlpine,H3.5,chondrite,98.4,Found,1988,-84.21667,160.5
 18437,MacAlpine Hills 88175,MacAlpine,LL6,chondrite,128.1,Found,1988,-84.21667,160.5
 18438,MacAlpine Hills 88176,MacAlpine,CM2,chondrite,37.9,Found,1988,-84.21667,160.5
-18439,MacAlpine Hills 88177,MacAlpine,Lodranite,unclassified,35.3,Found,1988,-84.21667,160.5
+18439,MacAlpine Hills 88177,MacAlpine,Lodranite,achondrite,35.3,Found,1988,-84.21667,160.5
 18440,MacAlpine Hills 88178,MacAlpine,L6,chondrite,28.1,Found,1988,-84.21667,160.5
 18441,MacAlpine Hills 88179,MacAlpine,H5,chondrite,19.2,Found,1988,-84.21667,160.5
 18442,MacAlpine Hills 88180,MacAlpine,EL3,chondrite,26.6,Found,1988,-84.21667,160.5
@@ -18495,7 +18495,7 @@
 18493,Marengo,Marengo,L6,chondrite,68.0,Found,1991,42.29111,-88.62556
 18494,Maria da Fé,Maria,"Iron, IVA",iron,18000.0,Found,1987,-22.3,-45.36667
 18495,Maria Elena (1935),Maria,"Iron, IVA",iron,15500.0,Found,1935,-22.33333,-69.66667
-18496,Maricopa,Maricopa,H,unclassified,50.0,Found,1980,33.25,-112.05
+18496,Maricopa,Maricopa,H,chondrite,50.0,Found,1980,33.25,-112.05
 18497,Mar'inka,Mar'inka,"Iron, IIAB",iron,144.0,Found,1976,47.9,37.5
 18498,Marion (Kansas),Marion,L5,chondrite,2890.0,Found,1955,38.36667,-97.03333
 18499,Markovka,Markovka,H4,chondrite,54200.0,Found,1967,52.4,79.8
@@ -19729,7 +19729,7 @@
 19727,Minas Gerais,Minas,L6,chondrite,1224.0,Found,1888,-18.5,-44.0
 19728,Mincy,Mincy,Mesosiderite-B4,stony-iron,89400.0,Found,1857,36.55,-93.1
 19729,Minqar Abd el Nabi,Minqar,H6,chondrite,362.0,Found,1992,29.90889,29.90833
-19730,Mission,Mission,L,unclassified,12000.0,Found,1949,43.31667,-100.76667
+19730,Mission,Mission,L,chondrite,12000.0,Found,1949,43.31667,-100.76667
 19731,Misteca,Misteca,"Iron, ungrouped",iron,10000.0,Found,1804,16.8,-97.1
 19732,Moama,Moama,Eucrite-cm,achondrite,3416.0,Found,1940,-35.95,144.51667
 19733,Moapa Valley,Moapa,CM1,chondrite,698.8,Found,2004,36.55722,-114.42694
@@ -19749,7 +19749,7 @@
 19747,Moorumbunna,Moorumbunna,"Iron, IIIAB",iron,77000.0,Found,1943,-28.91667,136.25
 19748,Morasko,Morasko,"Iron, IAB-MG",iron,290000.0,Found,1914,52.46667,16.9
 19749,Morden,Morden,"Iron, IAB?",iron,2426.0,Found,1922,-30.5,142.33333
-19750,Moriarty,Moriarty,L,unclassified,330.0,Found,1975,34.98333,-106.05
+19750,Moriarty,Moriarty,L,chondrite,330.0,Found,1975,34.98333,-106.05
 19751,Morito,Morito,"Iron, IIIAB",iron,10100000.0,Found,1600,27.05,-105.43333
 19752,Morland,Morland,H6,chondrite,295000.0,Found,1890,39.33333,-100.06667
 19753,Morokweng,Morokweng,LL6,chondrite,750.0,Found,2004,-26.37247,23.52395
@@ -19785,7 +19785,7 @@
 19783,Mount Magnet,Mount,"Iron, IAB-sHH",iron,16600.0,Found,1916,-28.16667,118.5
 19784,Mount Margaret,Mount,L5,chondrite,850.0,Found,1972,-28.83333,122.18333
 19785,Mount Moroto,Mount,L6,chondrite,752.0,Found,1995,2.5,34.75
-19786,Mount Morris (New York),Mount,H,unclassified,12.5,Found,1897,42.7,-77.88333
+19786,Mount Morris (New York),Mount,H,chondrite,12.5,Found,1897,42.7,-77.88333
 19787,Mount Morris (Wisconsin),Mount,"Iron, IAB-an",iron,676.0,Found,1937,44.0,-89.25
 19788,Mount Ouray,Mount,"Iron, IID",iron,900.0,Found,1898,38.41667,-106.21667
 19789,Mount Padbury,Mount,Mesosiderite-A1,stony-iron,272000.0,Found,1964,-25.66667,118.1
@@ -19849,7 +19849,7 @@
 19847,Muleshoe,Muleshoe,H4/6,chondrite,3600.0,Found,1972,34.12167,-102.695
 19848,Mulga (north),Mulga,H6,chondrite,19900.0,Found,1964,-30.18333,126.36667
 19849,Mulga (south),Mulga,H4,chondrite,894.0,Found,1963,-30.2,126.36667
-19850,Mulga (west),Mulga,C5/6-ung,unclassified,169.2,Found,1971,-30.18333,126.36667
+19850,Mulga (west),Mulga,C5/6-ung,chondrite,169.2,Found,1971,-30.18333,126.36667
 19851,Mundrabilla,Mundrabilla,"Iron, IAB-ung",iron,24000000.0,Found,1911,-30.78333,127.55
 19852,Mundrabilla 002,Mundrabilla,H5,chondrite,251.0,Found,1971,-30.88333,127.55
 19853,Mundrabilla 003,Mundrabilla,H3,chondrite,235.0,Found,1972,-30.85,127.53333
@@ -19876,7 +19876,7 @@
 19874,Murchison Downs,Murchison,"Iron, ungrouped",iron,33.0,Found,1925,-26.66667,119.0
 19875,Murfreesboro,Murfreesboro,"Iron, ungrouped",iron,8600.0,Found,1847,35.83333,-86.41667
 19876,Murnpeowie,Murnpeowie,"Iron, IC",iron,1143000.0,Found,1909,-29.58333,139.9
-19877,Muroc,Muroc,L,unclassified,18.4,Found,1936,34.91667,-117.83333
+19877,Muroc,Muroc,L,chondrite,18.4,Found,1936,34.91667,-117.83333
 19878,Muroc Dry Lake,Muroc,L6,chondrite,223.0,Found,1936,34.91667,-117.83333
 19879,Murphy,Murphy,"Iron, IIAB",iron,7700.0,Found,1899,35.1,-84.03333
 19880,Murzuq Idhån,Murzuq,H4,chondrite,35.0,Found,1997,23.8,12.31667
@@ -19888,8 +19888,8 @@
 19886,Nahuel Niyeu,Nahuel,H5,chondrite,10540.0,Found,2005,-40.53333,-66.63333
 19887,Naifa,Naifa,Iron,iron,8.0,Found,1932,19.93333,51.21667
 19888,Naiman,Naiman,L6,chondrite,1050.0,Found,1982,42.83333,120.66667
-19889,Nainital,Nainital,L,unclassified,5000.0,Found,1980,29.36667,79.43333
-19890,Nallah,Nallah,H,unclassified,4.62,Found,1968,-31.96667,126.25
+19889,Nainital,Nainital,L,chondrite,5000.0,Found,1980,29.36667,79.43333
+19890,Nallah,Nallah,H,chondrite,4.62,Found,1968,-31.96667,126.25
 19891,Namib Desert,Namib,H4,chondrite,1000.0,Found,1979,-24.75,15.36667
 19892,Nantan,Nantan,"Iron, IAB-MG",iron,9500000.0,Found,1958,25.1,107.7
 19893,Nardoo (no. 1),Nardoo,H5,chondrite,3180.0,Found,1944,-29.53333,143.98333
@@ -19988,7 +19988,7 @@
 19986,Northwest Africa 030,Northwest,H4,chondrite,65.0,Found,1999,30.33333,-5.83333
 19987,Northwest Africa 031,Northwest,H5,chondrite,730.0,Found,1999,30.33333,-5.83333
 19988,Northwest Africa 032,Northwest,Lunar (basalt),achondrite,300.0,Found,1999,30.36667,-5.05
-19989,Northwest Africa 033,Northwest,C3-ung,unclassified,192.0,Found,1999,30.9,-3.96667
+19989,Northwest Africa 033,Northwest,C3-ung,chondrite,192.0,Found,1999,30.9,-3.96667
 19990,Northwest Africa 034,Northwest,L4,chondrite,3500.0,Found,1999,32.05,-3.03333
 19991,Northwest Africa 035,Northwest,L6,chondrite,950.0,Found,1999,27.16667,-9.5
 19992,Northwest Africa 036,Northwest,H5/6,chondrite,163.0,Found,1999,27.16667,-9.5
@@ -20219,7 +20219,7 @@
 20217,Oro Grande,Oro,H5,chondrite,513.0,Found,1971,32.37167,-106.25833
 20218,Oroville,Oroville,"Iron, IIIAB",iron,24500.0,Found,1893,39.68333,-121.63333
 20219,Oscuro Mountains,Oscuro,"Iron, IAB-MG",iron,3600.0,Found,1895,33.63333,-106.38333
-20220,Oshkosh,Oshkosh,H,unclassified,144.8,Found,1961,44.07694,-88.56278
+20220,Oshkosh,Oshkosh,H,chondrite,144.8,Found,1961,44.07694,-88.56278
 20221,Osseo,Osseo,"Iron, IAB complex",iron,46300.0,Found,1931,47.63333,-80.08333
 20222,Österplana 048,Österplana,Relict OC,unclassified,0.0,Found,2004,58.58333,13.43333
 20223,Österplana 049,Österplana,Relict OC,unclassified,0.0,Found,2012,58.58333,13.43333
@@ -20244,7 +20244,7 @@
 20242,Otto,Otto,H5,chondrite,28.0,Found,1970,35.16667,-105.98333
 20243,Ouallen,Ouallen,H6,chondrite,5174.0,Found,1936,24.16667,0.08333
 20244,Oubari,Oubari,LL6,chondrite,8000.0,Found,1944,26.8,13.58333
-20245,Oufrane,Oufrane,L,unclassified,540.0,Found,1969,28.29583,0.025
+20245,Oufrane,Oufrane,L,chondrite,540.0,Found,1969,28.29583,0.025
 20246,Outpost Nunatak A80301,Outpost,H3.8,chondrite,35.5,Found,1980,-75.83333,158.2
 20247,Ouzina,Ouzina,R4,chondrite,642.0,Found,1999,30.8,-4.18333
 20248,Overland Park,Overland,H4,chondrite,1374.0,Found,1998,38.96667,-94.66667
@@ -21018,7 +21018,7 @@
 21016,Pierceville (stone),Pierceville,L6,chondrite,2125.0,Found,1939,37.86667,-100.66667
 21017,Pigick,Pigick,H5,chondrite,690.0,Found,1994,-35.90667,141.855
 21018,Pima County,Pima,"Iron, IIAB",iron,210.0,Found,1947,32.2,-111.0
-21019,Pine Bluffs,Pine,H,unclassified,2700.0,Found,1935,41.18333,-104.06667
+21019,Pine Bluffs,Pine,H,chondrite,2700.0,Found,1935,41.18333,-104.06667
 21020,Pine Dam,Pine,L5,chondrite,200.4,Found,1976,-30.41667,138.0
 21021,Pine River,Pine,"Iron, IAB-sLL",iron,3600.0,Found,1931,44.21667,-89.1
 21022,Pingrup,Pingrup,H5-melt breccia,chondrite,1213.0,Found,2011,-33.58316,118.65662
@@ -21033,7 +21033,7 @@
 21031,Plains,Plains,H5,chondrite,34300.0,Found,1964,33.28333,-102.76667
 21032,Plains (d),Plains,H4,chondrite,280.0,Found,1991,33.26667,-102.9
 21033,Plainview (1917),Plainview,H5,chondrite,700000.0,Found,1917,34.11667,-101.78333
-21034,Plainview (1950),Plainview,H,unclassified,2200.0,Found,1950,34.11667,-101.78333
+21034,Plainview (1950),Plainview,H,chondrite,2200.0,Found,1950,34.11667,-101.78333
 21035,Plainview (c),Plainview,OC,unclassified,631.0,Found,1963,34.125,-101.75667
 21036,Plainview (d),Plainview,L6,chondrite,700.0,Found,1979,34.1875,-101.70417
 21037,Plainview (e),Plainview,H5,chondrite,1250.0,Found,2010,34.18513,-101.70558
@@ -21061,9 +21061,9 @@
 21059,Portales (a),Portales,H4,chondrite,3240.0,Found,1967,34.06667,-103.5
 21060,Portales (b),Portales,L6,chondrite,595.8,Found,1967,34.06667,-103.5
 21061,Portales (c),Portales,H4,chondrite,6000.0,Found,1967,34.1,-103.41667
-21062,Portis,Portis,L,unclassified,30.0,Found,1959,39.56667,-98.68333
+21062,Portis,Portis,L,chondrite,30.0,Found,1959,39.56667,-98.68333
 21063,Porto Alegre,Porto,"Iron, IIIE",iron,200000.0,Found,2005,-30.03306,-51.23
-21064,Post,Post,L,unclassified,2000.0,Found,1965,33.11667,-101.38333
+21064,Post,Post,L,chondrite,2000.0,Found,1965,33.11667,-101.38333
 21065,Potter,Potter,L6,chondrite,261000.0,Found,1941,41.23333,-103.3
 21066,Powell Peak 001,Powell,H6,chondrite,42.8,Found,2011,34.68222,-114.33046
 21067,Powell Peak 002,Powell,L4,chondrite,1062.0,Found,2008,34.7049,-114.34572
@@ -21077,9 +21077,9 @@
 21075,Prospector Pool,Prospector,"Iron, ungrouped",iron,2768.0,Found,2003,-29.35,121.76667
 21076,Providence,Providence,"Iron, IIIAB",iron,6804.0,Found,1903,38.56667,-85.23333
 21077,Puente del Zacate,Puente,"Iron, IIIAB",iron,30790.0,Found,1904,27.86667,-101.5
-21078,Puente-Ladron,Puente-Ladron,L,unclassified,7.7,Found,1944,34.4,-106.85
+21078,Puente-Ladron,Puente-Ladron,L,chondrite,7.7,Found,1944,34.4,-106.85
 21079,Puerta de Arauco,Puerta,Iron,iron,1533.0,Found,1904,-28.88333,-66.66667
-21080,Puerto Libertad,Puerto,L,unclassified,66.0,Found,1973,29.9,-112.68333
+21080,Puerto Libertad,Puerto,L,chondrite,66.0,Found,1973,29.9,-112.68333
 21081,Puquios,Puquios,"Iron, IID",iron,6580.0,Found,1885,-27.15,-69.91667
 21082,Purgatory Peak A77006,Purgatory,"Iron, IAB-MG",iron,19068.0,Found,1977,-77.33333,162.3
 21083,Purmela,Purmela,"Iron, IIF",iron,4500.0,Found,1977,29.5,-98.05
@@ -22221,7 +22221,7 @@
 22219,Queen Alexandra Range 94408,Queen,L6,chondrite,3.1,Found,1994,-84.0,168.0
 22220,Queen Alexandra Range 94409,Queen,H5,chondrite,50.6,Found,1994,-84.0,168.0
 22221,Queen Alexandra Range 94410,Queen,H5,chondrite,2.4,Found,1994,-84.0,168.0
-22222,Queen Alexandra Range 94411,Queen,CBb,unclassified,39.7,Found,1994,-84.0,168.0
+22222,Queen Alexandra Range 94411,Queen,CBb,chondrite,39.7,Found,1994,-84.0,168.0
 22223,Queen Alexandra Range 94412,Queen,H5,chondrite,2.6,Found,1994,-84.0,168.0
 22224,Queen Alexandra Range 94413,Queen,H5,chondrite,70.8,Found,1994,-84.0,168.0
 22225,Queen Alexandra Range 94414,Queen,L6,chondrite,28.0,Found,1994,-84.0,168.0
@@ -22435,7 +22435,7 @@
 22433,Queen Alexandra Range 94624,Queen,LL6,chondrite,28.6,Found,1994,-84.0,168.0
 22434,Queen Alexandra Range 94625,Queen,L5,chondrite,27.9,Found,1994,-84.0,168.0
 22435,Queen Alexandra Range 94626,Queen,H5,chondrite,30.5,Found,1994,-84.0,168.0
-22436,Queen Alexandra Range 94627,Queen,CBb,unclassified,30.5,Found,1994,-84.0,168.0
+22436,Queen Alexandra Range 94627,Queen,CBb,chondrite,30.5,Found,1994,-84.0,168.0
 22437,Queen Alexandra Range 94628,Queen,LL6,chondrite,7.3,Found,1994,-84.0,168.0
 22438,Queen Alexandra Range 94629,Queen,L5,chondrite,67.6,Found,1994,-84.0,168.0
 22439,Queen Alexandra Range 94630,Queen,L5,chondrite,56.9,Found,1994,-84.0,168.0
@@ -23937,7 +23937,7 @@
 23935,Queen Alexandra Range 99306,Queen,LL5,chondrite,1.81,Found,1999,-84.0,168.0
 23936,Queen Alexandra Range 99307,Queen,H6,chondrite,13.8,Found,1999,-84.0,168.0
 23937,Queen Alexandra Range 99308,Queen,H6,chondrite,7.5,Found,1999,-84.0,168.0
-23938,Queen Alexandra Range 99309,Queen,CBb,unclassified,1.75,Found,1999,-84.0,168.0
+23938,Queen Alexandra Range 99309,Queen,CBb,chondrite,1.75,Found,1999,-84.0,168.0
 23939,Queen Alexandra Range 99310,Queen,H6,chondrite,25.3,Found,1999,-84.0,168.0
 23940,Queen Alexandra Range 99311,Queen,H5,chondrite,98.3,Found,1999,-84.0,168.0
 23941,Queen Alexandra Range 99312,Queen,L5,chondrite,101.7,Found,1999,-84.0,168.0
@@ -25072,11 +25072,11 @@
 25070,Rock Springs,Rock,L6,chondrite,52.7,Found,2003,41.65,-109.025
 25071,Rodeo,Rodeo,"Iron, IID",iron,44000.0,Found,1852,25.33333,-104.66667
 25072,Roebourne,Roebourne,"Iron, IIIAB",iron,86860.0,Found,1892,-22.33333,118.0
-25073,Rogers,Rogers,L,unclassified,982.0,Found,1974,34.065,-103.40833
+25073,Rogers,Rogers,L,chondrite,982.0,Found,1974,34.065,-103.40833
 25074,Rolla (1936),Rolla,H5,chondrite,440.0,Found,1936,37.11667,-101.6
 25075,Rolla (1939),Rolla,H4,chondrite,207.5,Found,1939,37.11667,-101.6
 25076,Rolla (1941),Rolla,H5,chondrite,435.0,Found,1941,37.08333,-101.6
-25077,Rolla (d),Rolla,H,unclassified,50.0,Found,1942,37.08333,-101.6
+25077,Rolla (d),Rolla,H,chondrite,50.0,Found,1942,37.08333,-101.6
 25078,Romashki,Romashki,L6,chondrite,3400.0,Found,2009,50.28533,46.69967
 25079,Romero,Romero,H4,chondrite,17200.0,Found,1938,35.76667,-102.95
 25080,Rooikop 001,Rooikop,H5,chondrite,1039.0,Found,1991,-23.08333,14.715
@@ -25192,7 +25192,7 @@
 25190,Roosevelt County 110,Roosevelt,L4,chondrite,73.7,Found,1987,33.736667,-103.623333
 25191,Roper River,Roper,"Iron, IIIAB",iron,6400.0,Found,1953,-15.0,135.0
 25192,Rosamond,Rosamond,LL3,chondrite,11.1,Found,2012,34.82793,-118.1464
-25193,Rosamond Dry Lake,Rosamond,L,unclassified,850.0,Found,1940,34.83333,-118.06667
+25193,Rosamond Dry Lake,Rosamond,L,chondrite,850.0,Found,1940,34.83333,-118.06667
 25194,Rosario,Rosario,"Iron, IAB-MG",iron,2700.0,Found,1896,14.6,-88.68333
 25195,Rosebud,Rosebud,H5,chondrite,54900.0,Found,1915,30.81667,-97.05
 25196,Round Top (a),Round,L5,chondrite,9935.0,Found,1934,30.05806,-96.65139
@@ -25666,7 +25666,7 @@
 25664,Sayh al Uhaymir 326,Sayh,L6,chondrite,1352.0,Found,2004,21.00833,57.31
 25665,Sayh al Uhaymir 400,Sayh,L6,chondrite,45.59,Found,2004,20.53578,56.6709
 25666,Sayh al Uhaymir 401,Sayh,L4,chondrite,24.5,Found,2004,20.5429,56.63808
-25667,Sayh al Uhaymir 402,Sayh,Enst achon-ung,unclassified,78.0,Found,2004,21.07694,57.26972
+25667,Sayh al Uhaymir 402,Sayh,Enst achon-ung,chondrite,78.0,Found,2004,21.07694,57.26972
 25668,Sayh al Uhaymir 403,Sayh,L5,chondrite,182.4,Found,2003,20.52808,56.6753
 25669,Sayh al Uhaymir 404,Sayh,L6,chondrite,97.27,Found,2003,20.03577,57.22038
 25670,Sayh al Uhaymir 405,Sayh,H4-5,chondrite,76.04,Found,2003,20.19485,57.2022
@@ -25916,7 +25916,7 @@
 25914,Shişr 030,Shişr,H5,chondrite,176.28,Found,1998,18.1536,53.77487
 25915,Shişr 031,Shişr,L6,chondrite,503.76,Found,2003,18.21335,53.84675
 25916,Shişr 032,Shişr,H5,chondrite,69.52,Found,2003,18.041,53.69267
-25917,Shişr 033,Shişr,CR,unclassified,1097.72,Found,2002,18.34725,53.7477
+25917,Shişr 033,Shişr,CR,chondrite,1097.72,Found,2002,18.34725,53.7477
 25918,Shişr 034,Shişr,H4,chondrite,73.65,Found,2003,18.42062,54.05058
 25919,Shişr 035,Shişr,L6,chondrite,355.06,Found,2003,18.42957,54.04127
 25920,Shişr 036,Shişr,H3,chondrite,10175.0,Found,2002,18.50755,53.99325
@@ -26009,7 +26009,7 @@
 26007,Shişr 176,Shişr,L6,chondrite,1170.0,Found,2010,18.22012,53.82097
 26008,Shohaku,Shohaku,Iron,iron,101.0,Found,1938,40.31667,126.91667
 26009,Shrewsbury,Shrewsbury,"Iron, IAB-sLL",iron,12000.0,Found,1907,39.76667,-76.66667
-26010,Sidney,Sidney,L,unclassified,6000.0,Found,1941,41.05,-102.9
+26010,Sidney,Sidney,L,chondrite,6000.0,Found,1941,41.05,-102.9
 26011,Sierra Blanca,Sierra,"Iron, IAB?",iron,405.0,Found,1784,27.15,-104.9
 26012,Sierra Colorada,Sierra,L5,chondrite,71300.0,Found,1995,-40.8,-67.48333
 26013,Sierra County,Sierra,H5,chondrite,1000.0,Found,1962,33.0,-107.5
@@ -26093,7 +26093,7 @@
 26091,Spearman,Spearman,"Iron, IIIAB",iron,10400.0,Found,1934,36.25,-101.21667
 26092,Springer,Springer,H5,chondrite,8143.0,Found,1965,36.34611,-97.185
 26093,Springfield,Springfield,L6,chondrite,3200.0,Found,1937,37.38333,-102.63333
-26094,Springfield (b),Springfield,L,unclassified,229.3,Found,1937,37.48333,-102.67667
+26094,Springfield (b),Springfield,L,chondrite,229.3,Found,1937,37.48333,-102.67667
 26095,Springlake,Springlake,L6,chondrite,17300.0,Found,1980,34.34444,-102.22361
 26096,Springwater,Springwater,"Pallasite, PMG-an",stony-iron,67600.0,Found,1931,52.0,-108.3
 26097,Spruce 001,Spruce,L5,chondrite,983.0,Found,2011,40.801,-114.701
@@ -26296,7 +26296,7 @@
 26294,Techado,Techado,"Iron, IIE",iron,810.0,Found,1983,34.53333,-108.35
 26295,Tell,Tell,H6,chondrite,16600.0,Found,1930,34.38333,-100.4
 26296,Temple,Temple,L6,chondrite,5000.0,Found,1959,31.11667,-97.3
-26297,Temple Bar,Temple,CR,unclassified,106.0,Found,1998,35.91667,-114.43333
+26297,Temple Bar,Temple,CR,chondrite,106.0,Found,1998,35.91667,-114.43333
 26298,Tendo,Tendo,"Iron, IIIAB",iron,10100.0,Found,1910,38.35,140.37333
 26299,Tentacle Ridge 00001,Tentacle,L6,chondrite,11.1,Found,2000,-80.25,153.5
 26300,Tentacle Ridge 00002,Tentacle,L6,chondrite,19.8,Found,2000,-80.25,153.5
@@ -26498,16 +26498,16 @@
 26496,Turtle River,Turtle,"Iron, IIIAB",iron,22390.0,Found,1953,47.6,-94.76667
 26497,Tuzla,Tuzla,L6,chondrite,236.0,Found,1920,44.01667,28.63333
 26498,Twannberg,Twannberg,"Iron, IIG",iron,20689.0,Found,1984,47.12444,7.17889
-26499,Twentynine Palms,Twentynine,L,unclassified,19700.0,Found,1944,34.075,-116.01667
+26499,Twentynine Palms,Twentynine,L,chondrite,19700.0,Found,1944,34.075,-116.01667
 26500,Twin City,Twin,"Iron, IAB-ung",iron,5130.0,Found,1955,32.58333,-82.01667
 26501,Two Buttes (a),Two,H5,chondrite,19700.0,Found,1962,37.63333,-102.41667
-26502,Two Buttes (b),Two,H,unclassified,3000.0,Found,1970,37.63333,-102.41667
+26502,Two Buttes (b),Two,H,chondrite,3000.0,Found,1970,37.63333,-102.41667
 26503,Twodot,Twodot,H6,chondrite,21400.0,Found,1999,46.7,-110.13333
 26504,Udall Park,Udall,H4,chondrite,150.0,Found,1985,32.25,-110.83333
 26505,Udeiát el Had,Udeiát,L6,chondrite,658.0,Found,1988,29.41667,20.5
 26506,Uegit,Uegit,"Iron, IIIAB",iron,252000.0,Found,1921,3.81667,43.33333
 26507,Ularring,Ularring,L6,chondrite,271.8,Found,1970,-29.96667,120.6
-26508,Ultuna,Ultuna,H,unclassified,1900.0,Found,1944,59.81667,17.66667
+26508,Ultuna,Ultuna,H,chondrite,1900.0,Found,1944,59.81667,17.66667
 26509,Ulyanovsk,Ulyanovsk,H5,chondrite,4680.0,Found,2006,54.364947,48.591447
 26510,Ulysses,Ulysses,H4,chondrite,3900.0,Found,1927,37.6,-101.25
 26511,Um Habib,Um,L6,chondrite,696.0,Found,1960,21.5,50.5
@@ -26650,7 +26650,7 @@
 26648,Watson 013,Watson,H3,chondrite,47.1,Found,2010,-30.575,131.50164
 26649,Waverly,Waverly,"Iron, IAB-an",iron,4400.0,Found,1983,32.68333,-85.56667
 26650,Wayside,Wayside,H6,chondrite,23600.0,Found,1973,34.80167,-101.68333
-26651,Weatherford,Weatherford,CBa,unclassified,2000.0,Found,1926,35.5,-98.7
+26651,Weatherford,Weatherford,CBa,chondrite,2000.0,Found,1926,35.5,-98.7
 26652,Weaver Mountains,Weaver,"Iron, IVB",iron,38800.0,Found,1898,34.25,-112.75
 26653,Webb,Webb,L6,chondrite,410.5,Found,1968,-31.69167,127.78333
 26654,Wedderburn,Wedderburn,"Iron, IAB-sLH",iron,210.0,Found,1951,-36.43333,143.63333
@@ -26662,7 +26662,7 @@
 26660,Wellman (a),Wellman,H5,chondrite,55000.0,Found,1940,33.03333,-102.33333
 26661,Wellman (b),Wellman,OC,unclassified,343.0,Found,1964,33.025,-102.41667
 26662,Wellman (c),Wellman,H4,chondrite,45000.0,Found,1964,33.03333,-102.33333
-26663,Wellman (d),Wellman,H,unclassified,1615.0,Found,1966,33.01667,-102.36667
+26663,Wellman (d),Wellman,H,chondrite,1615.0,Found,1966,33.01667,-102.36667
 26664,Wellman (e),Wellman,H4,chondrite,959.0,Found,1973,33.67833,-102.315
 26665,Wells,Wells,LL3.3,chondrite,4135.0,Found,1985,33.05,-101.93333
 26666,Wernigerode,Wernigerode,H5,chondrite,24.3,Found,1970,51.85,10.78333
@@ -26764,7 +26764,7 @@
 26762,Yabrin 001,Yabrin,LL5,chondrite,65.19,Found,2008,23.34775,48.73742
 26763,Yabrin 002,Yabrin,H5,chondrite,46.32,Found,2008,23.35717,48.72245
 26764,Yabrin 003,Yabrin,Acapulcoite,achondrite,21.048,Found,2008,23.31522,48.62988
-26765,Yalgoo,Yalgoo,LL,unclassified,850.0,Found,1937,-28.38333,116.71667
+26765,Yalgoo,Yalgoo,LL,chondrite,850.0,Found,1937,-28.38333,116.71667
 26766,Yamato 000593,Yamato,Martian (nakhlite),achondrite,13713.0,Found,2000,-71.5,35.66667
 26767,Yamato 000749,Yamato,Martian (nakhlite),achondrite,1283.0,Found,2000,-71.5,35.66667
 26768,Yamato 000802,Yamato,Martian (nakhlite),achondrite,22.0,Found,2000,-71.5,35.66667
@@ -26796,7 +26796,7 @@
 26794,Yamato 74005,Yamato,Diogenite,achondrite,3.7,Found,1974,-71.5,35.66667
 26795,Yamato 74006,Yamato,H6,chondrite,35.8,Found,1974,-71.5,35.66667
 26796,Yamato 74007,Yamato,L6,chondrite,162.3,Found,1974,-71.5,35.66667
-26797,Yamato 74008,Yamato,H,unclassified,14.3,Found,1974,-71.5,35.66667
+26797,Yamato 74008,Yamato,H,chondrite,14.3,Found,1974,-71.5,35.66667
 26798,Yamato 74009,Yamato,L5,chondrite,9.0,Found,1974,-71.5,35.66667
 26799,Yamato 74010,Yamato,Diogenite,achondrite,298.5,Found,1974,-71.5,35.66667
 26800,Yamato 74011,Yamato,Diogenite,achondrite,206.0,Found,1974,-71.83278,36.29167
@@ -27145,11 +27145,11 @@
 27143,Yamato 74354,Yamato,L6,chondrite,2721.1,Found,1974,-71.76944,35.76111
 27144,Yamato 74355,Yamato,L4,chondrite,82.9,Found,1974,-71.75694,35.78056
 27145,Yamato 74356,Yamato,Eucrite-mmict,achondrite,10.0,Found,1974,-71.74861,35.78056
-27146,Yamato 74357,Yamato,Lodranite-an,unclassified,13.8,Found,1974,-71.74722,35.80556
+27146,Yamato 74357,Yamato,Lodranite-an,achondrite,13.8,Found,1974,-71.74722,35.80556
 27147,Yamato 74358,Yamato,L6,chondrite,2.94,Found,1974,-71.5,35.66667
 27148,Yamato 74359,Yamato,H-an,chondrite,1.53,Found,1974,-71.5,35.66667
 27149,Yamato 74360,Yamato,H-an,chondrite,3.29,Found,1974,-71.5,35.66667
-27150,Yamato 74361,Yamato,H,unclassified,0.4,Found,1974,-71.5,35.66667
+27150,Yamato 74361,Yamato,H,chondrite,0.4,Found,1974,-71.5,35.66667
 27151,Yamato 74362,Yamato,L6,chondrite,4175.0,Found,1974,-71.78889,35.80278
 27152,Yamato 74363,Yamato,H4,chondrite,1.01,Found,1974,-71.5,35.66667
 27153,Yamato 74364,Yamato,H4,chondrite,757.8,Found,1974,-71.79167,35.79444
@@ -27488,7 +27488,7 @@
 27486,Yamato 75258,Yamato,LL6,chondrite,971.0,Found,1975,-71.5,35.66667
 27487,Yamato 75259,Yamato,H6,chondrite,70.0,Found,1975,-71.5,35.66667
 27488,Yamato 75260,Yamato,CV3,chondrite,4.0,Found,1975,-71.5,35.66667
-27489,Yamato 75261,Yamato,EH,unclassified,0.59,Found,1975,-71.5,35.66667
+27489,Yamato 75261,Yamato,EH,chondrite,0.59,Found,1975,-71.5,35.66667
 27490,Yamato 75262,Yamato,H5,chondrite,47.2,Found,1975,-71.5,35.66667
 27491,Yamato 75263,Yamato,H6,chondrite,4.49,Found,1975,-71.5,35.66667
 27492,Yamato 75264,Yamato,L4,chondrite,3.3,Found,1975,-71.5,35.66667
@@ -27501,7 +27501,7 @@
 27499,Yamato 75271,Yamato,L5,chondrite,1797.5,Found,1975,-71.5,35.66667
 27500,Yamato 75272,Yamato,H4,chondrite,6.34,Found,1975,-71.5,35.66667
 27501,Yamato 75273,Yamato,LL3,chondrite,4.92,Found,1975,-71.5,35.66667
-27502,Yamato 75274,Yamato,Lodranite,unclassified,5.11,Found,1975,-71.5,35.66667
+27502,Yamato 75274,Yamato,Lodranite,achondrite,5.11,Found,1975,-71.5,35.66667
 27503,Yamato 75275,Yamato,H4,chondrite,4.64,Found,1975,-71.5,35.66667
 27504,Yamato 75276,Yamato,H6,chondrite,0.89,Found,1975,-71.5,35.66667
 27505,Yamato 75277,Yamato,H6,chondrite,99.0,Found,1975,-71.5,35.66667
@@ -27566,7 +27566,7 @@
 27564,Yamato 790043,Yamato,H4,chondrite,162.01,Found,1979,-71.5,35.66667
 27565,Yamato 790044,Yamato,H5-6,chondrite,44.02,Found,1979,-71.5,35.66667
 27566,Yamato 790047,Yamato,H4,chondrite,46.1,Found,1979,-71.5,35.66667
-27567,Yamato 790064,Yamato,LL,unclassified,11.52,Found,1979,-71.5,35.66667
+27567,Yamato 790064,Yamato,LL,chondrite,11.52,Found,1979,-71.5,35.66667
 27568,Yamato 790065,Yamato,H4,chondrite,13.88,Found,1979,-71.5,35.66667
 27569,Yamato 790066,Yamato,H4,chondrite,10.34,Found,1979,-71.5,35.66667
 27570,Yamato 790067,Yamato,H4,chondrite,9.84,Found,1979,-71.5,35.66667
@@ -27635,11 +27635,11 @@
 27633,Yamato 790133,Yamato,H6,chondrite,60.01,Found,1979,-71.5,35.66667
 27634,Yamato 790138,Yamato,H3.6,chondrite,39.32,Found,1979,-71.5,35.66667
 27635,Yamato 790142,Yamato,H6,chondrite,83.49,Found,1979,-71.5,35.66667
-27636,Yamato 790143,Yamato,LL,unclassified,52.26,Found,1979,-71.5,35.66667
+27636,Yamato 790143,Yamato,LL,chondrite,52.26,Found,1979,-71.5,35.66667
 27637,Yamato 790144,Yamato,LL7,chondrite,92.32,Found,1979,-71.5,35.66667
 27638,Yamato 790148,Yamato,H6,chondrite,3.57,Found,1979,-71.5,35.66667
-27639,Yamato 790149,Yamato,H,unclassified,16.23,Found,1979,-71.5,35.66667
-27640,Yamato 790150,Yamato,H,unclassified,8.01,Found,1979,-71.5,35.66667
+27639,Yamato 790149,Yamato,H,chondrite,16.23,Found,1979,-71.5,35.66667
+27640,Yamato 790150,Yamato,H,chondrite,8.01,Found,1979,-71.5,35.66667
 27641,Yamato 790157,Yamato,H4,chondrite,8.4,Found,1979,-71.5,35.66667
 27642,Yamato 790161,Yamato,H4,chondrite,88.38,Found,1979,-71.5,35.66667
 27643,Yamato 790166,Yamato,H5,chondrite,64.42,Found,1979,-71.5,35.66667
@@ -27656,7 +27656,7 @@
 27654,Yamato 790191,Yamato,L6,chondrite,18.5,Found,1979,-71.5,35.66667
 27655,Yamato 790194,Yamato,L6,chondrite,13.07,Found,1979,-71.5,35.66667
 27656,Yamato 790195,Yamato,H5/6,chondrite,70.57,Found,1979,-71.5,35.66667
-27657,Yamato 790199,Yamato,H,unclassified,105.74,Found,1979,-71.5,35.66667
+27657,Yamato 790199,Yamato,H,chondrite,105.74,Found,1979,-71.5,35.66667
 27658,Yamato 790215,Yamato,H5,chondrite,7.18,Found,1979,-71.5,35.66667
 27659,Yamato 790216,Yamato,H5,chondrite,6.29,Found,1979,-71.5,35.66667
 27660,Yamato 790217,Yamato,H5,chondrite,2.07,Found,1979,-71.5,35.66667
@@ -27776,7 +27776,7 @@
 27774,Yamato 790342,Yamato,H4,chondrite,0.94,Found,1979,-71.5,35.66667
 27775,Yamato 790343,Yamato,H4,chondrite,1.82,Found,1979,-71.5,35.66667
 27776,Yamato 790344,Yamato,H3/4,chondrite,5.26,Found,1979,-71.5,35.66667
-27777,Yamato 790345,Yamato,LL,unclassified,233.6,Found,1979,-71.5,35.66667
+27777,Yamato 790345,Yamato,LL,chondrite,233.6,Found,1979,-71.5,35.66667
 27778,Yamato 790346,Yamato,H6,chondrite,4.81,Found,1979,-71.5,35.66667
 27779,Yamato 790347,Yamato,H6,chondrite,6.88,Found,1979,-71.5,35.66667
 27780,Yamato 790348,Yamato,H6,chondrite,4.88,Found,1979,-71.5,35.66667
@@ -27807,9 +27807,9 @@
 27805,Yamato 790393,Yamato,H5,chondrite,54.8,Found,1979,-71.5,35.66667
 27806,Yamato 790394,Yamato,H5,chondrite,10.67,Found,1979,-71.5,35.66667
 27807,Yamato 790395,Yamato,H5,chondrite,2.35,Found,1979,-71.5,35.66667
-27808,Yamato 790396,Yamato,H,unclassified,5.06,Found,1979,-71.5,35.66667
-27809,Yamato 790397,Yamato,LL,unclassified,161.99,Found,1979,-71.5,35.66667
-27810,Yamato 790398,Yamato,LL,unclassified,6.71,Found,1979,-71.5,35.66667
+27808,Yamato 790396,Yamato,H,chondrite,5.06,Found,1979,-71.5,35.66667
+27809,Yamato 790397,Yamato,LL,chondrite,161.99,Found,1979,-71.5,35.66667
+27810,Yamato 790398,Yamato,LL,chondrite,6.71,Found,1979,-71.5,35.66667
 27811,Yamato 790399,Yamato,L6,chondrite,141.42,Found,1979,-71.5,35.66667
 27812,Yamato 790400,Yamato,L6,chondrite,72.32,Found,1979,-71.5,35.66667
 27813,Yamato 790401,Yamato,H4,chondrite,389.5,Found,1979,-71.5,35.66667
@@ -27821,7 +27821,7 @@
 27819,Yamato 790411,Yamato,H4,chondrite,4.25,Found,1979,-71.5,35.66667
 27820,Yamato 790412,Yamato,H4,chondrite,4.24,Found,1979,-71.5,35.66667
 27821,Yamato 790413,Yamato,H4,chondrite,3.97,Found,1979,-71.5,35.66667
-27822,Yamato 790415,Yamato,LL,unclassified,63.44,Found,1979,-71.5,35.66667
+27822,Yamato 790415,Yamato,LL,chondrite,63.44,Found,1979,-71.5,35.66667
 27823,Yamato 790416,Yamato,H5/6,chondrite,142.46,Found,1979,-71.5,35.66667
 27824,Yamato 790417,Yamato,H5,chondrite,207.0,Found,1979,-71.5,35.66667
 27825,Yamato 790418,Yamato,H5,chondrite,44.94,Found,1979,-71.5,35.66667
@@ -27886,7 +27886,7 @@
 27884,Yamato 790484,Yamato,H5,chondrite,17.2,Found,1979,-71.5,35.66667
 27885,Yamato 790485,Yamato,H5,chondrite,1.66,Found,1979,-71.5,35.66667
 27886,Yamato 790486,Yamato,H5,chondrite,0.67,Found,1979,-71.5,35.66667
-27887,Yamato 790489,Yamato,L,unclassified,222.8,Found,1979,-71.5,35.66667
+27887,Yamato 790489,Yamato,L,chondrite,222.8,Found,1979,-71.5,35.66667
 27888,Yamato 790490,Yamato,E,unclassified,1.18,Found,1979,-71.5,35.66667
 27889,Yamato 790491,Yamato,H3,chondrite,15.81,Found,1979,-71.5,35.66667
 27890,Yamato 790493,Yamato,H4,chondrite,9.07,Found,1979,-71.5,35.66667
@@ -27912,7 +27912,7 @@
 27910,Yamato 790514,Yamato,H5,chondrite,68.86,Found,1979,-71.5,35.66667
 27911,Yamato 790517,Yamato,"Iron, ungrouped",iron,189.58,Found,1979,-71.5,35.66667
 27912,Yamato 790518,Yamato,H4,chondrite,91.59,Found,1979,-71.5,35.66667
-27913,Yamato 790519,Yamato,LL,unclassified,1388.4,Found,1979,-71.5,35.66667
+27913,Yamato 790519,Yamato,LL,chondrite,1388.4,Found,1979,-71.5,35.66667
 27914,Yamato 790520,Yamato,LL6,chondrite,565.3,Found,1979,-71.5,35.66667
 27915,Yamato 790521,Yamato,L3,chondrite,221.8,Found,1979,-71.5,35.66667
 27916,Yamato 790522,Yamato,LL4,chondrite,468.5,Found,1979,-71.5,35.66667
@@ -27920,207 +27920,207 @@
 27918,Yamato 790524,Yamato,LL5,chondrite,335.2,Found,1979,-71.5,35.66667
 27919,Yamato 790525,Yamato,LL4,chondrite,310.9,Found,1979,-71.5,35.66667
 27920,Yamato 790526,Yamato,LL4,chondrite,423.9,Found,1979,-71.5,35.66667
-27921,Yamato 790527,Yamato,LL,unclassified,299.9,Found,1979,-71.5,35.66667
-27922,Yamato 790528,Yamato,LL,unclassified,777.7,Found,1979,-71.5,35.66667
+27921,Yamato 790527,Yamato,LL,chondrite,299.9,Found,1979,-71.5,35.66667
+27922,Yamato 790528,Yamato,LL,chondrite,777.7,Found,1979,-71.5,35.66667
 27923,Yamato 790529,Yamato,LL5,chondrite,952.9,Found,1979,-71.5,35.66667
-27924,Yamato 790530,Yamato,LL,unclassified,220.4,Found,1979,-71.5,35.66667
-27925,Yamato 790531,Yamato,LL,unclassified,198.08,Found,1979,-71.5,35.66667
+27924,Yamato 790530,Yamato,LL,chondrite,220.4,Found,1979,-71.5,35.66667
+27925,Yamato 790531,Yamato,LL,chondrite,198.08,Found,1979,-71.5,35.66667
 27926,Yamato 790532,Yamato,LL5,chondrite,220.3,Found,1979,-71.5,35.66667
-27927,Yamato 790533,Yamato,LL,unclassified,164.14,Found,1979,-71.5,35.66667
-27928,Yamato 790534,Yamato,LL,unclassified,149.05,Found,1979,-71.5,35.66667
-27929,Yamato 790535,Yamato,LL,unclassified,219.7,Found,1979,-71.5,35.66667
-27930,Yamato 790536,Yamato,LL,unclassified,135.06,Found,1979,-71.5,35.66667
-27931,Yamato 790537,Yamato,LL,unclassified,124.97,Found,1979,-71.5,35.66667
-27932,Yamato 790538,Yamato,LL,unclassified,102.58,Found,1979,-71.5,35.66667
-27933,Yamato 790539,Yamato,LL,unclassified,97.36,Found,1979,-71.5,35.66667
-27934,Yamato 790540,Yamato,LL,unclassified,81.86,Found,1979,-71.5,35.66667
-27935,Yamato 790541,Yamato,LL,unclassified,81.89,Found,1979,-71.5,35.66667
-27936,Yamato 790542,Yamato,LL,unclassified,57.67,Found,1979,-71.5,35.66667
-27937,Yamato 790543,Yamato,LL,unclassified,62.6,Found,1979,-71.5,35.66667
-27938,Yamato 790544,Yamato,LL,unclassified,95.89,Found,1979,-71.5,35.66667
-27939,Yamato 790545,Yamato,LL,unclassified,78.64,Found,1979,-71.5,35.66667
-27940,Yamato 790546,Yamato,LL,unclassified,57.21,Found,1979,-71.5,35.66667
-27941,Yamato 790547,Yamato,LL,unclassified,55.55,Found,1979,-71.5,35.66667
-27942,Yamato 790548,Yamato,LL,unclassified,46.84,Found,1979,-71.5,35.66667
-27943,Yamato 790549,Yamato,LL,unclassified,36.55,Found,1979,-71.5,35.66667
-27944,Yamato 790550,Yamato,LL,unclassified,15.89,Found,1979,-71.5,35.66667
-27945,Yamato 790551,Yamato,LL,unclassified,35.3,Found,1979,-71.5,35.66667
-27946,Yamato 790552,Yamato,LL,unclassified,36.89,Found,1979,-71.5,35.66667
-27947,Yamato 790553,Yamato,LL,unclassified,32.95,Found,1979,-71.5,35.66667
-27948,Yamato 790554,Yamato,LL,unclassified,35.05,Found,1979,-71.5,35.66667
-27949,Yamato 790555,Yamato,LL,unclassified,29.94,Found,1979,-71.5,35.66667
-27950,Yamato 790556,Yamato,LL,unclassified,45.77,Found,1979,-71.5,35.66667
-27951,Yamato 790557,Yamato,LL,unclassified,11.71,Found,1979,-71.5,35.66667
-27952,Yamato 790558,Yamato,LL,unclassified,27.72,Found,1979,-71.5,35.66667
-27953,Yamato 790559,Yamato,LL,unclassified,33.5,Found,1979,-71.5,35.66667
+27927,Yamato 790533,Yamato,LL,chondrite,164.14,Found,1979,-71.5,35.66667
+27928,Yamato 790534,Yamato,LL,chondrite,149.05,Found,1979,-71.5,35.66667
+27929,Yamato 790535,Yamato,LL,chondrite,219.7,Found,1979,-71.5,35.66667
+27930,Yamato 790536,Yamato,LL,chondrite,135.06,Found,1979,-71.5,35.66667
+27931,Yamato 790537,Yamato,LL,chondrite,124.97,Found,1979,-71.5,35.66667
+27932,Yamato 790538,Yamato,LL,chondrite,102.58,Found,1979,-71.5,35.66667
+27933,Yamato 790539,Yamato,LL,chondrite,97.36,Found,1979,-71.5,35.66667
+27934,Yamato 790540,Yamato,LL,chondrite,81.86,Found,1979,-71.5,35.66667
+27935,Yamato 790541,Yamato,LL,chondrite,81.89,Found,1979,-71.5,35.66667
+27936,Yamato 790542,Yamato,LL,chondrite,57.67,Found,1979,-71.5,35.66667
+27937,Yamato 790543,Yamato,LL,chondrite,62.6,Found,1979,-71.5,35.66667
+27938,Yamato 790544,Yamato,LL,chondrite,95.89,Found,1979,-71.5,35.66667
+27939,Yamato 790545,Yamato,LL,chondrite,78.64,Found,1979,-71.5,35.66667
+27940,Yamato 790546,Yamato,LL,chondrite,57.21,Found,1979,-71.5,35.66667
+27941,Yamato 790547,Yamato,LL,chondrite,55.55,Found,1979,-71.5,35.66667
+27942,Yamato 790548,Yamato,LL,chondrite,46.84,Found,1979,-71.5,35.66667
+27943,Yamato 790549,Yamato,LL,chondrite,36.55,Found,1979,-71.5,35.66667
+27944,Yamato 790550,Yamato,LL,chondrite,15.89,Found,1979,-71.5,35.66667
+27945,Yamato 790551,Yamato,LL,chondrite,35.3,Found,1979,-71.5,35.66667
+27946,Yamato 790552,Yamato,LL,chondrite,36.89,Found,1979,-71.5,35.66667
+27947,Yamato 790553,Yamato,LL,chondrite,32.95,Found,1979,-71.5,35.66667
+27948,Yamato 790554,Yamato,LL,chondrite,35.05,Found,1979,-71.5,35.66667
+27949,Yamato 790555,Yamato,LL,chondrite,29.94,Found,1979,-71.5,35.66667
+27950,Yamato 790556,Yamato,LL,chondrite,45.77,Found,1979,-71.5,35.66667
+27951,Yamato 790557,Yamato,LL,chondrite,11.71,Found,1979,-71.5,35.66667
+27952,Yamato 790558,Yamato,LL,chondrite,27.72,Found,1979,-71.5,35.66667
+27953,Yamato 790559,Yamato,LL,chondrite,33.5,Found,1979,-71.5,35.66667
 27954,Yamato 790560,Yamato,H4,chondrite,37.71,Found,1979,-71.5,35.66667
-27955,Yamato 790561,Yamato,LL,unclassified,15.99,Found,1979,-71.5,35.66667
-27956,Yamato 790562,Yamato,LL,unclassified,24.1,Found,1979,-71.5,35.66667
-27957,Yamato 790563,Yamato,LL,unclassified,36.88,Found,1979,-71.5,35.66667
-27958,Yamato 790564,Yamato,LL,unclassified,29.22,Found,1979,-71.5,35.66667
-27959,Yamato 790565,Yamato,LL,unclassified,21.44,Found,1979,-71.5,35.66667
-27960,Yamato 790566,Yamato,LL,unclassified,20.66,Found,1979,-71.5,35.66667
-27961,Yamato 790567,Yamato,LL,unclassified,27.3,Found,1979,-71.5,35.66667
-27962,Yamato 790568,Yamato,LL,unclassified,20.11,Found,1979,-71.5,35.66667
-27963,Yamato 790569,Yamato,LL,unclassified,16.38,Found,1979,-71.5,35.66667
-27964,Yamato 790570,Yamato,LL,unclassified,12.24,Found,1979,-71.5,35.66667
-27965,Yamato 790571,Yamato,LL,unclassified,19.96,Found,1979,-71.5,35.66667
-27966,Yamato 790572,Yamato,LL,unclassified,29.08,Found,1979,-71.5,35.66667
-27967,Yamato 790573,Yamato,LL,unclassified,26.99,Found,1979,-71.5,35.66667
+27955,Yamato 790561,Yamato,LL,chondrite,15.99,Found,1979,-71.5,35.66667
+27956,Yamato 790562,Yamato,LL,chondrite,24.1,Found,1979,-71.5,35.66667
+27957,Yamato 790563,Yamato,LL,chondrite,36.88,Found,1979,-71.5,35.66667
+27958,Yamato 790564,Yamato,LL,chondrite,29.22,Found,1979,-71.5,35.66667
+27959,Yamato 790565,Yamato,LL,chondrite,21.44,Found,1979,-71.5,35.66667
+27960,Yamato 790566,Yamato,LL,chondrite,20.66,Found,1979,-71.5,35.66667
+27961,Yamato 790567,Yamato,LL,chondrite,27.3,Found,1979,-71.5,35.66667
+27962,Yamato 790568,Yamato,LL,chondrite,20.11,Found,1979,-71.5,35.66667
+27963,Yamato 790569,Yamato,LL,chondrite,16.38,Found,1979,-71.5,35.66667
+27964,Yamato 790570,Yamato,LL,chondrite,12.24,Found,1979,-71.5,35.66667
+27965,Yamato 790571,Yamato,LL,chondrite,19.96,Found,1979,-71.5,35.66667
+27966,Yamato 790572,Yamato,LL,chondrite,29.08,Found,1979,-71.5,35.66667
+27967,Yamato 790573,Yamato,LL,chondrite,26.99,Found,1979,-71.5,35.66667
 27968,Yamato 790574,Yamato,LL5,chondrite,22.04,Found,1979,-71.5,35.66667
-27969,Yamato 790575,Yamato,LL,unclassified,15.37,Found,1979,-71.5,35.66667
-27970,Yamato 790576,Yamato,LL,unclassified,15.74,Found,1979,-71.5,35.66667
-27971,Yamato 790577,Yamato,LL,unclassified,15.25,Found,1979,-71.5,35.66667
-27972,Yamato 790578,Yamato,LL,unclassified,30.37,Found,1979,-71.5,35.66667
-27973,Yamato 790579,Yamato,LL,unclassified,11.57,Found,1979,-71.5,35.66667
-27974,Yamato 790580,Yamato,LL,unclassified,13.31,Found,1979,-71.5,35.66667
-27975,Yamato 790581,Yamato,LL,unclassified,15.17,Found,1979,-71.5,35.66667
-27976,Yamato 790582,Yamato,LL,unclassified,6.93,Found,1979,-71.5,35.66667
-27977,Yamato 790583,Yamato,LL,unclassified,14.54,Found,1979,-71.5,35.66667
-27978,Yamato 790584,Yamato,LL,unclassified,14.29,Found,1979,-71.5,35.66667
-27979,Yamato 790585,Yamato,LL,unclassified,10.3,Found,1979,-71.5,35.66667
-27980,Yamato 790586,Yamato,LL,unclassified,7.06,Found,1979,-71.5,35.66667
-27981,Yamato 790587,Yamato,LL,unclassified,12.15,Found,1979,-71.5,35.66667
-27982,Yamato 790588,Yamato,LL,unclassified,1.81,Found,1979,-71.5,35.66667
-27983,Yamato 790589,Yamato,LL,unclassified,8.51,Found,1979,-71.5,35.66667
-27984,Yamato 790590,Yamato,LL,unclassified,12.63,Found,1979,-71.5,35.66667
-27985,Yamato 790591,Yamato,LL,unclassified,12.58,Found,1979,-71.5,35.66667
-27986,Yamato 790592,Yamato,LL,unclassified,13.14,Found,1979,-71.5,35.66667
-27987,Yamato 790593,Yamato,LL,unclassified,10.74,Found,1979,-71.5,35.66667
-27988,Yamato 790594,Yamato,LL,unclassified,7.39,Found,1979,-71.5,35.66667
-27989,Yamato 790595,Yamato,LL,unclassified,7.59,Found,1979,-71.5,35.66667
-27990,Yamato 790596,Yamato,LL,unclassified,13.67,Found,1979,-71.5,35.66667
-27991,Yamato 790597,Yamato,LL,unclassified,7.06,Found,1979,-71.5,35.66667
-27992,Yamato 790598,Yamato,LL,unclassified,7.61,Found,1979,-71.5,35.66667
-27993,Yamato 790599,Yamato,LL,unclassified,8.22,Found,1979,-71.5,35.66667
-27994,Yamato 790600,Yamato,LL,unclassified,9.67,Found,1979,-71.5,35.66667
-27995,Yamato 790601,Yamato,LL,unclassified,6.48,Found,1979,-71.5,35.66667
-27996,Yamato 790602,Yamato,LL,unclassified,8.17,Found,1979,-71.5,35.66667
-27997,Yamato 790603,Yamato,LL,unclassified,10.32,Found,1979,-71.5,35.66667
-27998,Yamato 790604,Yamato,LL,unclassified,12.88,Found,1979,-71.5,35.66667
-27999,Yamato 790605,Yamato,LL,unclassified,12.32,Found,1979,-71.5,35.66667
-28000,Yamato 790606,Yamato,LL,unclassified,9.9,Found,1979,-71.5,35.66667
-28001,Yamato 790607,Yamato,LL,unclassified,11.87,Found,1979,-71.5,35.66667
-28002,Yamato 790608,Yamato,LL,unclassified,11.96,Found,1979,-71.5,35.66667
-28003,Yamato 790609,Yamato,LL,unclassified,7.66,Found,1979,-71.5,35.66667
-28004,Yamato 790610,Yamato,LL,unclassified,8.41,Found,1979,-71.5,35.66667
-28005,Yamato 790611,Yamato,LL,unclassified,7.72,Found,1979,-71.5,35.66667
-28006,Yamato 790612,Yamato,LL,unclassified,8.3,Found,1979,-71.5,35.66667
-28007,Yamato 790613,Yamato,LL,unclassified,5.83,Found,1979,-71.5,35.66667
-28008,Yamato 790614,Yamato,LL,unclassified,7.95,Found,1979,-71.5,35.66667
-28009,Yamato 790615,Yamato,LL,unclassified,5.26,Found,1979,-71.5,35.66667
-28010,Yamato 790616,Yamato,LL,unclassified,5.6,Found,1979,-71.5,35.66667
-28011,Yamato 790617,Yamato,LL,unclassified,10.56,Found,1979,-71.5,35.66667
-28012,Yamato 790618,Yamato,LL,unclassified,7.85,Found,1979,-71.5,35.66667
-28013,Yamato 790619,Yamato,LL,unclassified,10.33,Found,1979,-71.5,35.66667
-28014,Yamato 790620,Yamato,LL,unclassified,7.54,Found,1979,-71.5,35.66667
-28015,Yamato 790621,Yamato,LL,unclassified,7.48,Found,1979,-71.5,35.66667
-28016,Yamato 790622,Yamato,LL,unclassified,9.93,Found,1979,-71.5,35.66667
-28017,Yamato 790623,Yamato,LL,unclassified,5.52,Found,1979,-71.5,35.66667
-28018,Yamato 790624,Yamato,LL,unclassified,8.97,Found,1979,-71.5,35.66667
-28019,Yamato 790625,Yamato,LL,unclassified,6.12,Found,1979,-71.5,35.66667
-28020,Yamato 790626,Yamato,LL,unclassified,7.8,Found,1979,-71.5,35.66667
-28021,Yamato 790627,Yamato,LL,unclassified,7.18,Found,1979,-71.5,35.66667
-28022,Yamato 790628,Yamato,LL,unclassified,7.54,Found,1979,-71.5,35.66667
-28023,Yamato 790629,Yamato,LL,unclassified,5.94,Found,1979,-71.5,35.66667
-28024,Yamato 790630,Yamato,LL,unclassified,7.68,Found,1979,-71.5,35.66667
-28025,Yamato 790631,Yamato,LL,unclassified,5.53,Found,1979,-71.5,35.66667
-28026,Yamato 790632,Yamato,LL,unclassified,4.69,Found,1979,-71.5,35.66667
-28027,Yamato 790633,Yamato,LL,unclassified,5.13,Found,1979,-71.5,35.66667
-28028,Yamato 790634,Yamato,LL,unclassified,6.06,Found,1979,-71.5,35.66667
-28029,Yamato 790635,Yamato,LL,unclassified,6.14,Found,1979,-71.5,35.66667
-28030,Yamato 790636,Yamato,LL,unclassified,19.98,Found,1979,-71.5,35.66667
-28031,Yamato 790637,Yamato,LL,unclassified,4.23,Found,1979,-71.5,35.66667
-28032,Yamato 790638,Yamato,LL,unclassified,9.32,Found,1979,-71.5,35.66667
-28033,Yamato 790639,Yamato,LL,unclassified,5.66,Found,1979,-71.5,35.66667
-28034,Yamato 790640,Yamato,LL,unclassified,5.66,Found,1979,-71.5,35.66667
-28035,Yamato 790641,Yamato,LL,unclassified,5.66,Found,1979,-71.5,35.66667
-28036,Yamato 790642,Yamato,LL,unclassified,7.19,Found,1979,-71.5,35.66667
-28037,Yamato 790643,Yamato,LL,unclassified,6.36,Found,1979,-71.5,35.66667
-28038,Yamato 790644,Yamato,LL,unclassified,6.57,Found,1979,-71.5,35.66667
-28039,Yamato 790645,Yamato,LL,unclassified,6.93,Found,1979,-71.5,35.66667
-28040,Yamato 790646,Yamato,LL,unclassified,6.11,Found,1979,-71.5,35.66667
-28041,Yamato 790647,Yamato,LL,unclassified,4.34,Found,1979,-71.5,35.66667
-28042,Yamato 790648,Yamato,LL,unclassified,6.6,Found,1979,-71.5,35.66667
-28043,Yamato 790649,Yamato,LL,unclassified,4.78,Found,1979,-71.5,35.66667
-28044,Yamato 790650,Yamato,LL,unclassified,4.33,Found,1979,-71.5,35.66667
-28045,Yamato 790651,Yamato,LL,unclassified,4.97,Found,1979,-71.5,35.66667
-28046,Yamato 790652,Yamato,LL,unclassified,4.28,Found,1979,-71.5,35.66667
-28047,Yamato 790653,Yamato,LL,unclassified,6.16,Found,1979,-71.5,35.66667
-28048,Yamato 790654,Yamato,LL,unclassified,6.05,Found,1979,-71.5,35.66667
-28049,Yamato 790655,Yamato,LL,unclassified,6.97,Found,1979,-71.5,35.66667
-28050,Yamato 790656,Yamato,LL,unclassified,5.09,Found,1979,-71.5,35.66667
-28051,Yamato 790657,Yamato,LL,unclassified,6.94,Found,1979,-71.5,35.66667
-28052,Yamato 790658,Yamato,LL,unclassified,5.56,Found,1979,-71.5,35.66667
-28053,Yamato 790659,Yamato,LL,unclassified,4.98,Found,1979,-71.5,35.66667
-28054,Yamato 790660,Yamato,LL,unclassified,5.02,Found,1979,-71.5,35.66667
-28055,Yamato 790661,Yamato,LL,unclassified,6.62,Found,1979,-71.5,35.66667
-28056,Yamato 790662,Yamato,LL,unclassified,4.27,Found,1979,-71.5,35.66667
-28057,Yamato 790663,Yamato,LL,unclassified,1.91,Found,1979,-71.5,35.66667
-28058,Yamato 790664,Yamato,LL,unclassified,3.88,Found,1979,-71.5,35.66667
-28059,Yamato 790665,Yamato,LL,unclassified,2.97,Found,1979,-71.5,35.66667
-28060,Yamato 790666,Yamato,LL,unclassified,2.38,Found,1979,-71.5,35.66667
-28061,Yamato 790667,Yamato,LL,unclassified,3.69,Found,1979,-71.5,35.66667
-28062,Yamato 790668,Yamato,LL,unclassified,2.24,Found,1979,-71.5,35.66667
-28063,Yamato 790669,Yamato,LL,unclassified,2.36,Found,1979,-71.5,35.66667
-28064,Yamato 790670,Yamato,LL,unclassified,1.99,Found,1979,-71.5,35.66667
-28065,Yamato 790671,Yamato,LL,unclassified,2.32,Found,1979,-71.5,35.66667
-28066,Yamato 790672,Yamato,LL,unclassified,1.65,Found,1979,-71.5,35.66667
-28067,Yamato 790673,Yamato,LL,unclassified,2.03,Found,1979,-71.5,35.66667
-28068,Yamato 790674,Yamato,LL,unclassified,2.21,Found,1979,-71.5,35.66667
-28069,Yamato 790675,Yamato,LL,unclassified,2.01,Found,1979,-71.5,35.66667
-28070,Yamato 790676,Yamato,LL,unclassified,2.58,Found,1979,-71.5,35.66667
-28071,Yamato 790677,Yamato,LL,unclassified,2.92,Found,1979,-71.5,35.66667
-28072,Yamato 790678,Yamato,LL,unclassified,2.12,Found,1979,-71.5,35.66667
-28073,Yamato 790679,Yamato,LL,unclassified,1.87,Found,1979,-71.5,35.66667
-28074,Yamato 790680,Yamato,LL,unclassified,2.2,Found,1979,-71.5,35.66667
-28075,Yamato 790681,Yamato,LL,unclassified,2.92,Found,1979,-71.5,35.66667
-28076,Yamato 790682,Yamato,LL,unclassified,3.54,Found,1979,-71.5,35.66667
-28077,Yamato 790683,Yamato,LL,unclassified,2.61,Found,1979,-71.5,35.66667
-28078,Yamato 790684,Yamato,LL,unclassified,2.47,Found,1979,-71.5,35.66667
-28079,Yamato 790685,Yamato,LL,unclassified,3.34,Found,1979,-71.5,35.66667
-28080,Yamato 790686,Yamato,LL,unclassified,3.74,Found,1979,-71.5,35.66667
-28081,Yamato 790687,Yamato,LL,unclassified,3.54,Found,1979,-71.5,35.66667
-28082,Yamato 790688,Yamato,LL,unclassified,3.19,Found,1979,-71.5,35.66667
-28083,Yamato 790689,Yamato,LL,unclassified,2.35,Found,1979,-71.5,35.66667
-28084,Yamato 790690,Yamato,LL,unclassified,5.27,Found,1979,-71.5,35.66667
-28085,Yamato 790691,Yamato,LL,unclassified,2.04,Found,1979,-71.5,35.66667
-28086,Yamato 790692,Yamato,LL,unclassified,4.1,Found,1979,-71.5,35.66667
-28087,Yamato 790693,Yamato,LL,unclassified,3.22,Found,1979,-71.5,35.66667
-28088,Yamato 790694,Yamato,LL,unclassified,2.93,Found,1979,-71.5,35.66667
-28089,Yamato 790695,Yamato,LL,unclassified,3.49,Found,1979,-71.5,35.66667
-28090,Yamato 790696,Yamato,LL,unclassified,4.57,Found,1979,-71.5,35.66667
-28091,Yamato 790697,Yamato,LL,unclassified,3.57,Found,1979,-71.5,35.66667
-28092,Yamato 790698,Yamato,LL,unclassified,3.17,Found,1979,-71.5,35.66667
-28093,Yamato 790699,Yamato,LL,unclassified,3.94,Found,1979,-71.5,35.66667
-28094,Yamato 790700,Yamato,LL,unclassified,2.47,Found,1979,-71.5,35.66667
-28095,Yamato 790701,Yamato,LL,unclassified,1.84,Found,1979,-71.5,35.66667
-28096,Yamato 790702,Yamato,LL,unclassified,1.63,Found,1979,-71.5,35.66667
-28097,Yamato 790703,Yamato,LL,unclassified,1.3,Found,1979,-71.5,35.66667
-28098,Yamato 790704,Yamato,LL,unclassified,1.22,Found,1979,-71.5,35.66667
-28099,Yamato 790705,Yamato,LL,unclassified,1.34,Found,1979,-71.5,35.66667
-28100,Yamato 790706,Yamato,LL,unclassified,3.93,Found,1979,-71.5,35.66667
-28101,Yamato 790707,Yamato,LL,unclassified,3.76,Found,1979,-71.5,35.66667
-28102,Yamato 790708,Yamato,LL,unclassified,2.85,Found,1979,-71.5,35.66667
-28103,Yamato 790709,Yamato,LL,unclassified,2.79,Found,1979,-71.5,35.66667
-28104,Yamato 790710,Yamato,LL,unclassified,2.64,Found,1979,-71.5,35.66667
-28105,Yamato 790711,Yamato,LL,unclassified,3.05,Found,1979,-71.5,35.66667
-28106,Yamato 790712,Yamato,LL,unclassified,2.45,Found,1979,-71.5,35.66667
-28107,Yamato 790713,Yamato,LL,unclassified,2.22,Found,1979,-71.5,35.66667
-28108,Yamato 790714,Yamato,LL,unclassified,2.78,Found,1979,-71.5,35.66667
-28109,Yamato 790715,Yamato,LL,unclassified,3.0,Found,1979,-71.5,35.66667
-28110,Yamato 790716,Yamato,LL,unclassified,2.37,Found,1979,-71.5,35.66667
-28111,Yamato 790717,Yamato,LL,unclassified,1.79,Found,1979,-71.5,35.66667
-28112,Yamato 790718,Yamato,LL,unclassified,2.0,Found,1979,-71.5,35.66667
-28113,Yamato 790719,Yamato,LL,unclassified,1.26,Found,1979,-71.5,35.66667
-28114,Yamato 790720,Yamato,LL,unclassified,1.79,Found,1979,-71.5,35.66667
-28115,Yamato 790721,Yamato,LL,unclassified,1.86,Found,1979,-71.5,35.66667
-28116,Yamato 790722,Yamato,LL,unclassified,50.01,Found,1979,-71.5,35.66667
-28117,Yamato 790723,Yamato,LL,unclassified,5483.2,Found,1979,-71.5,35.66667
+27969,Yamato 790575,Yamato,LL,chondrite,15.37,Found,1979,-71.5,35.66667
+27970,Yamato 790576,Yamato,LL,chondrite,15.74,Found,1979,-71.5,35.66667
+27971,Yamato 790577,Yamato,LL,chondrite,15.25,Found,1979,-71.5,35.66667
+27972,Yamato 790578,Yamato,LL,chondrite,30.37,Found,1979,-71.5,35.66667
+27973,Yamato 790579,Yamato,LL,chondrite,11.57,Found,1979,-71.5,35.66667
+27974,Yamato 790580,Yamato,LL,chondrite,13.31,Found,1979,-71.5,35.66667
+27975,Yamato 790581,Yamato,LL,chondrite,15.17,Found,1979,-71.5,35.66667
+27976,Yamato 790582,Yamato,LL,chondrite,6.93,Found,1979,-71.5,35.66667
+27977,Yamato 790583,Yamato,LL,chondrite,14.54,Found,1979,-71.5,35.66667
+27978,Yamato 790584,Yamato,LL,chondrite,14.29,Found,1979,-71.5,35.66667
+27979,Yamato 790585,Yamato,LL,chondrite,10.3,Found,1979,-71.5,35.66667
+27980,Yamato 790586,Yamato,LL,chondrite,7.06,Found,1979,-71.5,35.66667
+27981,Yamato 790587,Yamato,LL,chondrite,12.15,Found,1979,-71.5,35.66667
+27982,Yamato 790588,Yamato,LL,chondrite,1.81,Found,1979,-71.5,35.66667
+27983,Yamato 790589,Yamato,LL,chondrite,8.51,Found,1979,-71.5,35.66667
+27984,Yamato 790590,Yamato,LL,chondrite,12.63,Found,1979,-71.5,35.66667
+27985,Yamato 790591,Yamato,LL,chondrite,12.58,Found,1979,-71.5,35.66667
+27986,Yamato 790592,Yamato,LL,chondrite,13.14,Found,1979,-71.5,35.66667
+27987,Yamato 790593,Yamato,LL,chondrite,10.74,Found,1979,-71.5,35.66667
+27988,Yamato 790594,Yamato,LL,chondrite,7.39,Found,1979,-71.5,35.66667
+27989,Yamato 790595,Yamato,LL,chondrite,7.59,Found,1979,-71.5,35.66667
+27990,Yamato 790596,Yamato,LL,chondrite,13.67,Found,1979,-71.5,35.66667
+27991,Yamato 790597,Yamato,LL,chondrite,7.06,Found,1979,-71.5,35.66667
+27992,Yamato 790598,Yamato,LL,chondrite,7.61,Found,1979,-71.5,35.66667
+27993,Yamato 790599,Yamato,LL,chondrite,8.22,Found,1979,-71.5,35.66667
+27994,Yamato 790600,Yamato,LL,chondrite,9.67,Found,1979,-71.5,35.66667
+27995,Yamato 790601,Yamato,LL,chondrite,6.48,Found,1979,-71.5,35.66667
+27996,Yamato 790602,Yamato,LL,chondrite,8.17,Found,1979,-71.5,35.66667
+27997,Yamato 790603,Yamato,LL,chondrite,10.32,Found,1979,-71.5,35.66667
+27998,Yamato 790604,Yamato,LL,chondrite,12.88,Found,1979,-71.5,35.66667
+27999,Yamato 790605,Yamato,LL,chondrite,12.32,Found,1979,-71.5,35.66667
+28000,Yamato 790606,Yamato,LL,chondrite,9.9,Found,1979,-71.5,35.66667
+28001,Yamato 790607,Yamato,LL,chondrite,11.87,Found,1979,-71.5,35.66667
+28002,Yamato 790608,Yamato,LL,chondrite,11.96,Found,1979,-71.5,35.66667
+28003,Yamato 790609,Yamato,LL,chondrite,7.66,Found,1979,-71.5,35.66667
+28004,Yamato 790610,Yamato,LL,chondrite,8.41,Found,1979,-71.5,35.66667
+28005,Yamato 790611,Yamato,LL,chondrite,7.72,Found,1979,-71.5,35.66667
+28006,Yamato 790612,Yamato,LL,chondrite,8.3,Found,1979,-71.5,35.66667
+28007,Yamato 790613,Yamato,LL,chondrite,5.83,Found,1979,-71.5,35.66667
+28008,Yamato 790614,Yamato,LL,chondrite,7.95,Found,1979,-71.5,35.66667
+28009,Yamato 790615,Yamato,LL,chondrite,5.26,Found,1979,-71.5,35.66667
+28010,Yamato 790616,Yamato,LL,chondrite,5.6,Found,1979,-71.5,35.66667
+28011,Yamato 790617,Yamato,LL,chondrite,10.56,Found,1979,-71.5,35.66667
+28012,Yamato 790618,Yamato,LL,chondrite,7.85,Found,1979,-71.5,35.66667
+28013,Yamato 790619,Yamato,LL,chondrite,10.33,Found,1979,-71.5,35.66667
+28014,Yamato 790620,Yamato,LL,chondrite,7.54,Found,1979,-71.5,35.66667
+28015,Yamato 790621,Yamato,LL,chondrite,7.48,Found,1979,-71.5,35.66667
+28016,Yamato 790622,Yamato,LL,chondrite,9.93,Found,1979,-71.5,35.66667
+28017,Yamato 790623,Yamato,LL,chondrite,5.52,Found,1979,-71.5,35.66667
+28018,Yamato 790624,Yamato,LL,chondrite,8.97,Found,1979,-71.5,35.66667
+28019,Yamato 790625,Yamato,LL,chondrite,6.12,Found,1979,-71.5,35.66667
+28020,Yamato 790626,Yamato,LL,chondrite,7.8,Found,1979,-71.5,35.66667
+28021,Yamato 790627,Yamato,LL,chondrite,7.18,Found,1979,-71.5,35.66667
+28022,Yamato 790628,Yamato,LL,chondrite,7.54,Found,1979,-71.5,35.66667
+28023,Yamato 790629,Yamato,LL,chondrite,5.94,Found,1979,-71.5,35.66667
+28024,Yamato 790630,Yamato,LL,chondrite,7.68,Found,1979,-71.5,35.66667
+28025,Yamato 790631,Yamato,LL,chondrite,5.53,Found,1979,-71.5,35.66667
+28026,Yamato 790632,Yamato,LL,chondrite,4.69,Found,1979,-71.5,35.66667
+28027,Yamato 790633,Yamato,LL,chondrite,5.13,Found,1979,-71.5,35.66667
+28028,Yamato 790634,Yamato,LL,chondrite,6.06,Found,1979,-71.5,35.66667
+28029,Yamato 790635,Yamato,LL,chondrite,6.14,Found,1979,-71.5,35.66667
+28030,Yamato 790636,Yamato,LL,chondrite,19.98,Found,1979,-71.5,35.66667
+28031,Yamato 790637,Yamato,LL,chondrite,4.23,Found,1979,-71.5,35.66667
+28032,Yamato 790638,Yamato,LL,chondrite,9.32,Found,1979,-71.5,35.66667
+28033,Yamato 790639,Yamato,LL,chondrite,5.66,Found,1979,-71.5,35.66667
+28034,Yamato 790640,Yamato,LL,chondrite,5.66,Found,1979,-71.5,35.66667
+28035,Yamato 790641,Yamato,LL,chondrite,5.66,Found,1979,-71.5,35.66667
+28036,Yamato 790642,Yamato,LL,chondrite,7.19,Found,1979,-71.5,35.66667
+28037,Yamato 790643,Yamato,LL,chondrite,6.36,Found,1979,-71.5,35.66667
+28038,Yamato 790644,Yamato,LL,chondrite,6.57,Found,1979,-71.5,35.66667
+28039,Yamato 790645,Yamato,LL,chondrite,6.93,Found,1979,-71.5,35.66667
+28040,Yamato 790646,Yamato,LL,chondrite,6.11,Found,1979,-71.5,35.66667
+28041,Yamato 790647,Yamato,LL,chondrite,4.34,Found,1979,-71.5,35.66667
+28042,Yamato 790648,Yamato,LL,chondrite,6.6,Found,1979,-71.5,35.66667
+28043,Yamato 790649,Yamato,LL,chondrite,4.78,Found,1979,-71.5,35.66667
+28044,Yamato 790650,Yamato,LL,chondrite,4.33,Found,1979,-71.5,35.66667
+28045,Yamato 790651,Yamato,LL,chondrite,4.97,Found,1979,-71.5,35.66667
+28046,Yamato 790652,Yamato,LL,chondrite,4.28,Found,1979,-71.5,35.66667
+28047,Yamato 790653,Yamato,LL,chondrite,6.16,Found,1979,-71.5,35.66667
+28048,Yamato 790654,Yamato,LL,chondrite,6.05,Found,1979,-71.5,35.66667
+28049,Yamato 790655,Yamato,LL,chondrite,6.97,Found,1979,-71.5,35.66667
+28050,Yamato 790656,Yamato,LL,chondrite,5.09,Found,1979,-71.5,35.66667
+28051,Yamato 790657,Yamato,LL,chondrite,6.94,Found,1979,-71.5,35.66667
+28052,Yamato 790658,Yamato,LL,chondrite,5.56,Found,1979,-71.5,35.66667
+28053,Yamato 790659,Yamato,LL,chondrite,4.98,Found,1979,-71.5,35.66667
+28054,Yamato 790660,Yamato,LL,chondrite,5.02,Found,1979,-71.5,35.66667
+28055,Yamato 790661,Yamato,LL,chondrite,6.62,Found,1979,-71.5,35.66667
+28056,Yamato 790662,Yamato,LL,chondrite,4.27,Found,1979,-71.5,35.66667
+28057,Yamato 790663,Yamato,LL,chondrite,1.91,Found,1979,-71.5,35.66667
+28058,Yamato 790664,Yamato,LL,chondrite,3.88,Found,1979,-71.5,35.66667
+28059,Yamato 790665,Yamato,LL,chondrite,2.97,Found,1979,-71.5,35.66667
+28060,Yamato 790666,Yamato,LL,chondrite,2.38,Found,1979,-71.5,35.66667
+28061,Yamato 790667,Yamato,LL,chondrite,3.69,Found,1979,-71.5,35.66667
+28062,Yamato 790668,Yamato,LL,chondrite,2.24,Found,1979,-71.5,35.66667
+28063,Yamato 790669,Yamato,LL,chondrite,2.36,Found,1979,-71.5,35.66667
+28064,Yamato 790670,Yamato,LL,chondrite,1.99,Found,1979,-71.5,35.66667
+28065,Yamato 790671,Yamato,LL,chondrite,2.32,Found,1979,-71.5,35.66667
+28066,Yamato 790672,Yamato,LL,chondrite,1.65,Found,1979,-71.5,35.66667
+28067,Yamato 790673,Yamato,LL,chondrite,2.03,Found,1979,-71.5,35.66667
+28068,Yamato 790674,Yamato,LL,chondrite,2.21,Found,1979,-71.5,35.66667
+28069,Yamato 790675,Yamato,LL,chondrite,2.01,Found,1979,-71.5,35.66667
+28070,Yamato 790676,Yamato,LL,chondrite,2.58,Found,1979,-71.5,35.66667
+28071,Yamato 790677,Yamato,LL,chondrite,2.92,Found,1979,-71.5,35.66667
+28072,Yamato 790678,Yamato,LL,chondrite,2.12,Found,1979,-71.5,35.66667
+28073,Yamato 790679,Yamato,LL,chondrite,1.87,Found,1979,-71.5,35.66667
+28074,Yamato 790680,Yamato,LL,chondrite,2.2,Found,1979,-71.5,35.66667
+28075,Yamato 790681,Yamato,LL,chondrite,2.92,Found,1979,-71.5,35.66667
+28076,Yamato 790682,Yamato,LL,chondrite,3.54,Found,1979,-71.5,35.66667
+28077,Yamato 790683,Yamato,LL,chondrite,2.61,Found,1979,-71.5,35.66667
+28078,Yamato 790684,Yamato,LL,chondrite,2.47,Found,1979,-71.5,35.66667
+28079,Yamato 790685,Yamato,LL,chondrite,3.34,Found,1979,-71.5,35.66667
+28080,Yamato 790686,Yamato,LL,chondrite,3.74,Found,1979,-71.5,35.66667
+28081,Yamato 790687,Yamato,LL,chondrite,3.54,Found,1979,-71.5,35.66667
+28082,Yamato 790688,Yamato,LL,chondrite,3.19,Found,1979,-71.5,35.66667
+28083,Yamato 790689,Yamato,LL,chondrite,2.35,Found,1979,-71.5,35.66667
+28084,Yamato 790690,Yamato,LL,chondrite,5.27,Found,1979,-71.5,35.66667
+28085,Yamato 790691,Yamato,LL,chondrite,2.04,Found,1979,-71.5,35.66667
+28086,Yamato 790692,Yamato,LL,chondrite,4.1,Found,1979,-71.5,35.66667
+28087,Yamato 790693,Yamato,LL,chondrite,3.22,Found,1979,-71.5,35.66667
+28088,Yamato 790694,Yamato,LL,chondrite,2.93,Found,1979,-71.5,35.66667
+28089,Yamato 790695,Yamato,LL,chondrite,3.49,Found,1979,-71.5,35.66667
+28090,Yamato 790696,Yamato,LL,chondrite,4.57,Found,1979,-71.5,35.66667
+28091,Yamato 790697,Yamato,LL,chondrite,3.57,Found,1979,-71.5,35.66667
+28092,Yamato 790698,Yamato,LL,chondrite,3.17,Found,1979,-71.5,35.66667
+28093,Yamato 790699,Yamato,LL,chondrite,3.94,Found,1979,-71.5,35.66667
+28094,Yamato 790700,Yamato,LL,chondrite,2.47,Found,1979,-71.5,35.66667
+28095,Yamato 790701,Yamato,LL,chondrite,1.84,Found,1979,-71.5,35.66667
+28096,Yamato 790702,Yamato,LL,chondrite,1.63,Found,1979,-71.5,35.66667
+28097,Yamato 790703,Yamato,LL,chondrite,1.3,Found,1979,-71.5,35.66667
+28098,Yamato 790704,Yamato,LL,chondrite,1.22,Found,1979,-71.5,35.66667
+28099,Yamato 790705,Yamato,LL,chondrite,1.34,Found,1979,-71.5,35.66667
+28100,Yamato 790706,Yamato,LL,chondrite,3.93,Found,1979,-71.5,35.66667
+28101,Yamato 790707,Yamato,LL,chondrite,3.76,Found,1979,-71.5,35.66667
+28102,Yamato 790708,Yamato,LL,chondrite,2.85,Found,1979,-71.5,35.66667
+28103,Yamato 790709,Yamato,LL,chondrite,2.79,Found,1979,-71.5,35.66667
+28104,Yamato 790710,Yamato,LL,chondrite,2.64,Found,1979,-71.5,35.66667
+28105,Yamato 790711,Yamato,LL,chondrite,3.05,Found,1979,-71.5,35.66667
+28106,Yamato 790712,Yamato,LL,chondrite,2.45,Found,1979,-71.5,35.66667
+28107,Yamato 790713,Yamato,LL,chondrite,2.22,Found,1979,-71.5,35.66667
+28108,Yamato 790714,Yamato,LL,chondrite,2.78,Found,1979,-71.5,35.66667
+28109,Yamato 790715,Yamato,LL,chondrite,3.0,Found,1979,-71.5,35.66667
+28110,Yamato 790716,Yamato,LL,chondrite,2.37,Found,1979,-71.5,35.66667
+28111,Yamato 790717,Yamato,LL,chondrite,1.79,Found,1979,-71.5,35.66667
+28112,Yamato 790718,Yamato,LL,chondrite,2.0,Found,1979,-71.5,35.66667
+28113,Yamato 790719,Yamato,LL,chondrite,1.26,Found,1979,-71.5,35.66667
+28114,Yamato 790720,Yamato,LL,chondrite,1.79,Found,1979,-71.5,35.66667
+28115,Yamato 790721,Yamato,LL,chondrite,1.86,Found,1979,-71.5,35.66667
+28116,Yamato 790722,Yamato,LL,chondrite,50.01,Found,1979,-71.5,35.66667
+28117,Yamato 790723,Yamato,LL,chondrite,5483.2,Found,1979,-71.5,35.66667
 28118,Yamato 790724,Yamato,"Iron, IIIAB",iron,2166.0,Found,1979,-71.5,35.66667
 28119,Yamato 790725,Yamato,H5,chondrite,4.1,Found,1979,-71.5,35.66667
 28120,Yamato 790727,Yamato,Howardite,achondrite,120.42,Found,1979,-71.5,35.66667
-28121,Yamato 790728,Yamato,LL,unclassified,368.0,Found,1979,-71.5,35.66667
+28121,Yamato 790728,Yamato,LL,chondrite,368.0,Found,1979,-71.5,35.66667
 28122,Yamato 790729,Yamato,L6,chondrite,236.8,Found,1979,-71.5,35.66667
 28123,Yamato 790731,Yamato,L6,chondrite,88.11,Found,1979,-71.5,35.66667
 28124,Yamato 790732,Yamato,H5,chondrite,35.01,Found,1979,-71.5,35.66667
@@ -28140,11 +28140,11 @@
 28138,Yamato 790748,Yamato,H6,chondrite,498.8,Found,1979,-71.5,35.66667
 28139,Yamato 790749,Yamato,H4,chondrite,1714.8,Found,1979,-71.5,35.66667
 28140,Yamato 790751,Yamato,L5/6,chondrite,4.45,Found,1979,-71.5,35.66667
-28141,Yamato 790752,Yamato,LL,unclassified,136.51,Found,1979,-71.5,35.66667
+28141,Yamato 790752,Yamato,LL,chondrite,136.51,Found,1979,-71.5,35.66667
 28142,Yamato 790754,Yamato,H4,chondrite,8.59,Found,1979,-71.5,35.66667
 28143,Yamato 790755,Yamato,H5,chondrite,7.37,Found,1979,-71.5,35.66667
 28144,Yamato 790756,Yamato,H4,chondrite,699.1,Found,1979,-71.5,35.66667
-28145,Yamato 790757,Yamato,LL,unclassified,507.6,Found,1979,-71.5,35.66667
+28145,Yamato 790757,Yamato,LL,chondrite,507.6,Found,1979,-71.5,35.66667
 28146,Yamato 790760,Yamato,H4,chondrite,301.2,Found,1979,-71.5,35.66667
 28147,Yamato 790761,Yamato,H4,chondrite,95.69,Found,1979,-71.5,35.66667
 28148,Yamato 790764,Yamato,H5,chondrite,8.82,Found,1979,-71.5,35.66667
@@ -28158,9 +28158,9 @@
 28156,Yamato 790779,Yamato,H4,chondrite,30.62,Found,1979,-71.5,35.66667
 28157,Yamato 790780,Yamato,H4,chondrite,7.78,Found,1979,-71.5,35.66667
 28158,Yamato 790781,Yamato,H4,chondrite,122.39,Found,1979,-71.5,35.66667
-28159,Yamato 790782,Yamato,LL,unclassified,938.8,Found,1979,-71.5,35.66667
+28159,Yamato 790782,Yamato,LL,chondrite,938.8,Found,1979,-71.5,35.66667
 28160,Yamato 790783,Yamato,LL6,chondrite,468.9,Found,1979,-71.5,35.66667
-28161,Yamato 790784,Yamato,LL,unclassified,188.01,Found,1979,-71.5,35.66667
+28161,Yamato 790784,Yamato,LL,chondrite,188.01,Found,1979,-71.5,35.66667
 28162,Yamato 790785,Yamato,LL6,chondrite,177.83,Found,1979,-71.5,35.66667
 28163,Yamato 790786,Yamato,LL6,chondrite,77.27,Found,1979,-71.5,35.66667
 28164,Yamato 790787,Yamato,L3.1,chondrite,46.08,Found,1979,-71.5,35.66667
@@ -28334,7 +28334,7 @@
 28332,Yamato 790960,Yamato,H7,chondrite,20.82,Found,1979,-71.5,35.66667
 28333,Yamato 790962,Yamato,H3/4,chondrite,0.92,Found,1979,-71.5,35.66667
 28334,Yamato 790963,Yamato,H3/4,chondrite,40.32,Found,1979,-71.5,35.66667
-28335,Yamato 790964,Yamato,LL,unclassified,3335.0,Found,1979,-71.5,35.66667
+28335,Yamato 790964,Yamato,LL,chondrite,3335.0,Found,1979,-71.5,35.66667
 28336,Yamato 790965,Yamato,L4,chondrite,78.75,Found,1979,-71.5,35.66667
 28337,Yamato 790969,Yamato,L6,chondrite,9.64,Found,1979,-71.5,35.66667
 28338,Yamato 790971,Yamato,H5,chondrite,8.72,Found,1979,-71.5,35.66667
@@ -28676,8 +28676,8 @@
 28674,Yamato 791315,Yamato,H4,chondrite,352.57,Found,1979,-71.5,35.66667
 28675,Yamato 791316,Yamato,L6,chondrite,283.11,Found,1979,-71.5,35.66667
 28676,Yamato 791317,Yamato,L6,chondrite,164.42,Found,1979,-71.5,35.66667
-28677,Yamato 791318,Yamato,H,unclassified,265.96,Found,1979,-71.5,35.66667
-28678,Yamato 791319,Yamato,L,unclassified,137.4,Found,1979,-71.5,35.66667
+28677,Yamato 791318,Yamato,H,chondrite,265.96,Found,1979,-71.5,35.66667
+28678,Yamato 791319,Yamato,L,chondrite,137.4,Found,1979,-71.5,35.66667
 28679,Yamato 791320,Yamato,H6,chondrite,128.09,Found,1979,-71.5,35.66667
 28680,Yamato 791321,Yamato,H6,chondrite,65.21,Found,1979,-71.5,35.66667
 28681,Yamato 791322,Yamato,L6,chondrite,141.06,Found,1979,-71.5,35.66667
@@ -28835,9 +28835,9 @@
 28833,Yamato 791488,Yamato,H5,chondrite,8.08,Found,1979,-71.5,35.66667
 28834,Yamato 791489,Yamato,Howardite,achondrite,5.51,Found,1979,-71.5,35.66667
 28835,Yamato 791490,Yamato,H5,chondrite,10.09,Found,1979,-71.5,35.66667
-28836,Yamato 791491,Yamato,Lodranite,unclassified,31.6,Found,1979,-71.5,35.66667
+28836,Yamato 791491,Yamato,Lodranite,achondrite,31.6,Found,1979,-71.5,35.66667
 28837,Yamato 791492,Yamato,Howardite,achondrite,41.12,Found,1979,-71.5,35.66667
-28838,Yamato 791493,Yamato,Lodranite,unclassified,5.13,Found,1979,-71.5,35.66667
+28838,Yamato 791493,Yamato,Lodranite,achondrite,5.13,Found,1979,-71.5,35.66667
 28839,Yamato 791494,Yamato,L5,chondrite,20.88,Found,1979,-71.5,35.66667
 28840,Yamato 791495,Yamato,H5,chondrite,45.29,Found,1979,-71.5,35.66667
 28841,Yamato 791496,Yamato,L4/5,chondrite,5.37,Found,1979,-71.5,35.66667
@@ -28880,11 +28880,11 @@
 28878,Yamato 791536,Yamato,LL6,chondrite,839.0,Found,1979,-71.5,35.66667
 28879,Yamato 791537,Yamato,H3.6,chondrite,66.18,Found,1979,-71.5,35.66667
 28880,Yamato 791538,Yamato,Ureilite,achondrite,419.03,Found,1979,-71.5,35.66667
-28881,Yamato 791539,Yamato,LL,unclassified,1907.0,Found,1979,-71.5,35.66667
-28882,Yamato 791540,Yamato,LL,unclassified,9.95,Found,1979,-71.5,35.66667
-28883,Yamato 791541,Yamato,LL,unclassified,5.79,Found,1979,-71.5,35.66667
-28884,Yamato 791542,Yamato,LL,unclassified,2.44,Found,1979,-71.5,35.66667
-28885,Yamato 791543,Yamato,LL,unclassified,0.99,Found,1979,-71.5,35.66667
+28881,Yamato 791539,Yamato,LL,chondrite,1907.0,Found,1979,-71.5,35.66667
+28882,Yamato 791540,Yamato,LL,chondrite,9.95,Found,1979,-71.5,35.66667
+28883,Yamato 791541,Yamato,LL,chondrite,5.79,Found,1979,-71.5,35.66667
+28884,Yamato 791542,Yamato,LL,chondrite,2.44,Found,1979,-71.5,35.66667
+28885,Yamato 791543,Yamato,LL,chondrite,0.99,Found,1979,-71.5,35.66667
 28886,Yamato 791544,Yamato,H6,chondrite,1.58,Found,1979,-71.5,35.66667
 28887,Yamato 791545,Yamato,L4,chondrite,195.17,Found,1979,-71.5,35.66667
 28888,Yamato 791546,Yamato,H4,chondrite,76.87,Found,1979,-71.5,35.66667
@@ -29276,9 +29276,9 @@
 29274,Yamato 791946,Yamato,H4,chondrite,1.47,Found,1979,-71.5,35.66667
 29275,Yamato 791947,Yamato,H4,chondrite,1.1,Found,1979,-71.5,35.66667
 29276,Yamato 791948,Yamato,H4,chondrite,79.9,Found,1979,-71.5,35.66667
-29277,Yamato 791949,Yamato,H,unclassified,96.45,Found,1979,-71.5,35.66667
-29278,Yamato 791950,Yamato,H,unclassified,9.49,Found,1979,-71.5,35.66667
-29279,Yamato 791951,Yamato,H,unclassified,9.55,Found,1979,-71.5,35.66667
+29277,Yamato 791949,Yamato,H,chondrite,96.45,Found,1979,-71.5,35.66667
+29278,Yamato 791950,Yamato,H,chondrite,9.49,Found,1979,-71.5,35.66667
+29279,Yamato 791951,Yamato,H,chondrite,9.55,Found,1979,-71.5,35.66667
 29280,Yamato 791952,Yamato,H6,chondrite,7.79,Found,1979,-71.5,35.66667
 29281,Yamato 791953,Yamato,L6,chondrite,2.17,Found,1979,-71.5,35.66667
 29282,Yamato 791954,Yamato,L6,chondrite,1.68,Found,1979,-71.5,35.66667
@@ -30069,7 +30069,7 @@
 30067,Yamato 793274,Yamato,Lunar (bas/anor),achondrite,8.66,Found,1979,-71.5,35.66667
 30068,Yamato 793275,Yamato,H3.8,chondrite,52.61,Found,1979,-71.5,35.66667
 30069,Yamato 793276,Yamato,H5,chondrite,4.39,Found,1979,-71.5,35.66667
-30070,Yamato 793277,Yamato,C,unclassified,2.23,Found,1979,-71.5,35.66667
+30070,Yamato 793277,Yamato,C,chondrite,2.23,Found,1979,-71.5,35.66667
 30071,Yamato 793278,Yamato,H4,chondrite,253.27,Found,1979,-71.5,35.66667
 30072,Yamato 793279,Yamato,H5,chondrite,18.78,Found,1979,-71.5,35.66667
 30073,Yamato 793280,Yamato,L6,chondrite,28.38,Found,1979,-71.5,35.66667
@@ -30178,7 +30178,7 @@
 30176,Yamato 793385,Yamato,L6,chondrite,44.3,Found,1979,-71.5,35.66667
 30177,Yamato 793386,Yamato,H4,chondrite,132.64,Found,1979,-71.5,35.66667
 30178,Yamato 793387,Yamato,H4,chondrite,17.26,Found,1979,-71.5,35.66667
-30179,Yamato 793388,Yamato,H,unclassified,8.24,Found,1979,-71.5,35.66667
+30179,Yamato 793388,Yamato,H,chondrite,8.24,Found,1979,-71.5,35.66667
 30180,Yamato 793389,Yamato,H4,chondrite,3.96,Found,1979,-71.5,35.66667
 30181,Yamato 793390,Yamato,H5,chondrite,18.17,Found,1979,-71.5,35.66667
 30182,Yamato 793391,Yamato,H5,chondrite,1.8,Found,1979,-71.5,35.66667
@@ -30260,7 +30260,7 @@
 30258,Yamato 793468,Yamato,L6,chondrite,8.43,Found,1979,-71.5,35.66667
 30259,Yamato 793469,Yamato,L6,chondrite,1.16,Found,1979,-71.5,35.66667
 30260,Yamato 793470,Yamato,L6,chondrite,101.41,Found,1979,-71.5,35.66667
-30261,Yamato 793471,Yamato,H,unclassified,16.34,Found,1979,-71.5,35.66667
+30261,Yamato 793471,Yamato,H,chondrite,16.34,Found,1979,-71.5,35.66667
 30262,Yamato 793472,Yamato,H6,chondrite,10.08,Found,1979,-71.5,35.66667
 30263,Yamato 793473,Yamato,H4,chondrite,6.05,Found,1979,-71.5,35.66667
 30264,Yamato 793474,Yamato,H4,chondrite,5.53,Found,1979,-71.5,35.66667
@@ -30290,10 +30290,10 @@
 30288,Yamato 793499,Yamato,L4,chondrite,10.16,Found,1979,-71.5,35.66667
 30289,Yamato 793500,Yamato,CM2,chondrite,5.67,Found,1979,-71.5,35.66667
 30290,Yamato 793501,Yamato,H4,chondrite,305.66,Found,1979,-71.5,35.66667
-30291,Yamato 793502,Yamato,L,unclassified,1.0,Found,1979,-71.5,35.66667
+30291,Yamato 793502,Yamato,L,chondrite,1.0,Found,1979,-71.5,35.66667
 30292,Yamato 793503,Yamato,H6,chondrite,14.29,Found,1979,-71.5,35.66667
 30293,Yamato 793504,Yamato,H4,chondrite,2.42,Found,1979,-71.5,35.66667
-30294,Yamato 793505,Yamato,H,unclassified,1.12,Found,1979,-71.5,35.66667
+30294,Yamato 793505,Yamato,H,chondrite,1.12,Found,1979,-71.5,35.66667
 30295,Yamato 793506,Yamato,LL6,chondrite,939.0,Found,1979,-71.5,35.66667
 30296,Yamato 793507,Yamato,H5,chondrite,9.41,Found,1979,-71.5,35.66667
 30297,Yamato 793508,Yamato,L6,chondrite,165.57,Found,1979,-71.5,35.66667
@@ -30320,11 +30320,11 @@
 30318,Yamato 793530,Yamato,CM2,chondrite,3.33,Found,1979,-71.5,35.66667
 30319,Yamato 793531,Yamato,H6,chondrite,5.04,Found,1979,-71.5,35.66667
 30320,Yamato 793533,Yamato,LL6,chondrite,510.32,Found,1979,-71.5,35.66667
-30321,Yamato 793534,Yamato,L,unclassified,706.0,Found,1979,-71.5,35.66667
+30321,Yamato 793534,Yamato,L,chondrite,706.0,Found,1979,-71.5,35.66667
 30322,Yamato 793535,Yamato,H6,chondrite,411.47,Found,1979,-71.5,35.66667
 30323,Yamato 793536,Yamato,H6,chondrite,87.67,Found,1979,-71.5,35.66667
 30324,Yamato 793537,Yamato,H6,chondrite,56.91,Found,1979,-71.5,35.66667
-30325,Yamato 793538,Yamato,H,unclassified,5.63,Found,1979,-71.5,35.66667
+30325,Yamato 793538,Yamato,H,chondrite,5.63,Found,1979,-71.5,35.66667
 30326,Yamato 793539,Yamato,LL6,chondrite,1224.0,Found,1979,-71.5,35.66667
 30327,Yamato 793540,Yamato,H5,chondrite,6.68,Found,1979,-71.5,35.66667
 30328,Yamato 793541,Yamato,Howardite,achondrite,24.82,Found,1979,-71.5,35.66667
@@ -30367,7 +30367,7 @@
 30365,Yamato 793578,Yamato,L3,chondrite,3.48,Found,1979,-71.5,35.66667
 30366,Yamato 793579,Yamato,H6,chondrite,8.65,Found,1979,-71.5,35.66667
 30367,Yamato 793580,Yamato,H6,chondrite,37.82,Found,1979,-71.5,35.66667
-30368,Yamato 793581,Yamato,C,unclassified,11.44,Found,1979,-71.5,35.66667
+30368,Yamato 793581,Yamato,C,chondrite,11.44,Found,1979,-71.5,35.66667
 30369,Yamato 793582,Yamato,H4,chondrite,99.49,Found,1979,-71.5,35.66667
 30370,Yamato 793583,Yamato,L6,chondrite,8.87,Found,1979,-71.5,35.66667
 30371,Yamato 793584,Yamato,LL6,chondrite,21.56,Found,1979,-71.5,35.66667
@@ -30385,7 +30385,7 @@
 30383,Yamato 793596,Yamato,LL3.2,chondrite,62.93,Found,1979,-71.5,35.66667
 30384,Yamato 793597,Yamato,L6,chondrite,288.1,Found,1979,-71.5,35.66667
 30385,Yamato 793598,Yamato,Iron,iron,138.23,Found,1979,-71.5,35.66667
-30386,Yamato 793599,Yamato,LL,unclassified,119.3,Found,1979,-71.5,35.66667
+30386,Yamato 793599,Yamato,LL,chondrite,119.3,Found,1979,-71.5,35.66667
 30387,Yamato 793600,Yamato,Eucrite,achondrite,54.15,Found,1979,-71.5,35.66667
 30388,Yamato 793601,Yamato,CM2,chondrite,13.49,Found,1979,-71.5,35.66667
 30389,Yamato 793605,Yamato,Martian (shergottite),achondrite,16.0,Found,1979,-71.5,35.66667
@@ -30412,7 +30412,7 @@
 30410,Yamato 794021,Yamato,H5,chondrite,5.17,Found,1979,-71.5,35.66667
 30411,Yamato 794022,Yamato,H6,chondrite,2.7,Found,2010,2010.0,35.66667
 30412,Yamato 794023,Yamato,H4,chondrite,25.82,Found,1979,-71.5,35.66667
-30413,Yamato 794024,Yamato,LL,unclassified,16.82,Found,1979,-71.5,35.66667
+30413,Yamato 794024,Yamato,LL,chondrite,16.82,Found,1979,-71.5,35.66667
 30414,Yamato 794025,Yamato,H5,chondrite,56.24,Found,1979,-71.5,35.66667
 30415,Yamato 794026,Yamato,L6,chondrite,1.2,Found,1979,-71.5,35.66667
 30416,Yamato 794027,Yamato,H6,chondrite,2.02,Found,1979,-71.5,35.66667
@@ -30476,7 +30476,7 @@
 30474,Yamato 794092,Yamato,L6,chondrite,41.83,Found,1979,-71.5,35.66667
 30475,Yamato 794093,Yamato,L6,chondrite,60.16,Found,1979,-71.5,35.66667
 30476,Yamato 8001,Yamato,L6,chondrite,22.68,Found,1980,-71.83333,35.5
-30477,Yamato 8002,Yamato,Lodranite,unclassified,2.27,Found,1980,-71.5,35.66667
+30477,Yamato 8002,Yamato,Lodranite,achondrite,2.27,Found,1980,-71.5,35.66667
 30478,Yamato 8003,Yamato,L6,chondrite,20.43,Found,1980,-71.5,35.66667
 30479,Yamato 8004,Yamato,L6,chondrite,77.59,Found,1980,-71.5,35.66667
 30480,Yamato 8005,Yamato,Winonaite,achondrite,29.02,Found,1980,-71.5,35.66667
@@ -30753,7 +30753,7 @@
 30751,Yamato 82159,Yamato,L6,chondrite,5.04,Found,1982,-71.5,35.66667
 30752,Yamato 82160,Yamato,H4,chondrite,3.08,Found,1982,-71.5,35.66667
 30753,Yamato 82161,Yamato,H6,chondrite,757.56,Found,1982,-71.5,35.66667
-30754,Yamato 82162,Yamato,C1/2-ung,unclassified,41.73,Found,1982,-71.5,35.66667
+30754,Yamato 82162,Yamato,C1/2-ung,chondrite,41.73,Found,1982,-71.5,35.66667
 30755,Yamato 82163,Yamato,H6,chondrite,3622.0,Found,1982,-71.5,35.66667
 30756,Yamato 82164,Yamato,H4,chondrite,398.66,Found,1982,-71.5,35.66667
 30757,Yamato 82165,Yamato,L6,chondrite,35.9,Found,1982,-71.5,35.66667
@@ -30929,7 +30929,7 @@
 30927,Yamato 86025,Yamato,L6,chondrite,4.08,Found,1986,-71.5,35.66667
 30928,Yamato 86026,Yamato,L6,chondrite,2.44,Found,1986,-71.5,35.66667
 30929,Yamato 86027,Yamato,L6,chondrite,2.21,Found,1986,-71.5,35.66667
-30930,Yamato 86028,Yamato,C6,unclassified,3.92,Found,1986,-71.5,35.66667
+30930,Yamato 86028,Yamato,C6,chondrite,3.92,Found,1986,-71.5,35.66667
 30931,Yamato 86029,Yamato,CI1,chondrite,11.83,Found,1986,-71.5,35.66667
 30932,Yamato 86030,Yamato,L6,chondrite,10.72,Found,1986,-71.5,35.66667
 30933,Yamato 86031,Yamato,L6,chondrite,10.29,Found,1986,-71.5,35.66667
@@ -31531,7 +31531,7 @@
 31529,Yamato 86630,Yamato,H4,chondrite,27.56,Found,1986,-71.5,35.66667
 31530,Yamato 86631,Yamato,L3.8,chondrite,33.94,Found,1986,-71.5,35.66667
 31531,Yamato 86632,Yamato,L3.6,chondrite,96.59,Found,1986,-71.5,35.66667
-31532,Yamato 86633,Yamato,C4,unclassified,3.96,Found,1986,-71.5,35.66667
+31532,Yamato 86633,Yamato,C4,chondrite,3.96,Found,1986,-71.5,35.66667
 31533,Yamato 86634,Yamato,H5,chondrite,27.94,Found,1986,-71.5,35.66667
 31534,Yamato 86635,Yamato,H6,chondrite,121.6,Found,1986,-71.5,35.66667
 31535,Yamato 86636,Yamato,H5,chondrite,82.9,Found,1986,-71.5,35.66667
@@ -31573,7 +31573,7 @@
 31571,Yamato 86717,Yamato,L6,chondrite,14.73,Found,1986,-71.5,35.66667
 31572,Yamato 86718,Yamato,L5,chondrite,95.55,Found,1986,-71.5,35.66667
 31573,Yamato 86719,Yamato,L4,chondrite,68.64,Found,1986,-71.5,35.66667
-31574,Yamato 86720,Yamato,C2-ung,unclassified,858.71,Found,1986,-71.5,35.66667
+31574,Yamato 86720,Yamato,C2-ung,chondrite,858.71,Found,1986,-71.5,35.66667
 31575,Yamato 86721,Yamato,L6,chondrite,1.74,Found,1986,-71.5,35.66667
 31576,Yamato 86722,Yamato,LL6,chondrite,79.04,Found,1986,-71.5,35.66667
 31577,Yamato 86723,Yamato,LL6,chondrite,2.57,Found,1986,-71.5,35.66667
@@ -31616,16 +31616,16 @@
 31614,Yamato 86761,Yamato,L6,chondrite,5.57,Found,1986,-71.5,35.66667
 31615,Yamato 86762,Yamato,Eucrite-pmict,achondrite,27.34,Found,1986,-71.5,35.66667
 31616,Yamato 86763,Yamato,Eucrite-cm,achondrite,10.42,Found,1986,-71.5,35.66667
-31617,Yamato 86767,Yamato,C,unclassified,2.86,Found,1986,-71.5,35.66667
-31618,Yamato 86770,Yamato,C,unclassified,94.89,Found,1986,-71.5,35.66667
-31619,Yamato 86771,Yamato,C,unclassified,38.31,Found,1986,-71.5,35.66667
-31620,Yamato 86772,Yamato,C,unclassified,81.0,Found,1986,-71.5,35.66667
-31621,Yamato 86773,Yamato,C,unclassified,28.35,Found,1986,-71.5,35.66667
+31617,Yamato 86767,Yamato,C,chondrite,2.86,Found,1986,-71.5,35.66667
+31618,Yamato 86770,Yamato,C,chondrite,94.89,Found,1986,-71.5,35.66667
+31619,Yamato 86771,Yamato,C,chondrite,38.31,Found,1986,-71.5,35.66667
+31620,Yamato 86772,Yamato,C,chondrite,81.0,Found,1986,-71.5,35.66667
+31621,Yamato 86773,Yamato,C,chondrite,28.35,Found,1986,-71.5,35.66667
 31622,Yamato 86776,Yamato,LL4,chondrite,396.76,Found,1986,-71.5,35.66667
 31623,Yamato 86777,Yamato,L6,chondrite,80.48,Found,1986,-71.5,35.66667
 31624,Yamato 86779,Yamato,L6,chondrite,15.92,Found,1986,-71.5,35.66667
 31625,Yamato 86787,Yamato,L6,chondrite,4771.0,Found,1986,-71.5,35.66667
-31626,Yamato 86789,Yamato,C2-ung,unclassified,340.36,Found,1986,-71.5,35.66667
+31626,Yamato 86789,Yamato,C2-ung,chondrite,340.36,Found,1986,-71.5,35.66667
 31627,Yamato 86795,Yamato,Howardite,achondrite,9.07,Found,1986,-71.5,35.66667
 31628,Yamato 86796,Yamato,H6,chondrite,6140.0,Found,1986,-71.5,35.66667
 31629,Yamato 86808,Yamato,Diogenite,achondrite,16.44,Found,1986,-71.5,35.66667
@@ -31686,7 +31686,7 @@
 31684,Zaffra,Zaffra,"Iron, IAB-MG",iron,3000.0,Found,1919,35.0,-94.75
 31685,Zag (b),Zag,Winonaite,achondrite,300.0,Found,1999,27.33333,-9.33333
 31686,Zagora,Zagora,"Iron, IAB-ung",iron,50000.0,Found,1987,30.36667,-5.85
-31687,Zakłodzie,Zakłodzie,Enst achon-ung,unclassified,8680.0,Found,1998,50.76278,22.86611
+31687,Zakłodzie,Zakłodzie,Enst achon-ung,chondrite,8680.0,Found,1998,50.76278,22.86611
 31688,Zapaliname,Zapaliname,"Iron, IAB-MG",iron,85000.0,Found,1998,25.00944,-100.75
 31689,Zapotitlán Salinas,Zapotitlán,L4,chondrite,27.7,Found,1984,18.33333,-97.5
 31690,Zegdou,Zegdou,H3,chondrite,6700.0,Found,1998,29.75,-4.5
