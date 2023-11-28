@@ -37,11 +37,11 @@ def get_mass():
    # Convert the DataFrame to JSON and return
     return df_mass_name.to_json(orient="records")
 
-@app.route("/meteorite/name-comp")
+@app.route("/meteorite/name-parent_class")
 def get_comp():
     # Use a with statement to ensure the connection is closed after the query
     with engine.connect() as conn:
-        query = text("SELECT name, classification FROM meteorite;")
+        query = text("SELECT name, parent_class FROM meteorite;")
         df_name_comp = pd.read_sql(query, conn)
 
    # Convert the DataFrame to JSON and return
