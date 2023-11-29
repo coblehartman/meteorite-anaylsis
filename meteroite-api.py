@@ -26,7 +26,7 @@ db = SQLAlchemy(app)
 # Define SQLAlchemy engine
 engine = create_engine(app.config['SQLALCHEMY_DATABASE_URI'])
 
-# API to retrieve a full list of company info from the companies table
+# API to retrieve a full list of specific meteorite info
 @app.route("/meteorite/location-mass")
 def get_mass():
     # Use a with statement to ensure the connection is closed after the query
@@ -46,16 +46,6 @@ def get_comp():
 
    # Convert the DataFrame to JSON and return
     return df_name_comp.to_json(orient="records")
-
-# @app.route("/meteorite/name-comp")
-# def get_comp():
-#     # Use a with statement to ensure the connection is closed after the query
-#     with engine.connect() as conn:
-#         query = text("SELECT name, classification FROM meteorite;")
-#         df_name_comp = pd.read_sql(query, conn)
-
-#    # Convert the DataFrame to JSON and return
-#     return df_name_comp.to_json(orient="records")
 
 if __name__ == '__main__':
     app.run(debug=True)
