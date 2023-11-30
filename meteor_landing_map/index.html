@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=5.0">
+  <title>NASA Meteorite Landings Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 1000px;
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script>
+
+const map = L.map('map').setView([0, 0], 2);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: 'Map data &copy; OpenStreetMap contributors'
+}).addTo(map);
+
+const apiUrl = 'https://data.nasa.gov/resource/gh4g-9sfh.json';
+
+
+fetch(apiUrl)
+  .then(response => response.json())
+  .then(data => {
+    
+    data.forEach(item => {
+     
+      if (item.reclat !== undefined && item.reclong !== undefined && item.year !== undefined) {
+        const marker = L.marker([item.reclat, item.reclong])
+          .addTo(map)
+          .bindPopup(`<b>${item.name}</b><br/>Mass: ${item.mass || 'N/A'} grams<br/>Year: ${item.year}`);
+      }
+    });
+  })
+  .catch(error => {
+    console.error('Error fetching data:', error);
+  });
+
+</script>
+
+</body>
+</html>
